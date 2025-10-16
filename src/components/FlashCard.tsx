@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import type { FlashCardData } from '../types/vocabulary';
 import { useSpeechRecognition } from '../hooks/useSpeechRecognition';
 import { speakText, isTTSSupported } from '../utils/textToSpeech';
@@ -15,20 +15,53 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
   const [imageError, setImageError] = useState(false);
   const [showSuccess, setShowSuccess] = useState(false);
   const [ttsSupported] = useState(isTTSSupported());
+  const isFlippedRef = useRef(isFlipped);
+  const flipTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+
+  // Update ref when isFlipped changes
+  useEffect(() => {
+    isFlippedRef.current = isFlipped;
+  }, [isFlipped]);
+
+  // Reset states when card changes
+  useEffect(() => {
+    setShowSuccess(false);
+    setImageLoaded(false);
+    setImageError(false);
+
+    // Clear any pending flip timeout
+    if (flipTimeoutRef.current) {
+      clearTimeout(flipTimeoutRef.current);
+      flipTimeoutRef.current = null;
+    }
+  }, [card.id]);
 
   // Handle successful speech recognition match
   const handleMatch = useCallback(() => {
+    // Only proceed if card is not flipped and no success animation is showing
+    if (isFlippedRef.current || showSuccess) {
+      return;
+    }
+
     setShowSuccess(true);
+
+    // Clear any existing timeout
+    if (flipTimeoutRef.current) {
+      clearTimeout(flipTimeoutRef.current);
+    }
+
     // Trigger flip after animation
-    setTimeout(() => {
-      if (!isFlipped) {
+    flipTimeoutRef.current = setTimeout(() => {
+      if (!isFlippedRef.current) {
         onFlip();
       }
-      setTimeout(() => {
+      // Clear success state after flip
+      flipTimeoutRef.current = setTimeout(() => {
         setShowSuccess(false);
+        flipTimeoutRef.current = null;
       }, 100);
     }, 1500);
-  }, [onFlip, isFlipped]);
+  }, [onFlip, showSuccess]);
 
   const {
     isSupported: speechSupported,
@@ -46,6 +79,15 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
       toggleListening();
     }
   }, [isFlipped, isListening, toggleListening]);
+
+  // Cleanup on unmount
+  useEffect(() => {
+    return () => {
+      if (flipTimeoutRef.current) {
+        clearTimeout(flipTimeoutRef.current);
+      }
+    };
+  }, []);
 
   // Handle pronunciation on back side
   const handleSpeak = useCallback((e: React.MouseEvent) => {
