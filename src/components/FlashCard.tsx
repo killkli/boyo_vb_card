@@ -1,5 +1,7 @@
-import { useState } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import type { FlashCardData } from '../types/vocabulary';
+import { useSpeechRecognition } from '../hooks/useSpeechRecognition';
+import { speakText, isTTSSupported } from '../utils/textToSpeech';
 
 interface FlashCardProps {
   card: FlashCardData;
@@ -11,6 +13,41 @@ interface FlashCardProps {
 export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashCardProps) {
   const [imageLoaded, setImageLoaded] = useState(false);
   const [imageError, setImageError] = useState(false);
+  const [showSuccess, setShowSuccess] = useState(false);
+  const [ttsSupported] = useState(isTTSSupported());
+
+  // Handle successful speech recognition match
+  const handleMatch = useCallback(() => {
+    setShowSuccess(true);
+    // Trigger flip after animation
+    setTimeout(() => {
+      onFlip();
+      setShowSuccess(false);
+    }, 1500);
+  }, [onFlip]);
+
+  const {
+    isSupported: speechSupported,
+    isListening,
+    transcript,
+    toggleListening,
+  } = useSpeechRecognition({
+    targetWord: card.word,
+    onMatch: handleMatch,
+  });
+
+  // Stop listening when card flips or changes
+  useEffect(() => {
+    if (isFlipped && isListening) {
+      toggleListening();
+    }
+  }, [isFlipped, isListening, toggleListening]);
+
+  // Handle pronunciation on back side
+  const handleSpeak = useCallback((e: React.MouseEvent) => {
+    e.stopPropagation();
+    speakText(card.word, 'en-US');
+  }, [card.word]);
 
   return (
     <div className="card-flip-container w-full h-full flex items-center justify-center px-4">
@@ -35,6 +72,20 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
             <div className="flex flex-col items-center gap-3">
               <div className="w-12 h-12 border-4 border-indigo-200 border-t-indigo-600 rounded-full animate-spin"></div>
               <p className="text-gray-600 text-sm md:text-base font-medium">載入中...</p>
+            </div>
+          </div>
+        )}
+
+        {/* Success overlay */}
+        {showSuccess && (
+          <div className="absolute inset-0 z-40 bg-green-500/90 backdrop-blur-sm rounded-xl md:rounded-2xl flex items-center justify-center animate-pulse">
+            <div className="flex flex-col items-center gap-4">
+              <div className="w-20 h-20 bg-white rounded-full flex items-center justify-center">
+                <svg className="w-12 h-12 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
+                </svg>
+              </div>
+              <p className="text-white text-2xl md:text-3xl font-bold">答對了！🎉</p>
             </div>
           </div>
         )}
@@ -88,8 +139,43 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
             </p>
           </div>
 
+          {/* Speech Recognition Controls */}
+          {speechSupported && (
+            <div className="w-full flex flex-col items-center gap-3 mt-3">
+              <button
+                onClick={(e) => {
+                  e.stopPropagation();
+                  toggleListening();
+                }}
+                className={`w-14 h-14 md:w-16 md:h-16 rounded-full flex items-center justify-center transition-all transform hover:scale-110 shadow-lg ${
+                  isListening
+                    ? 'bg-red-500 hover:bg-red-600 animate-pulse'
+                    : 'bg-indigo-500 hover:bg-indigo-600'
+                }`}
+                aria-label={isListening ? '停止錄音' : '開始語音辨識'}
+              >
+                <svg className="w-8 h-8 md:w-10 md:h-10 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
+                </svg>
+              </button>
+
+              <div className="text-center">
+                {isListening ? (
+                  <div className="flex flex-col gap-1">
+                    <p className="text-red-600 text-sm md:text-base font-semibold">🎤 正在聽...</p>
+                    {transcript && (
+                      <p className="text-gray-600 text-xs md:text-sm">聽到: {transcript}</p>
+                    )}
+                  </div>
+                ) : (
+                  <p className="text-indigo-600 text-xs md:text-sm">點擊麥克風說出英文單字</p>
+                )}
+              </div>
+            </div>
+          )}
+
           {/* Hint */}
-          <div className="text-indigo-600 text-xs md:text-sm flex items-center gap-2 mt-3">
+          <div className="text-indigo-600 text-xs md:text-sm flex items-center gap-2 mt-2">
             <svg className="w-4 h-4 md:w-5 md:h-5" fill="currentColor" viewBox="0 0 20 20">
               <path
                 fillRule="evenodd"
@@ -97,17 +183,31 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
                 clipRule="evenodd"
               />
             </svg>
-            <span>點擊翻卡查看英文</span>
+            <span>或點擊卡片查看英文</span>
           </div>
         </div>
 
         {/* Back Side - 英文單字 + 詳細解釋 */}
         <div className="card-back absolute inset-0 rounded-xl md:rounded-2xl shadow-xl bg-gradient-to-br from-green-50 to-emerald-50 p-4 md:p-6 flex flex-col items-center justify-start overflow-y-auto">
-          {/* English Word */}
+          {/* English Word with Pronunciation */}
           <div className="bg-white rounded-lg md:rounded-xl shadow-lg px-6 py-4 md:px-8 md:py-6 mb-4 md:mb-6 w-full">
-            <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-800 text-center break-words">
-              {card.word}
-            </h2>
+            <div className="flex items-center justify-center gap-4">
+              <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-800 text-center break-words">
+                {card.word}
+              </h2>
+              {ttsSupported && (
+                <button
+                  onClick={handleSpeak}
+                  className="flex-shrink-0 w-12 h-12 md:w-14 md:h-14 bg-green-500 hover:bg-green-600 rounded-full flex items-center justify-center transition-all transform hover:scale-110 shadow-lg"
+                  aria-label="發音"
+                  title="點擊發音"
+                >
+                  <svg className="w-6 h-6 md:w-7 md:h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z" />
+                  </svg>
+                </button>
+              )}
+            </div>
           </div>
 
           {/* Detailed Explanation Section */}
