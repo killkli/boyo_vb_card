@@ -1,4 +1,5 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
+import { normalizeText } from '../utils/textNormalization';
 
 interface UseSpeechRecognitionOptions {
   onResult?: (transcript: string) => void;
@@ -32,19 +33,24 @@ export function useSpeechRecognition({
 
       recognitionRef.current.onresult = (event: any) => {
         const current = event.resultIndex;
-        const transcriptText = event.results[current][0].transcript.toLowerCase().trim();
+        const transcriptText = event.results[current][0].transcript.trim();
 
         setTranscript(transcriptText);
         onResult?.(transcriptText);
 
-        // Check if transcript matches target word
-        if (targetWord && transcriptText === targetWord.toLowerCase()) {
-          // Stop listening first to prevent multiple triggers
-          if (recognitionRef.current) {
-            recognitionRef.current.stop();
+        // Check if transcript matches target word using normalized comparison
+        if (targetWord) {
+          const normalizedTranscript = normalizeText(transcriptText);
+          const normalizedTarget = normalizeText(targetWord);
+
+          if (normalizedTranscript === normalizedTarget) {
+            // Stop listening first to prevent multiple triggers
+            if (recognitionRef.current) {
+              recognitionRef.current.stop();
+            }
+            setIsListening(false);
+            onMatch?.();
           }
-          setIsListening(false);
-          onMatch?.();
         }
       };
 

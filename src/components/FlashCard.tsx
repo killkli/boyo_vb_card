@@ -2,6 +2,7 @@ import { useState, useEffect, useCallback, useRef } from 'react';
 import type { FlashCardData } from '../types/vocabulary';
 import { useSpeechRecognition } from '../hooks/useSpeechRecognition';
 import { speakText, isTTSSupported } from '../utils/textToSpeech';
+import { strictCompare } from '../utils/textNormalization';
 
 interface FlashCardProps {
   card: FlashCardData;
@@ -14,9 +15,13 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
   const [imageLoaded, setImageLoaded] = useState(false);
   const [imageError, setImageError] = useState(false);
   const [showSuccess, setShowSuccess] = useState(false);
+  const [showError, setShowError] = useState(false);
   const [ttsSupported] = useState(isTTSSupported());
+  const [inputMode, setInputMode] = useState<'speech' | 'keyboard'>('speech');
+  const [keyboardInput, setKeyboardInput] = useState('');
   const isFlippedRef = useRef(isFlipped);
-  const flipTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+  const flipTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
 
   // Update ref when isFlipped changes
   useEffect(() => {
@@ -26,8 +31,10 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
   // Reset states when card changes
   useEffect(() => {
     setShowSuccess(false);
+    setShowError(false);
     setImageLoaded(false);
     setImageError(false);
+    setKeyboardInput('');
 
     // Clear any pending flip timeout
     if (flipTimeoutRef.current) {
@@ -89,11 +96,58 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
     };
   }, []);
 
+  // Handle keyboard input submission
+  const handleKeyboardSubmit = useCallback((e: React.FormEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+
+    if (!keyboardInput.trim() || isFlippedRef.current || showSuccess) {
+      return;
+    }
+
+    // Strict comparison for keyboard input
+    if (strictCompare(keyboardInput, card.word)) {
+      // Correct answer
+      setShowSuccess(true);
+      setKeyboardInput('');
+
+      // Clear any existing timeout
+      if (flipTimeoutRef.current) {
+        clearTimeout(flipTimeoutRef.current);
+      }
+
+      // Trigger flip after animation
+      flipTimeoutRef.current = setTimeout(() => {
+        if (!isFlippedRef.current) {
+          onFlip();
+        }
+        // Clear success state after flip
+        flipTimeoutRef.current = setTimeout(() => {
+          setShowSuccess(false);
+          flipTimeoutRef.current = null;
+        }, 100);
+      }, 1500);
+    } else {
+      // Wrong answer - show error feedback
+      setShowError(true);
+      setTimeout(() => {
+        setShowError(false);
+      }, 1000);
+    }
+  }, [keyboardInput, card.word, onFlip, showSuccess]);
+
   // Handle pronunciation on back side
   const handleSpeak = useCallback((e: React.MouseEvent) => {
     e.stopPropagation();
     speakText(card.word, 'en-US');
   }, [card.word]);
+
+  // Handle input mode toggle
+  const toggleInputMode = useCallback((e: React.MouseEvent) => {
+    e.stopPropagation();
+    setInputMode(prev => prev === 'speech' ? 'keyboard' : 'speech');
+    setKeyboardInput('');
+  }, []);
 
   // Handle card click with protection during success animation
   const handleCardClick = useCallback(() => {
@@ -139,6 +193,20 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
                 </svg>
               </div>
               <p className="text-white text-2xl md:text-3xl font-bold">答對了！🎉</p>
+            </div>
+          </div>
+        )}
+
+        {/* Error overlay */}
+        {showError && (
+          <div className="absolute inset-0 z-40 bg-red-500/90 backdrop-blur-sm rounded-xl md:rounded-2xl flex items-center justify-center animate-pulse">
+            <div className="flex flex-col items-center gap-4">
+              <div className="w-20 h-20 bg-white rounded-full flex items-center justify-center">
+                <svg className="w-12 h-12 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </div>
+              <p className="text-white text-2xl md:text-3xl font-bold">再試一次！</p>
             </div>
           </div>
         )}
@@ -192,40 +260,95 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
             </p>
           </div>
 
-          {/* Speech Recognition Controls */}
-          {speechSupported && (
-            <div className="w-full flex flex-col items-center gap-3 mt-3">
+          {/* Input Controls - Speech or Keyboard */}
+          <div className="w-full flex flex-col items-center gap-3 mt-3">
+            {/* Mode Toggle Button */}
+            <div className="flex items-center gap-2">
               <button
-                onClick={(e) => {
-                  e.stopPropagation();
-                  toggleListening();
-                }}
-                className={`w-14 h-14 md:w-16 md:h-16 rounded-full flex items-center justify-center transition-all transform hover:scale-110 shadow-lg ${
-                  isListening
-                    ? 'bg-red-500 hover:bg-red-600 animate-pulse'
-                    : 'bg-indigo-500 hover:bg-indigo-600'
-                }`}
-                aria-label={isListening ? '停止錄音' : '開始語音辨識'}
+                onClick={toggleInputMode}
+                className="px-4 py-2 rounded-full bg-gray-200 hover:bg-gray-300 transition-colors text-sm font-medium text-gray-700 flex items-center gap-2"
               >
-                <svg className="w-8 h-8 md:w-10 md:h-10 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
-                </svg>
-              </button>
-
-              <div className="text-center">
-                {isListening ? (
-                  <div className="flex flex-col gap-1">
-                    <p className="text-red-600 text-sm md:text-base font-semibold">🎤 正在聽...</p>
-                    {transcript && (
-                      <p className="text-gray-600 text-xs md:text-sm">聽到: {transcript}</p>
-                    )}
-                  </div>
+                {inputMode === 'speech' ? (
+                  <>
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
+                    </svg>
+                    切換到鍵盤輸入
+                  </>
                 ) : (
-                  <p className="text-indigo-600 text-xs md:text-sm">點擊麥克風說出英文單字</p>
+                  <>
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
+                    </svg>
+                    切換到語音輸入
+                  </>
                 )}
-              </div>
+              </button>
             </div>
-          )}
+
+            {/* Speech Recognition Mode */}
+            {inputMode === 'speech' && speechSupported && (
+              <>
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    toggleListening();
+                  }}
+                  className={`w-14 h-14 md:w-16 md:h-16 rounded-full flex items-center justify-center transition-all transform hover:scale-110 shadow-lg ${
+                    isListening
+                      ? 'bg-red-500 hover:bg-red-600 animate-pulse'
+                      : 'bg-indigo-500 hover:bg-indigo-600'
+                  }`}
+                  aria-label={isListening ? '停止錄音' : '開始語音辨識'}
+                >
+                  <svg className="w-8 h-8 md:w-10 md:h-10 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
+                  </svg>
+                </button>
+
+                <div className="text-center">
+                  {isListening ? (
+                    <div className="flex flex-col gap-1">
+                      <p className="text-red-600 text-sm md:text-base font-semibold">🎤 正在聽...</p>
+                      {transcript && (
+                        <p className="text-gray-600 text-xs md:text-sm">聽到: {transcript}</p>
+                      )}
+                    </div>
+                  ) : (
+                    <p className="text-indigo-600 text-xs md:text-sm">點擊麥克風說出英文單字</p>
+                  )}
+                </div>
+              </>
+            )}
+
+            {/* Keyboard Input Mode */}
+            {inputMode === 'keyboard' && (
+              <form onSubmit={handleKeyboardSubmit} className="w-full px-2" onClick={(e) => e.stopPropagation()}>
+                <div className="flex flex-col gap-2">
+                  <div className="flex gap-2">
+                    <input
+                      ref={inputRef}
+                      type="text"
+                      value={keyboardInput}
+                      onChange={(e) => setKeyboardInput(e.target.value)}
+                      placeholder="輸入英文單字..."
+                      className="flex-1 px-4 py-3 rounded-lg border-2 border-indigo-300 focus:border-indigo-500 focus:outline-none text-base md:text-lg"
+                      autoComplete="off"
+                      onClick={(e) => e.stopPropagation()}
+                    />
+                    <button
+                      type="submit"
+                      className="px-6 py-3 bg-indigo-500 hover:bg-indigo-600 text-white rounded-lg font-semibold transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                      disabled={!keyboardInput.trim()}
+                    >
+                      送出
+                    </button>
+                  </div>
+                  <p className="text-indigo-600 text-xs md:text-sm text-center">⌨️ 請輸入完整拼字（區分大小寫）</p>
+                </div>
+              </form>
+            )}
+          </div>
 
           {/* Hint */}
           <div className="text-indigo-600 text-xs md:text-sm flex items-center gap-2 mt-2">
