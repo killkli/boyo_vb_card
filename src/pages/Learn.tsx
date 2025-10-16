@@ -1,7 +1,6 @@
 import { useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { FlashCard } from '../components/FlashCard';
-import { ProgressBar } from '../components/ProgressBar';
 import { useLevelData } from '../hooks/useLevelData';
 import { useFlashCards } from '../hooks/useFlashCards';
 
