@@ -15,6 +15,7 @@ export function Learn() {
     currentIndex,
     totalCards,
     isFlipped,
+    isImageLoading,
     hasNext,
     hasPrevious,
     flipCard,
@@ -136,7 +137,7 @@ export function Learn() {
 
       {/* Flash Card - 填滿整個空間 */}
       <div className="absolute inset-0 flex items-center justify-center">
-        <FlashCard card={currentCard} isFlipped={isFlipped} onFlip={flipCard} />
+        <FlashCard card={currentCard} isFlipped={isFlipped} onFlip={flipCard} isLoading={isImageLoading} />
       </div>
 
       {/* Navigation Controls - 底部中央，更緊湊 */}
@@ -144,7 +145,7 @@ export function Learn() {
         {/* 上一張 */}
         <button
           onClick={previousCard}
-          disabled={!hasPrevious}
+          disabled={!hasPrevious || isImageLoading}
           className="w-10 h-10 md:w-12 md:h-12 flex items-center justify-center rounded-full hover:bg-indigo-50 transition-all disabled:opacity-30 disabled:cursor-not-allowed text-gray-700 hover:text-indigo-600 disabled:hover:text-gray-700 disabled:hover:bg-transparent"
           aria-label="上一張"
         >
@@ -174,7 +175,7 @@ export function Learn() {
         {/* 下一張 */}
         <button
           onClick={nextCard}
-          disabled={!hasNext}
+          disabled={!hasNext || isImageLoading}
           className="w-10 h-10 md:w-12 md:h-12 flex items-center justify-center rounded-full hover:bg-indigo-50 transition-all disabled:opacity-30 disabled:cursor-not-allowed text-gray-700 hover:text-indigo-600 disabled:hover:text-gray-700 disabled:hover:bg-transparent"
           aria-label="下一張"
         >

@@ -5,9 +5,10 @@ interface FlashCardProps {
   card: FlashCardData;
   isFlipped: boolean;
   onFlip: () => void;
+  isLoading?: boolean;
 }
 
-export function FlashCard({ card, isFlipped, onFlip }: FlashCardProps) {
+export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashCardProps) {
   const [imageLoaded, setImageLoaded] = useState(false);
   const [imageError, setImageError] = useState(false);
 
@@ -28,6 +29,16 @@ export function FlashCard({ card, isFlipped, onFlip }: FlashCardProps) {
         }}
         aria-label={isFlipped ? '點擊翻回正面' : '點擊翻卡查看英文'}
       >
+        {/* Loading overlay */}
+        {isLoading && (
+          <div className="absolute inset-0 z-30 bg-white/80 backdrop-blur-sm rounded-xl md:rounded-2xl flex items-center justify-center">
+            <div className="flex flex-col items-center gap-3">
+              <div className="w-12 h-12 border-4 border-indigo-200 border-t-indigo-600 rounded-full animate-spin"></div>
+              <p className="text-gray-600 text-sm md:text-base font-medium">載入中...</p>
+            </div>
+          </div>
+        )}
+
         {/* Front Side - 中文意思 + 圖片 */}
         <div className="card-front absolute inset-0 rounded-xl md:rounded-2xl shadow-xl bg-gradient-to-br from-blue-50 to-indigo-50 p-4 md:p-6 flex flex-col items-center justify-between overflow-hidden">
           {/* Image - 佔更大空間 */}
