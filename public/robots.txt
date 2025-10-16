@@ -1,0 +1,14 @@
+# robots.txt for VBCards - Boyo Foundation Vocabulary Learning Platform
+
+User-agent: *
+Allow: /
+
+# Disallow data files (they're large and not useful for SEO)
+Disallow: /data/
+
+# Allow images for indexing
+Allow: /data/*.png
+Allow: /data/*.jpg
+
+# Sitemap
+Sitemap: https://killkli.github.io/boyo_vb_card/sitemap.xml
