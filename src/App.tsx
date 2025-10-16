@@ -4,7 +4,7 @@ import { Learn } from './pages/Learn';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/boyo_vb_card">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/learn/:level" element={<Learn />} />
