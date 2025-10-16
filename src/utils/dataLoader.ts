@@ -7,7 +7,7 @@ import type { LevelManifest, LevelMetadata, FlashCardData } from '../types/vocab
  */
 export async function loadLevelManifest(level: number): Promise<LevelManifest> {
   try {
-    const response = await fetch(`/data/level_${level}_manifest.json`);
+    const response = await fetch(`${import.meta.env.BASE_URL}data/level_${level}_manifest.json`);
     if (!response.ok) {
       throw new Error(`Failed to load manifest for level ${level}`);
     }
@@ -51,7 +51,7 @@ export function toFlashCardData(word: any): FlashCardData {
   return {
     word: word.word,
     meaning: word.meaning,
-    imagePath: `/data/level_${word.level}/${word.filename}`,
+    imagePath: `${import.meta.env.BASE_URL}data/level_${word.level}/${word.filename}`,
     level: word.level,
     id: word.id,
   };
