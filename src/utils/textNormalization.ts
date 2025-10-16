@@ -1,12 +1,17 @@
 /**
  * Normalize text for loose comparison (used in speech recognition)
- * Removes punctuation and converts to lowercase
+ * Removes punctuation, digits, and ALL whitespace (including spaces between letters)
+ * This handles cases where:
+ * 1. Students spell out words: "t h r e e" → "three"
+ * 2. Speech recognition converts numbers to digits: "3" → should match "three"
+ * 3. Various punctuation and special characters are added
  */
 export function normalizeText(text: string): string {
   return text
     .toLowerCase()
+    .replace(/[0-9]/g, '') // Remove all digits (numbers)
     .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()'"?]/g, '') // Remove punctuation
-    .replace(/\s+/g, ' ') // Normalize whitespace
+    .replace(/\s+/g, '') // Remove ALL whitespace (including spaces between letters)
     .trim();
 }
 
