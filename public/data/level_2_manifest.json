@@ -1,0 +1,410 @@
+{
+  "level": 2,
+  "levelName": "英文單字認讀基礎級(二)",
+  "totalWords": 40,
+  "successCount": 40,
+  "errorCount": 0,
+  "outputDir": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2",
+  "results": [
+    {
+      "word": "four",
+      "meaning": "四",
+      "level": 2,
+      "boyo_id": 31,
+      "id": 34,
+      "filename": "0034_four.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0034_four.png",
+      "success": true
+    },
+    {
+      "word": "five",
+      "meaning": "五",
+      "level": 2,
+      "boyo_id": 32,
+      "id": 35,
+      "filename": "0035_five.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0035_five.png",
+      "success": true
+    },
+    {
+      "word": "six",
+      "meaning": "六",
+      "level": 2,
+      "boyo_id": 33,
+      "id": 36,
+      "filename": "0036_six.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0036_six.png",
+      "success": true
+    },
+    {
+      "word": "seven",
+      "meaning": "七",
+      "level": 2,
+      "boyo_id": 34,
+      "id": 37,
+      "filename": "0037_seven.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0037_seven.png",
+      "success": true
+    },
+    {
+      "word": "eight",
+      "meaning": "八",
+      "level": 2,
+      "boyo_id": 35,
+      "id": 38,
+      "filename": "0038_eight.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0038_eight.png",
+      "success": true
+    },
+    {
+      "word": "nine",
+      "meaning": "九",
+      "level": 2,
+      "boyo_id": 36,
+      "id": 39,
+      "filename": "0039_nine.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0039_nine.png",
+      "success": true
+    },
+    {
+      "word": "ten",
+      "meaning": "十",
+      "level": 2,
+      "boyo_id": 37,
+      "id": 40,
+      "filename": "0040_ten.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0040_ten.png",
+      "success": true
+    },
+    {
+      "word": "eleven",
+      "meaning": "十一",
+      "level": 2,
+      "boyo_id": 38,
+      "id": 41,
+      "filename": "0041_eleven.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0041_eleven.png",
+      "success": true
+    },
+    {
+      "word": "twelve",
+      "meaning": "十二",
+      "level": 2,
+      "boyo_id": 39,
+      "id": 42,
+      "filename": "0042_twelve.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0042_twelve.png",
+      "success": true
+    },
+    {
+      "word": "school",
+      "meaning": "學校",
+      "level": 2,
+      "boyo_id": 40,
+      "id": 43,
+      "filename": "0043_school.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0043_school.png",
+      "success": true
+    },
+    {
+      "word": "class",
+      "meaning": "班級、課程",
+      "level": 2,
+      "boyo_id": 41,
+      "id": 44,
+      "filename": "0044_class.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0044_class.png",
+      "success": true
+    },
+    {
+      "word": "student",
+      "meaning": "學生",
+      "level": 2,
+      "boyo_id": 42,
+      "id": 45,
+      "filename": "0045_student.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0045_student.png",
+      "success": true
+    },
+    {
+      "word": "teacher",
+      "meaning": "老師",
+      "level": 2,
+      "boyo_id": 43,
+      "id": 46,
+      "filename": "0046_teacher.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0046_teacher.png",
+      "success": true
+    },
+    {
+      "word": "friend",
+      "meaning": "朋友",
+      "level": 2,
+      "boyo_id": 44,
+      "id": 47,
+      "filename": "0047_friend.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0047_friend.png",
+      "success": true
+    },
+    {
+      "word": "book",
+      "meaning": "書",
+      "level": 2,
+      "boyo_id": 45,
+      "id": 48,
+      "filename": "0048_book.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0048_book.png",
+      "success": true
+    },
+    {
+      "word": "chair",
+      "meaning": "椅子",
+      "level": 2,
+      "boyo_id": 46,
+      "id": 49,
+      "filename": "0049_chair.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0049_chair.png",
+      "success": true
+    },
+    {
+      "word": "desk",
+      "meaning": "書桌",
+      "level": 2,
+      "boyo_id": 47,
+      "id": 50,
+      "filename": "0050_desk.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0050_desk.png",
+      "success": true
+    },
+    {
+      "word": "table",
+      "meaning": "桌子",
+      "level": 2,
+      "boyo_id": 48,
+      "id": 51,
+      "filename": "0051_table.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0051_table.png",
+      "success": true
+    },
+    {
+      "word": "pen",
+      "meaning": "筆",
+      "level": 2,
+      "boyo_id": 49,
+      "id": 52,
+      "filename": "0052_pen.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0052_pen.png",
+      "success": true
+    },
+    {
+      "word": "pencil",
+      "meaning": "鉛筆",
+      "level": 2,
+      "boyo_id": 50,
+      "id": 53,
+      "filename": "0053_pencil.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0053_pencil.png",
+      "success": true
+    },
+    {
+      "word": "ruler",
+      "meaning": "尺",
+      "level": 2,
+      "boyo_id": 51,
+      "id": 54,
+      "filename": "0054_ruler.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0054_ruler.png",
+      "success": true
+    },
+    {
+      "word": "eraser",
+      "meaning": "橡皮擦",
+      "level": 2,
+      "boyo_id": 52,
+      "id": 55,
+      "filename": "0055_eraser.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0055_eraser.png",
+      "success": true
+    },
+    {
+      "word": "marker",
+      "meaning": "麥克筆",
+      "level": 2,
+      "boyo_id": 53,
+      "id": 56,
+      "filename": "0056_marker.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0056_marker.png",
+      "success": true
+    },
+    {
+      "word": "box",
+      "meaning": "盒子、箱子",
+      "level": 2,
+      "boyo_id": 54,
+      "id": 57,
+      "filename": "0057_box.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0057_box.png",
+      "success": true
+    },
+    {
+      "word": "pencil box",
+      "meaning": "鉛筆盒",
+      "level": 2,
+      "boyo_id": 55,
+      "id": 58,
+      "filename": "0058_pencil_box.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0058_pencil_box.png",
+      "success": true
+    },
+    {
+      "word": "map",
+      "meaning": "地圖",
+      "level": 2,
+      "boyo_id": 56,
+      "id": 59,
+      "filename": "0059_map.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0059_map.png",
+      "success": true
+    },
+    {
+      "word": "color",
+      "meaning": "顏色",
+      "level": 2,
+      "boyo_id": 57,
+      "id": 60,
+      "filename": "0060_color.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0060_color.png",
+      "success": true
+    },
+    {
+      "word": "red",
+      "meaning": "紅色",
+      "level": 2,
+      "boyo_id": 58,
+      "id": 61,
+      "filename": "0061_red.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0061_red.png",
+      "success": true
+    },
+    {
+      "word": "green",
+      "meaning": "綠色",
+      "level": 2,
+      "boyo_id": 59,
+      "id": 62,
+      "filename": "0062_green.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0062_green.png",
+      "success": true
+    },
+    {
+      "word": "blue",
+      "meaning": "藍色",
+      "level": 2,
+      "boyo_id": 60,
+      "id": 63,
+      "filename": "0063_blue.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0063_blue.png",
+      "success": true
+    },
+    {
+      "word": "yellow",
+      "meaning": "黃色",
+      "level": 2,
+      "boyo_id": 61,
+      "id": 64,
+      "filename": "0064_yellow.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0064_yellow.png",
+      "success": true
+    },
+    {
+      "word": "pink",
+      "meaning": "粉紅色",
+      "level": 2,
+      "boyo_id": 62,
+      "id": 65,
+      "filename": "0065_pink.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0065_pink.png",
+      "success": true
+    },
+    {
+      "word": "black",
+      "meaning": "黑色",
+      "level": 2,
+      "boyo_id": 63,
+      "id": 66,
+      "filename": "0066_black.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0066_black.png",
+      "success": true
+    },
+    {
+      "word": "white",
+      "meaning": "白色",
+      "level": 2,
+      "boyo_id": 64,
+      "id": 67,
+      "filename": "0067_white.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0067_white.png",
+      "success": true
+    },
+    {
+      "word": "face",
+      "meaning": "臉",
+      "level": 2,
+      "boyo_id": 65,
+      "id": 68,
+      "filename": "0068_face.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0068_face.png",
+      "success": true
+    },
+    {
+      "word": "eye",
+      "meaning": "眼睛",
+      "level": 2,
+      "boyo_id": 66,
+      "id": 69,
+      "filename": "0069_eye.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0069_eye.png",
+      "success": true
+    },
+    {
+      "word": "nose",
+      "meaning": "鼻子",
+      "level": 2,
+      "boyo_id": 67,
+      "id": 70,
+      "filename": "0070_nose.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0070_nose.png",
+      "success": true
+    },
+    {
+      "word": "ear",
+      "meaning": "耳朵",
+      "level": 2,
+      "boyo_id": 68,
+      "id": 71,
+      "filename": "0071_ear.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0071_ear.png",
+      "success": true
+    },
+    {
+      "word": "mouth",
+      "meaning": "嘴巴",
+      "level": 2,
+      "boyo_id": 69,
+      "id": 72,
+      "filename": "0072_mouth.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0072_mouth.png",
+      "success": true
+    },
+    {
+      "word": "head",
+      "meaning": "頭",
+      "level": 2,
+      "boyo_id": 70,
+      "id": 73,
+      "filename": "0073_head.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0073_head.png",
+      "success": true
+    }
+  ]
+}

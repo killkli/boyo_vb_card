@@ -1,0 +1,340 @@
+{
+  "level": 1,
+  "levelName": "英文單字認讀基礎級(一)",
+  "totalWords": 33,
+  "successCount": 33,
+  "errorCount": 0,
+  "outputDir": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1",
+  "results": [
+    {
+      "word": "I",
+      "meaning": "我",
+      "level": 1,
+      "boyo_id": 1,
+      "id": 1,
+      "filename": "0001_I.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0001_I.png",
+      "success": true
+    },
+    {
+      "word": "you",
+      "meaning": "你、你們",
+      "level": 1,
+      "boyo_id": 2,
+      "id": 2,
+      "filename": "0002_you.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0002_you.png",
+      "success": true
+    },
+    {
+      "word": "he",
+      "meaning": "他",
+      "level": 1,
+      "boyo_id": 3,
+      "id": 3,
+      "filename": "0003_he.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0003_he.png",
+      "success": true
+    },
+    {
+      "word": "she",
+      "meaning": "她",
+      "level": 1,
+      "boyo_id": 4,
+      "id": 4,
+      "filename": "0004_she.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0004_she.png",
+      "success": true
+    },
+    {
+      "word": "it",
+      "meaning": "牠、它",
+      "level": 1,
+      "boyo_id": 5,
+      "id": 5,
+      "filename": "0005_it.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0005_it.png",
+      "success": true
+    },
+    {
+      "word": "we",
+      "meaning": "我們",
+      "level": 1,
+      "boyo_id": 6,
+      "id": 6,
+      "filename": "0006_we.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0006_we.png",
+      "success": true
+    },
+    {
+      "word": "they",
+      "meaning": "他們",
+      "level": 1,
+      "boyo_id": 7,
+      "id": 7,
+      "filename": "0007_they.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0007_they.png",
+      "success": true
+    },
+    {
+      "word": "boy",
+      "meaning": "男孩",
+      "level": 1,
+      "boyo_id": 8,
+      "id": 8,
+      "filename": "0008_boy.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0008_boy.png",
+      "success": true
+    },
+    {
+      "word": "girl",
+      "meaning": "女孩",
+      "level": 1,
+      "boyo_id": 9,
+      "id": 9,
+      "filename": "0009_girl.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0009_girl.png",
+      "success": true
+    },
+    {
+      "word": "baby",
+      "meaning": "嬰兒",
+      "level": 1,
+      "boyo_id": 10,
+      "id": 10,
+      "filename": "0010_baby.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0010_baby.png",
+      "success": true
+    },
+    {
+      "word": "a",
+      "meaning": "一個",
+      "level": 1,
+      "boyo_id": 11,
+      "id": 11,
+      "filename": "0011_a.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0011_a.png",
+      "success": true
+    },
+    {
+      "word": "the",
+      "meaning": "這、那",
+      "level": 1,
+      "boyo_id": 12,
+      "id": 12,
+      "filename": "0012_the.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0012_the.png",
+      "success": true
+    },
+    {
+      "word": "this",
+      "meaning": "這",
+      "level": 1,
+      "boyo_id": 13,
+      "id": 13,
+      "filename": "0013_this.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0013_this.png",
+      "success": true
+    },
+    {
+      "word": "that",
+      "meaning": "那",
+      "level": 1,
+      "boyo_id": 14,
+      "id": 14,
+      "filename": "0014_that.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0014_that.png",
+      "success": true
+    },
+    {
+      "word": "these",
+      "meaning": "這些",
+      "level": 1,
+      "boyo_id": 15,
+      "id": 15,
+      "filename": "0015_these.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0015_these.png",
+      "success": true
+    },
+    {
+      "word": "those",
+      "meaning": "那些",
+      "level": 1,
+      "boyo_id": 16,
+      "id": 16,
+      "filename": "0016_those.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0016_those.png",
+      "success": true
+    },
+    {
+      "word": "is",
+      "meaning": "是、成為",
+      "level": 1,
+      "boyo_id": 17,
+      "id": 17,
+      "filename": "0017_is.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0017_is.png",
+      "success": true
+    },
+    {
+      "word": "are",
+      "meaning": "是、成為",
+      "level": 1,
+      "boyo_id": 17,
+      "id": 18,
+      "filename": "0018_are.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0018_are.png",
+      "success": true
+    },
+    {
+      "word": "am",
+      "meaning": "是、成為",
+      "level": 1,
+      "boyo_id": 17,
+      "id": 19,
+      "filename": "0019_am.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0019_am.png",
+      "success": true
+    },
+    {
+      "word": "do",
+      "meaning": "做",
+      "level": 1,
+      "boyo_id": 217,
+      "id": 20,
+      "filename": "0020_do.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0020_do.png",
+      "success": true
+    },
+    {
+      "word": "do",
+      "meaning": "做",
+      "level": 1,
+      "boyo_id": 217,
+      "id": 21,
+      "filename": "0021_do.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0021_do.png",
+      "success": true
+    },
+    {
+      "word": "father",
+      "meaning": "爸爸",
+      "level": 1,
+      "boyo_id": 19,
+      "id": 22,
+      "filename": "0022_father.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0022_father.png",
+      "success": true
+    },
+    {
+      "word": "mother",
+      "meaning": "媽媽",
+      "level": 1,
+      "boyo_id": 20,
+      "id": 23,
+      "filename": "0023_mother.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0023_mother.png",
+      "success": true
+    },
+    {
+      "word": "son",
+      "meaning": "兒子",
+      "level": 1,
+      "boyo_id": 21,
+      "id": 24,
+      "filename": "0024_son.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0024_son.png",
+      "success": true
+    },
+    {
+      "word": "daughter",
+      "meaning": "女兒",
+      "level": 1,
+      "boyo_id": 22,
+      "id": 25,
+      "filename": "0025_daughter.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0025_daughter.png",
+      "success": true
+    },
+    {
+      "word": "grandmother",
+      "meaning": "(外)祖母",
+      "level": 1,
+      "boyo_id": 23,
+      "id": 26,
+      "filename": "0026_grandmother.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0026_grandmother.png",
+      "success": true
+    },
+    {
+      "word": "grandfather",
+      "meaning": "(外)祖父",
+      "level": 1,
+      "boyo_id": 24,
+      "id": 27,
+      "filename": "0027_grandfather.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0027_grandfather.png",
+      "success": true
+    },
+    {
+      "word": "brother",
+      "meaning": "哥哥、弟弟",
+      "level": 1,
+      "boyo_id": 25,
+      "id": 28,
+      "filename": "0028_brother.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0028_brother.png",
+      "success": true
+    },
+    {
+      "word": "sister",
+      "meaning": "姊姊、妹妹",
+      "level": 1,
+      "boyo_id": 26,
+      "id": 29,
+      "filename": "0029_sister.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0029_sister.png",
+      "success": true
+    },
+    {
+      "word": "zero",
+      "meaning": "零",
+      "level": 1,
+      "boyo_id": 27,
+      "id": 30,
+      "filename": "0030_zero.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0030_zero.png",
+      "success": true
+    },
+    {
+      "word": "one",
+      "meaning": "一",
+      "level": 1,
+      "boyo_id": 28,
+      "id": 31,
+      "filename": "0031_one.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0031_one.png",
+      "success": true
+    },
+    {
+      "word": "two",
+      "meaning": "二",
+      "level": 1,
+      "boyo_id": 29,
+      "id": 32,
+      "filename": "0032_two.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0032_two.png",
+      "success": true
+    },
+    {
+      "word": "three",
+      "meaning": "三",
+      "level": 1,
+      "boyo_id": 30,
+      "id": 33,
+      "filename": "0033_three.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0033_three.png",
+      "success": true
+    }
+  ]
+}

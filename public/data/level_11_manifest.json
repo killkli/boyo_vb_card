@@ -1,0 +1,760 @@
+{
+  "level": 11,
+  "levelName": "英文單字認讀成長級(三)",
+  "totalWords": 75,
+  "successCount": 75,
+  "errorCount": 0,
+  "outputDir": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11",
+  "results": [
+    {
+      "word": "hate",
+      "meaning": "討厭",
+      "level": 11,
+      "boyo_id": 551,
+      "id": 557,
+      "filename": "0557_hate.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0557_hate.png",
+      "success": true
+    },
+    {
+      "word": "sell",
+      "meaning": "賣",
+      "level": 11,
+      "boyo_id": 552,
+      "id": 558,
+      "filename": "0558_sell.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0558_sell.png",
+      "success": true
+    },
+    {
+      "word": "also",
+      "meaning": "也",
+      "level": 11,
+      "boyo_id": 553,
+      "id": 559,
+      "filename": "0559_also.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0559_also.png",
+      "success": true
+    },
+    {
+      "word": "once",
+      "meaning": "一次",
+      "level": 11,
+      "boyo_id": 554,
+      "id": 560,
+      "filename": "0560_once.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0560_once.png",
+      "success": true
+    },
+    {
+      "word": "twice",
+      "meaning": "兩次",
+      "level": 11,
+      "boyo_id": 555,
+      "id": 561,
+      "filename": "0561_twice.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0561_twice.png",
+      "success": true
+    },
+    {
+      "word": "of",
+      "meaning": "…的",
+      "level": 11,
+      "boyo_id": 556,
+      "id": 562,
+      "filename": "0562_of.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0562_of.png",
+      "success": true
+    },
+    {
+      "word": "place",
+      "meaning": "住處；地方",
+      "level": 11,
+      "boyo_id": 557,
+      "id": 563,
+      "filename": "0563_place.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0563_place.png",
+      "success": true
+    },
+    {
+      "word": "road",
+      "meaning": "道路",
+      "level": 11,
+      "boyo_id": 558,
+      "id": 564,
+      "filename": "0564_road.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0564_road.png",
+      "success": true
+    },
+    {
+      "word": "temple",
+      "meaning": "寺廟",
+      "level": 11,
+      "boyo_id": 559,
+      "id": 565,
+      "filename": "0565_temple.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0565_temple.png",
+      "success": true
+    },
+    {
+      "word": "museum",
+      "meaning": "博物館",
+      "level": 11,
+      "boyo_id": 560,
+      "id": 566,
+      "filename": "0566_museum.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0566_museum.png",
+      "success": true
+    },
+    {
+      "word": "hotel",
+      "meaning": "旅館；飯店",
+      "level": 11,
+      "boyo_id": 561,
+      "id": 567,
+      "filename": "0567_hotel.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0567_hotel.png",
+      "success": true
+    },
+    {
+      "word": "season",
+      "meaning": "季節",
+      "level": 11,
+      "boyo_id": 562,
+      "id": 568,
+      "filename": "0568_season.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0568_season.png",
+      "success": true
+    },
+    {
+      "word": "high",
+      "meaning": "高的",
+      "level": 11,
+      "boyo_id": 563,
+      "id": 569,
+      "filename": "0569_high.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0569_high.png",
+      "success": true
+    },
+    {
+      "word": "autumn",
+      "meaning": "秋季；秋天",
+      "level": 11,
+      "boyo_id": 564,
+      "id": 570,
+      "filename": "0570_autumn.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0570_autumn.png",
+      "success": true
+    },
+    {
+      "word": "snow",
+      "meaning": "下雪;雪",
+      "level": 11,
+      "boyo_id": 565,
+      "id": 571,
+      "filename": "0571_snow.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0571_snow.png",
+      "success": true
+    },
+    {
+      "word": "snowman",
+      "meaning": "雪人",
+      "level": 11,
+      "boyo_id": 566,
+      "id": 572,
+      "filename": "0572_snowman.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0572_snowman.png",
+      "success": true
+    },
+    {
+      "word": "plan",
+      "meaning": "計畫",
+      "level": 11,
+      "boyo_id": 567,
+      "id": 573,
+      "filename": "0573_plan.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0573_plan.png",
+      "success": true
+    },
+    {
+      "word": "date",
+      "meaning": "日期",
+      "level": 11,
+      "boyo_id": 568,
+      "id": 574,
+      "filename": "0574_date.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0574_date.png",
+      "success": true
+    },
+    {
+      "word": "Father's Day",
+      "meaning": "父親節",
+      "level": 11,
+      "boyo_id": 569,
+      "id": 575,
+      "filename": "0575_Father_s_Day.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0575_Father_s_Day.png",
+      "success": true
+    },
+    {
+      "word": "USA",
+      "meaning": "美國",
+      "level": 11,
+      "boyo_id": 570,
+      "id": 576,
+      "filename": "0576_USA.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0576_USA.png",
+      "success": true
+    },
+    {
+      "word": "photo",
+      "meaning": "照片",
+      "level": 11,
+      "boyo_id": 571,
+      "id": 577,
+      "filename": "0577_photo.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0577_photo.png",
+      "success": true
+    },
+    {
+      "word": "mind",
+      "meaning": "介意;心智",
+      "level": 11,
+      "boyo_id": 572,
+      "id": 578,
+      "filename": "0578_mind.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0578_mind.png",
+      "success": true
+    },
+    {
+      "word": "work",
+      "meaning": "工作;作品、成果",
+      "level": 11,
+      "boyo_id": 573,
+      "id": 579,
+      "filename": "0579_work.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0579_work.png",
+      "success": true
+    },
+    {
+      "word": "exercise",
+      "meaning": "運動;運動",
+      "level": 11,
+      "boyo_id": 574,
+      "id": 580,
+      "filename": "0580_exercise.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0580_exercise.png",
+      "success": true
+    },
+    {
+      "word": "turtle",
+      "meaning": "海龜",
+      "level": 11,
+      "boyo_id": 575,
+      "id": 581,
+      "filename": "0581_turtle.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0581_turtle.png",
+      "success": true
+    },
+    {
+      "word": "practice",
+      "meaning": "練習;練習",
+      "level": 11,
+      "boyo_id": 576,
+      "id": 582,
+      "filename": "0582_practice.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0582_practice.png",
+      "success": true
+    },
+    {
+      "word": "race",
+      "meaning": "競賽;競賽",
+      "level": 11,
+      "boyo_id": 577,
+      "id": 583,
+      "filename": "0583_race.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0583_race.png",
+      "success": true
+    },
+    {
+      "word": "team",
+      "meaning": "隊",
+      "level": 11,
+      "boyo_id": 578,
+      "id": 584,
+      "filename": "0584_team.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0584_team.png",
+      "success": true
+    },
+    {
+      "word": "problem",
+      "meaning": "問題；毛病",
+      "level": 11,
+      "boyo_id": 579,
+      "id": 585,
+      "filename": "0585_problem.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0585_problem.png",
+      "success": true
+    },
+    {
+      "word": "toe",
+      "meaning": "腳趾",
+      "level": 11,
+      "boyo_id": 580,
+      "id": 586,
+      "filename": "0586_toe.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0586_toe.png",
+      "success": true
+    },
+    {
+      "word": "kind",
+      "meaning": "種類",
+      "level": 11,
+      "boyo_id": 581,
+      "id": 587,
+      "filename": "0587_kind.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0587_kind.png",
+      "success": true
+    },
+    {
+      "word": "violin",
+      "meaning": "小提琴",
+      "level": 11,
+      "boyo_id": 582,
+      "id": 588,
+      "filename": "0588_violin.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0588_violin.png",
+      "success": true
+    },
+    {
+      "word": "flute",
+      "meaning": "長笛；橫笛",
+      "level": 11,
+      "boyo_id": 583,
+      "id": 589,
+      "filename": "0589_flute.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0589_flute.png",
+      "success": true
+    },
+    {
+      "word": "special",
+      "meaning": "特別的",
+      "level": 11,
+      "boyo_id": 584,
+      "id": 590,
+      "filename": "0590_special.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0590_special.png",
+      "success": true
+    },
+    {
+      "word": "afraid",
+      "meaning": "害怕的",
+      "level": 11,
+      "boyo_id": 585,
+      "id": 591,
+      "filename": "0591_afraid.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0591_afraid.png",
+      "success": true
+    },
+    {
+      "word": "same",
+      "meaning": "相同的",
+      "level": 11,
+      "boyo_id": 586,
+      "id": 592,
+      "filename": "0592_same.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0592_same.png",
+      "success": true
+    },
+    {
+      "word": "different",
+      "meaning": "不同的",
+      "level": 11,
+      "boyo_id": 587,
+      "id": 593,
+      "filename": "0593_different.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0593_different.png",
+      "success": true
+    },
+    {
+      "word": "snowy",
+      "meaning": "下雪的",
+      "level": 11,
+      "boyo_id": 588,
+      "id": 594,
+      "filename": "0594_snowy.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0594_snowy.png",
+      "success": true
+    },
+    {
+      "word": "dry",
+      "meaning": "弄乾;乾的",
+      "level": 11,
+      "boyo_id": 589,
+      "id": 595,
+      "filename": "0595_dry.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0595_dry.png",
+      "success": true
+    },
+    {
+      "word": "wet",
+      "meaning": "溼的",
+      "level": 11,
+      "boyo_id": 590,
+      "id": 596,
+      "filename": "0596_wet.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0596_wet.png",
+      "success": true
+    },
+    {
+      "word": "popular",
+      "meaning": "受歡迎的",
+      "level": 11,
+      "boyo_id": 591,
+      "id": 597,
+      "filename": "0597_popular.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0597_popular.png",
+      "success": true
+    },
+    {
+      "word": "dark",
+      "meaning": "暗的",
+      "level": 11,
+      "boyo_id": 592,
+      "id": 598,
+      "filename": "0598_dark.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0598_dark.png",
+      "success": true
+    },
+    {
+      "word": "know",
+      "meaning": "知道；認識",
+      "level": 11,
+      "boyo_id": 593,
+      "id": 599,
+      "filename": "0599_know.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0599_know.png",
+      "success": true
+    },
+    {
+      "word": "keep",
+      "meaning": "保持；一直",
+      "level": 11,
+      "boyo_id": 594,
+      "id": 600,
+      "filename": "0600_keep.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0600_keep.png",
+      "success": true
+    },
+    {
+      "word": "join",
+      "meaning": "參加；加入",
+      "level": 11,
+      "boyo_id": 595,
+      "id": 601,
+      "filename": "0601_join.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0601_join.png",
+      "success": true
+    },
+    {
+      "word": "throw",
+      "meaning": "丟;丟",
+      "level": 11,
+      "boyo_id": 596,
+      "id": 602,
+      "filename": "0602_throw.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0602_throw.png",
+      "success": true
+    },
+    {
+      "word": "hit",
+      "meaning": "打擊；撞;成功而風行一時的事物",
+      "level": 11,
+      "boyo_id": 597,
+      "id": 603,
+      "filename": "0603_hit.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0603_hit.png",
+      "success": true
+    },
+    {
+      "word": "enjoy",
+      "meaning": "享受；喜愛",
+      "level": 11,
+      "boyo_id": 598,
+      "id": 604,
+      "filename": "0604_enjoy.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0604_enjoy.png",
+      "success": true
+    },
+    {
+      "word": "bow",
+      "meaning": "鞠躬",
+      "level": 11,
+      "boyo_id": 599,
+      "id": 605,
+      "filename": "0605_bow.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0605_bow.png",
+      "success": true
+    },
+    {
+      "word": "win",
+      "meaning": "贏",
+      "level": 11,
+      "boyo_id": 600,
+      "id": 606,
+      "filename": "0606_win.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0606_win.png",
+      "success": true
+    },
+    {
+      "word": "learn",
+      "meaning": "學習",
+      "level": 11,
+      "boyo_id": 601,
+      "id": 607,
+      "filename": "0607_learn.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0607_learn.png",
+      "success": true
+    },
+    {
+      "word": "climb",
+      "meaning": "攀爬",
+      "level": 11,
+      "boyo_id": 602,
+      "id": 608,
+      "filename": "0608_climb.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0608_climb.png",
+      "success": true
+    },
+    {
+      "word": "hike",
+      "meaning": "徒步健行",
+      "level": 11,
+      "boyo_id": 603,
+      "id": 609,
+      "filename": "0609_hike.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0609_hike.png",
+      "success": true
+    },
+    {
+      "word": "camp",
+      "meaning": "露營;露營",
+      "level": 11,
+      "boyo_id": 604,
+      "id": 610,
+      "filename": "0610_camp.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0610_camp.png",
+      "success": true
+    },
+    {
+      "word": "everyone",
+      "meaning": "每個人",
+      "level": 11,
+      "boyo_id": 605,
+      "id": 611,
+      "filename": "0611_everyone.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0611_everyone.png",
+      "success": true
+    },
+    {
+      "word": "together",
+      "meaning": "一起",
+      "level": 11,
+      "boyo_id": 606,
+      "id": 612,
+      "filename": "0612_together.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0612_together.png",
+      "success": true
+    },
+    {
+      "word": "ago",
+      "meaning": "在…之前",
+      "level": 11,
+      "boyo_id": 607,
+      "id": 613,
+      "filename": "0613_ago.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0613_ago.png",
+      "success": true
+    },
+    {
+      "word": "never",
+      "meaning": "從不",
+      "level": 11,
+      "boyo_id": 608,
+      "id": 614,
+      "filename": "0614_never.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0614_never.png",
+      "success": true
+    },
+    {
+      "word": "always",
+      "meaning": "總是",
+      "level": 11,
+      "boyo_id": 609,
+      "id": 615,
+      "filename": "0615_always.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0615_always.png",
+      "success": true
+    },
+    {
+      "word": "usually",
+      "meaning": "通常",
+      "level": 11,
+      "boyo_id": 610,
+      "id": 616,
+      "filename": "0616_usually.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0616_usually.png",
+      "success": true
+    },
+    {
+      "word": "sometimes",
+      "meaning": "有時候",
+      "level": 11,
+      "boyo_id": 611,
+      "id": 617,
+      "filename": "0617_sometimes.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0617_sometimes.png",
+      "success": true
+    },
+    {
+      "word": "seldom",
+      "meaning": "不常；很少",
+      "level": 11,
+      "boyo_id": 612,
+      "id": 618,
+      "filename": "0618_seldom.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0618_seldom.png",
+      "success": true
+    },
+    {
+      "word": "was",
+      "meaning": "是(am/is過去式)",
+      "level": 11,
+      "boyo_id": 613,
+      "id": 619,
+      "filename": "0619_was.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0619_was.png",
+      "success": true
+    },
+    {
+      "word": "were",
+      "meaning": "是(are過去式)",
+      "level": 11,
+      "boyo_id": 614,
+      "id": 620,
+      "filename": "0620_were.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0620_were.png",
+      "success": true
+    },
+    {
+      "word": "insect",
+      "meaning": "昆蟲",
+      "level": 11,
+      "boyo_id": 615,
+      "id": 621,
+      "filename": "0621_insect.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0621_insect.png",
+      "success": true
+    },
+    {
+      "word": "bat",
+      "meaning": "蝙蝠",
+      "level": 11,
+      "boyo_id": 616,
+      "id": 622,
+      "filename": "0622_bat.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0622_bat.png",
+      "success": true
+    },
+    {
+      "word": "butterfly",
+      "meaning": "蝴蝶",
+      "level": 11,
+      "boyo_id": 617,
+      "id": 623,
+      "filename": "0623_butterfly.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0623_butterfly.png",
+      "success": true
+    },
+    {
+      "word": "spider",
+      "meaning": "蜘蛛",
+      "level": 11,
+      "boyo_id": 618,
+      "id": 624,
+      "filename": "0624_spider.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0624_spider.png",
+      "success": true
+    },
+    {
+      "word": "whale",
+      "meaning": "鯨",
+      "level": 11,
+      "boyo_id": 619,
+      "id": 625,
+      "filename": "0625_whale.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0625_whale.png",
+      "success": true
+    },
+    {
+      "word": "hill",
+      "meaning": "丘陵；小山",
+      "level": 11,
+      "boyo_id": 620,
+      "id": 626,
+      "filename": "0626_hill.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0626_hill.png",
+      "success": true
+    },
+    {
+      "word": "island",
+      "meaning": "島嶼",
+      "level": 11,
+      "boyo_id": 621,
+      "id": 627,
+      "filename": "0627_island.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0627_island.png",
+      "success": true
+    },
+    {
+      "word": "present",
+      "meaning": "提出;禮物",
+      "level": 11,
+      "boyo_id": 622,
+      "id": 628,
+      "filename": "0628_present.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0628_present.png",
+      "success": true
+    },
+    {
+      "word": "junior high school",
+      "meaning": "國中",
+      "level": 11,
+      "boyo_id": 623,
+      "id": 629,
+      "filename": "0629_junior_high_school.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0629_junior_high_school.png",
+      "success": true
+    },
+    {
+      "word": "course",
+      "meaning": "課程",
+      "level": 11,
+      "boyo_id": 624,
+      "id": 630,
+      "filename": "0630_course.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0630_course.png",
+      "success": true
+    },
+    {
+      "word": "art",
+      "meaning": "藝術；美術",
+      "level": 11,
+      "boyo_id": 625,
+      "id": 631,
+      "filename": "0631_art.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_11/0631_art.png",
+      "success": true
+    }
+  ]
+}

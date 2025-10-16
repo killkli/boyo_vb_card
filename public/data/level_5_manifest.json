@@ -1,0 +1,520 @@
+{
+  "level": 5,
+  "levelName": "英文單字認讀基礎級(五)",
+  "totalWords": 51,
+  "successCount": 51,
+  "errorCount": 0,
+  "outputDir": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5",
+  "results": [
+    {
+      "word": "car",
+      "meaning": "汽車",
+      "level": 5,
+      "boyo_id": 151,
+      "id": 154,
+      "filename": "0154_car.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0154_car.png",
+      "success": true
+    },
+    {
+      "word": "bike",
+      "meaning": "腳踏車",
+      "level": 5,
+      "boyo_id": 152,
+      "id": 155,
+      "filename": "0155_bike.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0155_bike.png",
+      "success": true
+    },
+    {
+      "word": "bicycle",
+      "meaning": "腳踏車",
+      "level": 5,
+      "boyo_id": 152,
+      "id": 156,
+      "filename": "0156_bicycle.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0156_bicycle.png",
+      "success": true
+    },
+    {
+      "word": "taxi",
+      "meaning": "計程車",
+      "level": 5,
+      "boyo_id": 153,
+      "id": 157,
+      "filename": "0157_taxi.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0157_taxi.png",
+      "success": true
+    },
+    {
+      "word": "train",
+      "meaning": "火車",
+      "level": 5,
+      "boyo_id": 154,
+      "id": 158,
+      "filename": "0158_train.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0158_train.png",
+      "success": true
+    },
+    {
+      "word": "ship",
+      "meaning": "船、艦",
+      "level": 5,
+      "boyo_id": 155,
+      "id": 159,
+      "filename": "0159_ship.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0159_ship.png",
+      "success": true
+    },
+    {
+      "word": "call",
+      "meaning": "打電話、叫",
+      "level": 5,
+      "boyo_id": 156,
+      "id": 160,
+      "filename": "0160_call.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0160_call.png",
+      "success": true
+    },
+    {
+      "word": "open",
+      "meaning": "打開",
+      "level": 5,
+      "boyo_id": 157,
+      "id": 161,
+      "filename": "0161_open.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0161_open.png",
+      "success": true
+    },
+    {
+      "word": "close",
+      "meaning": "關上",
+      "level": 5,
+      "boyo_id": 158,
+      "id": 162,
+      "filename": "0162_close.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0162_close.png",
+      "success": true
+    },
+    {
+      "word": "see",
+      "meaning": "看",
+      "level": 5,
+      "boyo_id": 159,
+      "id": 163,
+      "filename": "0163_see.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0163_see.png",
+      "success": true
+    },
+    {
+      "word": "look",
+      "meaning": "看",
+      "level": 5,
+      "boyo_id": 160,
+      "id": 164,
+      "filename": "0164_look.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0164_look.png",
+      "success": true
+    },
+    {
+      "word": "watch",
+      "meaning": "看",
+      "level": 5,
+      "boyo_id": 161,
+      "id": 165,
+      "filename": "0165_watch.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0165_watch.png",
+      "success": true
+    },
+    {
+      "word": "tall",
+      "meaning": "高的",
+      "level": 5,
+      "boyo_id": 162,
+      "id": 166,
+      "filename": "0166_tall.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0166_tall.png",
+      "success": true
+    },
+    {
+      "word": "long",
+      "meaning": "長的",
+      "level": 5,
+      "boyo_id": 163,
+      "id": 167,
+      "filename": "0167_long.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0167_long.png",
+      "success": true
+    },
+    {
+      "word": "short",
+      "meaning": "短的、矮的",
+      "level": 5,
+      "boyo_id": 164,
+      "id": 168,
+      "filename": "0168_short.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0168_short.png",
+      "success": true
+    },
+    {
+      "word": "big",
+      "meaning": "大的",
+      "level": 5,
+      "boyo_id": 165,
+      "id": 169,
+      "filename": "0169_big.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0169_big.png",
+      "success": true
+    },
+    {
+      "word": "small",
+      "meaning": "小的",
+      "level": 5,
+      "boyo_id": 166,
+      "id": 170,
+      "filename": "0170_small.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0170_small.png",
+      "success": true
+    },
+    {
+      "word": "good",
+      "meaning": "好的",
+      "level": 5,
+      "boyo_id": 167,
+      "id": 171,
+      "filename": "0171_good.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0171_good.png",
+      "success": true
+    },
+    {
+      "word": "bad",
+      "meaning": "壞的",
+      "level": 5,
+      "boyo_id": 168,
+      "id": 172,
+      "filename": "0172_bad.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0172_bad.png",
+      "success": true
+    },
+    {
+      "word": "nice",
+      "meaning": "美好的",
+      "level": 5,
+      "boyo_id": 169,
+      "id": 173,
+      "filename": "0173_nice.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0173_nice.png",
+      "success": true
+    },
+    {
+      "word": "happy",
+      "meaning": "快樂的",
+      "level": 5,
+      "boyo_id": 170,
+      "id": 174,
+      "filename": "0174_happy.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0174_happy.png",
+      "success": true
+    },
+    {
+      "word": "sad",
+      "meaning": "傷心的",
+      "level": 5,
+      "boyo_id": 171,
+      "id": 175,
+      "filename": "0175_sad.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0175_sad.png",
+      "success": true
+    },
+    {
+      "word": "fat",
+      "meaning": "肥胖的",
+      "level": 5,
+      "boyo_id": 172,
+      "id": 176,
+      "filename": "0176_fat.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0176_fat.png",
+      "success": true
+    },
+    {
+      "word": "thin",
+      "meaning": "瘦的、薄的",
+      "level": 5,
+      "boyo_id": 173,
+      "id": 177,
+      "filename": "0177_thin.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0177_thin.png",
+      "success": true
+    },
+    {
+      "word": "strong",
+      "meaning": "強壯的",
+      "level": 5,
+      "boyo_id": 174,
+      "id": 178,
+      "filename": "0178_strong.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0178_strong.png",
+      "success": true
+    },
+    {
+      "word": "cute",
+      "meaning": "可愛的",
+      "level": 5,
+      "boyo_id": 175,
+      "id": 179,
+      "filename": "0179_cute.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0179_cute.png",
+      "success": true
+    },
+    {
+      "word": "sick",
+      "meaning": "生病的",
+      "level": 5,
+      "boyo_id": 176,
+      "id": 180,
+      "filename": "0180_sick.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0180_sick.png",
+      "success": true
+    },
+    {
+      "word": "tired",
+      "meaning": "疲倦的",
+      "level": 5,
+      "boyo_id": 177,
+      "id": 181,
+      "filename": "0181_tired.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0181_tired.png",
+      "success": true
+    },
+    {
+      "word": "angry",
+      "meaning": "憤怒的",
+      "level": 5,
+      "boyo_id": 178,
+      "id": 182,
+      "filename": "0182_angry.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0182_angry.png",
+      "success": true
+    },
+    {
+      "word": "hungry",
+      "meaning": "餓的",
+      "level": 5,
+      "boyo_id": 179,
+      "id": 183,
+      "filename": "0183_hungry.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0183_hungry.png",
+      "success": true
+    },
+    {
+      "word": "thirsty",
+      "meaning": "渴的",
+      "level": 5,
+      "boyo_id": 180,
+      "id": 184,
+      "filename": "0184_thirsty.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0184_thirsty.png",
+      "success": true
+    },
+    {
+      "word": "aunt",
+      "meaning": "阿姨",
+      "level": 5,
+      "boyo_id": 181,
+      "id": 185,
+      "filename": "0185_aunt.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0185_aunt.png",
+      "success": true
+    },
+    {
+      "word": "uncle",
+      "meaning": "叔叔",
+      "level": 5,
+      "boyo_id": 182,
+      "id": 186,
+      "filename": "0186_uncle.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0186_uncle.png",
+      "success": true
+    },
+    {
+      "word": "cousin",
+      "meaning": "堂/表兄弟姊妹",
+      "level": 5,
+      "boyo_id": 183,
+      "id": 187,
+      "filename": "0187_cousin.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0187_cousin.png",
+      "success": true
+    },
+    {
+      "word": "parent",
+      "meaning": "父(母)親",
+      "level": 5,
+      "boyo_id": 184,
+      "id": 188,
+      "filename": "0188_parent.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0188_parent.png",
+      "success": true
+    },
+    {
+      "word": "family",
+      "meaning": "家庭、家人",
+      "level": 5,
+      "boyo_id": 185,
+      "id": 189,
+      "filename": "0189_family.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0189_family.png",
+      "success": true
+    },
+    {
+      "word": "live",
+      "meaning": "住",
+      "level": 5,
+      "boyo_id": 186,
+      "id": 190,
+      "filename": "0190_live.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0190_live.png",
+      "success": true
+    },
+    {
+      "word": "food",
+      "meaning": "食物",
+      "level": 5,
+      "boyo_id": 187,
+      "id": 191,
+      "filename": "0191_food.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0191_food.png",
+      "success": true
+    },
+    {
+      "word": "beef",
+      "meaning": "牛肉",
+      "level": 5,
+      "boyo_id": 188,
+      "id": 192,
+      "filename": "0192_beef.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0192_beef.png",
+      "success": true
+    },
+    {
+      "word": "pork",
+      "meaning": "豬肉",
+      "level": 5,
+      "boyo_id": 189,
+      "id": 193,
+      "filename": "0193_pork.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0193_pork.png",
+      "success": true
+    },
+    {
+      "word": "soup",
+      "meaning": "湯",
+      "level": 5,
+      "boyo_id": 190,
+      "id": 194,
+      "filename": "0194_soup.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0194_soup.png",
+      "success": true
+    },
+    {
+      "word": "hot dog",
+      "meaning": "熱狗",
+      "level": 5,
+      "boyo_id": 191,
+      "id": 195,
+      "filename": "0195_hot_dog.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0195_hot_dog.png",
+      "success": true
+    },
+    {
+      "word": "sandwich",
+      "meaning": "三明治",
+      "level": 5,
+      "boyo_id": 192,
+      "id": 196,
+      "filename": "0196_sandwich.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0196_sandwich.png",
+      "success": true
+    },
+    {
+      "word": "tomato",
+      "meaning": "番茄",
+      "level": 5,
+      "boyo_id": 193,
+      "id": 197,
+      "filename": "0197_tomato.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0197_tomato.png",
+      "success": true
+    },
+    {
+      "word": "orange",
+      "meaning": "柳橙",
+      "level": 5,
+      "boyo_id": 194,
+      "id": 198,
+      "filename": "0198_orange.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0198_orange.png",
+      "success": true
+    },
+    {
+      "word": "vegetable",
+      "meaning": "蔬菜",
+      "level": 5,
+      "boyo_id": 195,
+      "id": 199,
+      "filename": "0199_vegetable.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0199_vegetable.png",
+      "success": true
+    },
+    {
+      "word": "bread",
+      "meaning": "麵包",
+      "level": 5,
+      "boyo_id": 196,
+      "id": 200,
+      "filename": "0200_bread.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0200_bread.png",
+      "success": true
+    },
+    {
+      "word": "pie",
+      "meaning": "派",
+      "level": 5,
+      "boyo_id": 197,
+      "id": 201,
+      "filename": "0201_pie.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0201_pie.png",
+      "success": true
+    },
+    {
+      "word": "pizza",
+      "meaning": "披薩",
+      "level": 5,
+      "boyo_id": 198,
+      "id": 202,
+      "filename": "0202_pizza.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0202_pizza.png",
+      "success": true
+    },
+    {
+      "word": "ice cream",
+      "meaning": "冰淇淋",
+      "level": 5,
+      "boyo_id": 199,
+      "id": 203,
+      "filename": "0203_ice_cream.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0203_ice_cream.png",
+      "success": true
+    },
+    {
+      "word": "candy",
+      "meaning": "糖果",
+      "level": 5,
+      "boyo_id": 200,
+      "id": 204,
+      "filename": "0204_candy.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0204_candy.png",
+      "success": true
+    }
+  ]
+}

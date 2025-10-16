@@ -1,0 +1,410 @@
+{
+  "level": 4,
+  "levelName": "英文單字認讀基礎級(四)",
+  "totalWords": 40,
+  "successCount": 40,
+  "errorCount": 0,
+  "outputDir": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4",
+  "results": [
+    {
+      "word": "cook",
+      "meaning": "廚師",
+      "level": 4,
+      "boyo_id": 111,
+      "id": 114,
+      "filename": "0114_cook.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0114_cook.png",
+      "success": true
+    },
+    {
+      "word": "driver",
+      "meaning": "駕駛員",
+      "level": 4,
+      "boyo_id": 112,
+      "id": 115,
+      "filename": "0115_driver.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0115_driver.png",
+      "success": true
+    },
+    {
+      "word": "engineer",
+      "meaning": "工程師",
+      "level": 4,
+      "boyo_id": 113,
+      "id": 116,
+      "filename": "0116_engineer.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0116_engineer.png",
+      "success": true
+    },
+    {
+      "word": "farmer",
+      "meaning": "農夫",
+      "level": 4,
+      "boyo_id": 114,
+      "id": 117,
+      "filename": "0117_farmer.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0117_farmer.png",
+      "success": true
+    },
+    {
+      "word": "worker",
+      "meaning": "工人",
+      "level": 4,
+      "boyo_id": 115,
+      "id": 118,
+      "filename": "0118_worker.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0118_worker.png",
+      "success": true
+    },
+    {
+      "word": "name",
+      "meaning": "名字",
+      "level": 4,
+      "boyo_id": 116,
+      "id": 119,
+      "filename": "0119_name.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0119_name.png",
+      "success": true
+    },
+    {
+      "word": "Mr.",
+      "meaning": "先生",
+      "level": 4,
+      "boyo_id": 117,
+      "id": 120,
+      "filename": "0120_Mr_.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0120_Mr_.png",
+      "success": true
+    },
+    {
+      "word": "Mrs.",
+      "meaning": "太太",
+      "level": 4,
+      "boyo_id": 118,
+      "id": 121,
+      "filename": "0121_Mrs_.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0121_Mrs_.png",
+      "success": true
+    },
+    {
+      "word": "fruit",
+      "meaning": "水果",
+      "level": 4,
+      "boyo_id": 119,
+      "id": 122,
+      "filename": "0122_fruit.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0122_fruit.png",
+      "success": true
+    },
+    {
+      "word": "apple",
+      "meaning": "蘋果",
+      "level": 4,
+      "boyo_id": 120,
+      "id": 123,
+      "filename": "0123_apple.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0123_apple.png",
+      "success": true
+    },
+    {
+      "word": "pear",
+      "meaning": "梨子",
+      "level": 4,
+      "boyo_id": 121,
+      "id": 124,
+      "filename": "0124_pear.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0124_pear.png",
+      "success": true
+    },
+    {
+      "word": "peach",
+      "meaning": "桃子",
+      "level": 4,
+      "boyo_id": 122,
+      "id": 125,
+      "filename": "0125_peach.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0125_peach.png",
+      "success": true
+    },
+    {
+      "word": "grape",
+      "meaning": "葡萄",
+      "level": 4,
+      "boyo_id": 123,
+      "id": 126,
+      "filename": "0126_grape.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0126_grape.png",
+      "success": true
+    },
+    {
+      "word": "banana",
+      "meaning": "香蕉",
+      "level": 4,
+      "boyo_id": 124,
+      "id": 127,
+      "filename": "0127_banana.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0127_banana.png",
+      "success": true
+    },
+    {
+      "word": "water",
+      "meaning": "水",
+      "level": 4,
+      "boyo_id": 125,
+      "id": 128,
+      "filename": "0128_water.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0128_water.png",
+      "success": true
+    },
+    {
+      "word": "milk",
+      "meaning": "牛奶",
+      "level": 4,
+      "boyo_id": 126,
+      "id": 129,
+      "filename": "0129_milk.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0129_milk.png",
+      "success": true
+    },
+    {
+      "word": "Coke",
+      "meaning": "可口可樂",
+      "level": 4,
+      "boyo_id": 127,
+      "id": 130,
+      "filename": "0130_Coke.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0130_Coke.png",
+      "success": true
+    },
+    {
+      "word": "juice",
+      "meaning": "果汁",
+      "level": 4,
+      "boyo_id": 128,
+      "id": 131,
+      "filename": "0131_juice.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0131_juice.png",
+      "success": true
+    },
+    {
+      "word": "coffee",
+      "meaning": "咖啡",
+      "level": 4,
+      "boyo_id": 129,
+      "id": 132,
+      "filename": "0132_coffee.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0132_coffee.png",
+      "success": true
+    },
+    {
+      "word": "tea",
+      "meaning": "茶",
+      "level": 4,
+      "boyo_id": 130,
+      "id": 133,
+      "filename": "0133_tea.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0133_tea.png",
+      "success": true
+    },
+    {
+      "word": "egg",
+      "meaning": "蛋",
+      "level": 4,
+      "boyo_id": 131,
+      "id": 134,
+      "filename": "0134_egg.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0134_egg.png",
+      "success": true
+    },
+    {
+      "word": "cake",
+      "meaning": "蛋糕",
+      "level": 4,
+      "boyo_id": 132,
+      "id": 135,
+      "filename": "0135_cake.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0135_cake.png",
+      "success": true
+    },
+    {
+      "word": "fish",
+      "meaning": "魚、魚肉",
+      "level": 4,
+      "boyo_id": 133,
+      "id": 136,
+      "filename": "0136_fish.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0136_fish.png",
+      "success": true
+    },
+    {
+      "word": "rice",
+      "meaning": "米、米飯",
+      "level": 4,
+      "boyo_id": 134,
+      "id": 137,
+      "filename": "0137_rice.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0137_rice.png",
+      "success": true
+    },
+    {
+      "word": "breakfast",
+      "meaning": "早餐",
+      "level": 4,
+      "boyo_id": 135,
+      "id": 138,
+      "filename": "0138_breakfast.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0138_breakfast.png",
+      "success": true
+    },
+    {
+      "word": "lunch",
+      "meaning": "午餐",
+      "level": 4,
+      "boyo_id": 136,
+      "id": 139,
+      "filename": "0139_lunch.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0139_lunch.png",
+      "success": true
+    },
+    {
+      "word": "dinner",
+      "meaning": "晚餐",
+      "level": 4,
+      "boyo_id": 137,
+      "id": 140,
+      "filename": "0140_dinner.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0140_dinner.png",
+      "success": true
+    },
+    {
+      "word": "drink",
+      "meaning": "喝;飲料",
+      "level": 4,
+      "boyo_id": 139,
+      "id": 141,
+      "filename": "0141_drink.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0141_drink.png",
+      "success": true
+    },
+    {
+      "word": "eat",
+      "meaning": "吃",
+      "level": 4,
+      "boyo_id": 138,
+      "id": 142,
+      "filename": "0142_eat.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0142_eat.png",
+      "success": true
+    },
+    {
+      "word": "sleep",
+      "meaning": "睡",
+      "level": 4,
+      "boyo_id": 140,
+      "id": 143,
+      "filename": "0143_sleep.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0143_sleep.png",
+      "success": true
+    },
+    {
+      "word": "read",
+      "meaning": "讀、閱讀",
+      "level": 4,
+      "boyo_id": 141,
+      "id": 144,
+      "filename": "0144_read.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0144_read.png",
+      "success": true
+    },
+    {
+      "word": "play",
+      "meaning": "玩",
+      "level": 4,
+      "boyo_id": 142,
+      "id": 145,
+      "filename": "0145_play.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0145_play.png",
+      "success": true
+    },
+    {
+      "word": "go",
+      "meaning": "去",
+      "level": 4,
+      "boyo_id": 143,
+      "id": 146,
+      "filename": "0146_go.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0146_go.png",
+      "success": true
+    },
+    {
+      "word": "like",
+      "meaning": "喜歡",
+      "level": 4,
+      "boyo_id": 144,
+      "id": 147,
+      "filename": "0147_like.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0147_like.png",
+      "success": true
+    },
+    {
+      "word": "listen",
+      "meaning": "聽",
+      "level": 4,
+      "boyo_id": 145,
+      "id": 148,
+      "filename": "0148_listen.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0148_listen.png",
+      "success": true
+    },
+    {
+      "word": "music",
+      "meaning": "音樂",
+      "level": 4,
+      "boyo_id": 146,
+      "id": 149,
+      "filename": "0149_music.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0149_music.png",
+      "success": true
+    },
+    {
+      "word": "movie",
+      "meaning": "電影",
+      "level": 4,
+      "boyo_id": 147,
+      "id": 150,
+      "filename": "0150_movie.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0150_movie.png",
+      "success": true
+    },
+    {
+      "word": "comic book",
+      "meaning": "漫畫書",
+      "level": 4,
+      "boyo_id": 148,
+      "id": 151,
+      "filename": "0151_comic_book.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0151_comic_book.png",
+      "success": true
+    },
+    {
+      "word": "computer",
+      "meaning": "電腦",
+      "level": 4,
+      "boyo_id": 149,
+      "id": 152,
+      "filename": "0152_computer.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0152_computer.png",
+      "success": true
+    },
+    {
+      "word": "bus",
+      "meaning": "公車",
+      "level": 4,
+      "boyo_id": 150,
+      "id": 153,
+      "filename": "0153_bus.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0153_bus.png",
+      "success": true
+    }
+  ]
+}

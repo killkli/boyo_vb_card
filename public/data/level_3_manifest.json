@@ -1,0 +1,411 @@
+{
+  "level": 3,
+  "levelName": "英文單字認讀基礎級(三)",
+  "totalWords": 40,
+  "successCount": 39,
+  "errorCount": 1,
+  "outputDir": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3",
+  "results": [
+    {
+      "word": "hair",
+      "meaning": "頭髮",
+      "level": 3,
+      "boyo_id": 71,
+      "id": 74,
+      "filename": "0074_hair.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0074_hair.png",
+      "success": true
+    },
+    {
+      "word": "hand",
+      "meaning": "手",
+      "level": 3,
+      "boyo_id": 72,
+      "id": 75,
+      "filename": null,
+      "filepath": null,
+      "success": false,
+      "error": "API Error: No image data in response"
+    },
+    {
+      "word": "leg",
+      "meaning": "腿",
+      "level": 3,
+      "boyo_id": 73,
+      "id": 76,
+      "filename": "0076_leg.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0076_leg.png",
+      "success": true
+    },
+    {
+      "word": "cat",
+      "meaning": "貓",
+      "level": 3,
+      "boyo_id": 74,
+      "id": 77,
+      "filename": "0077_cat.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0077_cat.png",
+      "success": true
+    },
+    {
+      "word": "dog",
+      "meaning": "狗",
+      "level": 3,
+      "boyo_id": 75,
+      "id": 78,
+      "filename": "0078_dog.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0078_dog.png",
+      "success": true
+    },
+    {
+      "word": "bird",
+      "meaning": "鳥",
+      "level": 3,
+      "boyo_id": 76,
+      "id": 79,
+      "filename": "0079_bird.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0079_bird.png",
+      "success": true
+    },
+    {
+      "word": "bear",
+      "meaning": "熊",
+      "level": 3,
+      "boyo_id": 77,
+      "id": 80,
+      "filename": "0080_bear.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0080_bear.png",
+      "success": true
+    },
+    {
+      "word": "duck",
+      "meaning": "鴨",
+      "level": 3,
+      "boyo_id": 78,
+      "id": 81,
+      "filename": "0081_duck.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0081_duck.png",
+      "success": true
+    },
+    {
+      "word": "chicken",
+      "meaning": "雞",
+      "level": 3,
+      "boyo_id": 79,
+      "id": 82,
+      "filename": "0082_chicken.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0082_chicken.png",
+      "success": true
+    },
+    {
+      "word": "mouse",
+      "meaning": "老鼠",
+      "level": 3,
+      "boyo_id": 80,
+      "id": 83,
+      "filename": "0083_mouse.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0083_mouse.png",
+      "success": true
+    },
+    {
+      "word": "pig",
+      "meaning": "豬",
+      "level": 3,
+      "boyo_id": 81,
+      "id": 84,
+      "filename": "0084_pig.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0084_pig.png",
+      "success": true
+    },
+    {
+      "word": "rabbit",
+      "meaning": "兔子",
+      "level": 3,
+      "boyo_id": 82,
+      "id": 85,
+      "filename": "0085_rabbit.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0085_rabbit.png",
+      "success": true
+    },
+    {
+      "word": "fox",
+      "meaning": "狐狸",
+      "level": 3,
+      "boyo_id": 83,
+      "id": 86,
+      "filename": "0086_fox.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0086_fox.png",
+      "success": true
+    },
+    {
+      "word": "lion",
+      "meaning": "獅子",
+      "level": 3,
+      "boyo_id": 84,
+      "id": 87,
+      "filename": "0087_lion.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0087_lion.png",
+      "success": true
+    },
+    {
+      "word": "tiger",
+      "meaning": "老虎",
+      "level": 3,
+      "boyo_id": 85,
+      "id": 88,
+      "filename": "0088_tiger.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0088_tiger.png",
+      "success": true
+    },
+    {
+      "word": "sheep",
+      "meaning": "羊",
+      "level": 3,
+      "boyo_id": 86,
+      "id": 89,
+      "filename": "0089_sheep.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0089_sheep.png",
+      "success": true
+    },
+    {
+      "word": "monkey",
+      "meaning": "猴子",
+      "level": 3,
+      "boyo_id": 87,
+      "id": 90,
+      "filename": "0090_monkey.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0090_monkey.png",
+      "success": true
+    },
+    {
+      "word": "elephant",
+      "meaning": "大象",
+      "level": 3,
+      "boyo_id": 88,
+      "id": 91,
+      "filename": "0091_elephant.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0091_elephant.png",
+      "success": true
+    },
+    {
+      "word": "horse",
+      "meaning": "馬",
+      "level": 3,
+      "boyo_id": 89,
+      "id": 92,
+      "filename": "0092_horse.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0092_horse.png",
+      "success": true
+    },
+    {
+      "word": "frog",
+      "meaning": "青蛙",
+      "level": 3,
+      "boyo_id": 90,
+      "id": 93,
+      "filename": "0093_frog.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0093_frog.png",
+      "success": true
+    },
+    {
+      "word": "ant",
+      "meaning": "螞蟻",
+      "level": 3,
+      "boyo_id": 91,
+      "id": 94,
+      "filename": "0094_ant.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0094_ant.png",
+      "success": true
+    },
+    {
+      "word": "bee",
+      "meaning": "蜜蜂",
+      "level": 3,
+      "boyo_id": 92,
+      "id": 95,
+      "filename": "0095_bee.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0095_bee.png",
+      "success": true
+    },
+    {
+      "word": "snake",
+      "meaning": "蛇",
+      "level": 3,
+      "boyo_id": 93,
+      "id": 96,
+      "filename": "0096_snake.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0096_snake.png",
+      "success": true
+    },
+    {
+      "word": "pet",
+      "meaning": "寵物",
+      "level": 3,
+      "boyo_id": 94,
+      "id": 97,
+      "filename": "0097_pet.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0097_pet.png",
+      "success": true
+    },
+    {
+      "word": "animal",
+      "meaning": "動物",
+      "level": 3,
+      "boyo_id": 95,
+      "id": 98,
+      "filename": "0098_animal.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0098_animal.png",
+      "success": true
+    },
+    {
+      "word": "my",
+      "meaning": "我的",
+      "level": 3,
+      "boyo_id": 96,
+      "id": 99,
+      "filename": "0099_my.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0099_my.png",
+      "success": true
+    },
+    {
+      "word": "your",
+      "meaning": "你的",
+      "level": 3,
+      "boyo_id": 97,
+      "id": 100,
+      "filename": "0100_your.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0100_your.png",
+      "success": true
+    },
+    {
+      "word": "his",
+      "meaning": "他的",
+      "level": 3,
+      "boyo_id": 98,
+      "id": 101,
+      "filename": "0101_his.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0101_his.png",
+      "success": true
+    },
+    {
+      "word": "her",
+      "meaning": "她的",
+      "level": 3,
+      "boyo_id": 99,
+      "id": 102,
+      "filename": "0102_her.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0102_her.png",
+      "success": true
+    },
+    {
+      "word": "its",
+      "meaning": "牠的",
+      "level": 3,
+      "boyo_id": 100,
+      "id": 103,
+      "filename": "0103_its.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0103_its.png",
+      "success": true
+    },
+    {
+      "word": "our",
+      "meaning": "我們的",
+      "level": 3,
+      "boyo_id": 101,
+      "id": 104,
+      "filename": "0104_our.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0104_our.png",
+      "success": true
+    },
+    {
+      "word": "their",
+      "meaning": "他們的",
+      "level": 3,
+      "boyo_id": 102,
+      "id": 105,
+      "filename": "0105_their.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0105_their.png",
+      "success": true
+    },
+    {
+      "word": "yes",
+      "meaning": "是",
+      "level": 3,
+      "boyo_id": 103,
+      "id": 106,
+      "filename": "0106_yes.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0106_yes.png",
+      "success": true
+    },
+    {
+      "word": "no",
+      "meaning": "不",
+      "level": 3,
+      "boyo_id": 104,
+      "id": 107,
+      "filename": "0107_no.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0107_no.png",
+      "success": true
+    },
+    {
+      "word": "not",
+      "meaning": "不",
+      "level": 3,
+      "boyo_id": 105,
+      "id": 108,
+      "filename": "0108_not.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0108_not.png",
+      "success": true
+    },
+    {
+      "word": "O.K.",
+      "meaning": "好",
+      "level": 3,
+      "boyo_id": 106,
+      "id": 109,
+      "filename": "0109_O_K_.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0109_O_K_.png",
+      "success": true
+    },
+    {
+      "word": "doctor",
+      "meaning": "醫生",
+      "level": 3,
+      "boyo_id": 107,
+      "id": 110,
+      "filename": "0110_doctor.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0110_doctor.png",
+      "success": true
+    },
+    {
+      "word": "nurse",
+      "meaning": "護士",
+      "level": 3,
+      "boyo_id": 108,
+      "id": 111,
+      "filename": "0111_nurse.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0111_nurse.png",
+      "success": true
+    },
+    {
+      "word": "singer",
+      "meaning": "歌手",
+      "level": 3,
+      "boyo_id": 109,
+      "id": 112,
+      "filename": "0112_singer.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0112_singer.png",
+      "success": true
+    },
+    {
+      "word": "actor",
+      "meaning": "演員",
+      "level": 3,
+      "boyo_id": 110,
+      "id": 113,
+      "filename": "0113_actor.png",
+      "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0113_actor.png",
+      "success": true
+    }
+  ]
+}
