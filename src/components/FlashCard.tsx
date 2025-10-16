@@ -21,10 +21,14 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
     setShowSuccess(true);
     // Trigger flip after animation
     setTimeout(() => {
-      onFlip();
-      setShowSuccess(false);
+      if (!isFlipped) {
+        onFlip();
+      }
+      setTimeout(() => {
+        setShowSuccess(false);
+      }, 100);
     }, 1500);
-  }, [onFlip]);
+  }, [onFlip, isFlipped]);
 
   const {
     isSupported: speechSupported,
@@ -49,17 +53,24 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
     speakText(card.word, 'en-US');
   }, [card.word]);
 
+  // Handle card click with protection during success animation
+  const handleCardClick = useCallback(() => {
+    if (!showSuccess && !isLoading) {
+      onFlip();
+    }
+  }, [showSuccess, isLoading, onFlip]);
+
   return (
     <div className="card-flip-container w-full h-full flex items-center justify-center px-4">
       <div
-        className={`card-flip relative w-full max-w-md h-[85vh] max-h-[600px] cursor-pointer ${
-          isFlipped ? 'flipped' : ''
-        }`}
-        onClick={onFlip}
+        className={`card-flip relative w-full max-w-md h-[85vh] max-h-[600px] ${
+          showSuccess || isLoading ? 'cursor-default' : 'cursor-pointer'
+        } ${isFlipped ? 'flipped' : ''}`}
+        onClick={handleCardClick}
         role="button"
         tabIndex={0}
         onKeyDown={(e) => {
-          if (e.key === ' ' || e.key === 'Enter') {
+          if ((e.key === ' ' || e.key === 'Enter') && !showSuccess && !isLoading) {
             e.preventDefault();
             onFlip();
           }

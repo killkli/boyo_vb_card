@@ -39,8 +39,12 @@ export function useSpeechRecognition({
 
         // Check if transcript matches target word
         if (targetWord && transcriptText === targetWord.toLowerCase()) {
+          // Stop listening first to prevent multiple triggers
+          if (recognitionRef.current) {
+            recognitionRef.current.stop();
+          }
+          setIsListening(false);
           onMatch?.();
-          stopListening();
         }
       };
 
