@@ -14,7 +14,21 @@
       "id": 1,
       "filename": "0001_I.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0001_I.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I often help my mom do chores at home.",
+          "chinese": "我常常幫我媽媽在家裡做家事。"
+        },
+        {
+          "english": "I am a third-grade student at this elementary school.",
+          "chinese": "我是這間小學三年級的學生。"
+        },
+        {
+          "english": "I want to read a fun storybook before bedtime.",
+          "chinese": "我想在睡覺前讀一本有趣的故事書。"
+        }
+      ]
     },
     {
       "word": "you",
@@ -24,7 +38,21 @@
       "id": 2,
       "filename": "0002_you.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0002_you.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "You are a kind student in my class.",
+          "chinese": "你是我班上一個很和善的學生。"
+        },
+        {
+          "english": "You all can play together after school.",
+          "chinese": "你們放學後可以一起玩。"
+        },
+        {
+          "english": "Do you like to eat fruit for breakfast?",
+          "chinese": "你早餐喜歡吃水果嗎？"
+        }
+      ]
     },
     {
       "word": "he",
@@ -34,7 +62,21 @@
       "id": 3,
       "filename": "0003_he.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0003_he.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "He is a happy boy and he likes to draw pictures.",
+          "chinese": "他是個快樂的男孩，他喜歡畫圖。"
+        },
+        {
+          "english": "Every day, he goes to school by bus.",
+          "chinese": "他每天都搭公車去學校。"
+        },
+        {
+          "english": "He has a red hat and wears it often.",
+          "chinese": "他有一頂紅色的帽子，而且他常常戴著它。"
+        }
+      ]
     },
     {
       "word": "she",
@@ -44,7 +86,21 @@
       "id": 4,
       "filename": "0004_she.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0004_she.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She is a kind girl with long hair.",
+          "chinese": "她是一個有著長頭髮的親切女孩。"
+        },
+        {
+          "english": "She likes to read storybooks at night.",
+          "chinese": "她喜歡在晚上讀故事書。"
+        },
+        {
+          "english": "She plays soccer with her brother on weekends.",
+          "chinese": "她在週末和她的哥哥踢足球。"
+        }
+      ]
     },
     {
       "word": "it",
@@ -54,7 +110,21 @@
       "id": 5,
       "filename": "0005_it.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0005_it.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My dog is small. It likes to play with a ball.",
+          "chinese": "我的狗狗很小。牠喜歡玩球。"
+        },
+        {
+          "english": "It is seven o'clock now. Time for school!",
+          "chinese": "現在七點了。該上學了！"
+        },
+        {
+          "english": "It is important to brush your teeth every day.",
+          "chinese": "每天刷牙很重要。"
+        }
+      ]
     },
     {
       "word": "we",
@@ -64,7 +134,21 @@
       "id": 6,
       "filename": "0006_we.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0006_we.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We like to draw pictures with our friends.",
+          "chinese": "我們喜歡和我們的朋友一起畫畫。"
+        },
+        {
+          "english": "We are happy to be in the same class.",
+          "chinese": "我們很高興在同一個班級。"
+        },
+        {
+          "english": "We have a lot of fun together every day.",
+          "chinese": "我們每天都玩得很開心。"
+        }
+      ]
     },
     {
       "word": "they",
@@ -74,7 +158,21 @@
       "id": 7,
       "filename": "0007_they.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0007_they.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The children like to play outside. They are very happy.",
+          "chinese": "孩子們喜歡在外面玩。他們非常開心。"
+        },
+        {
+          "english": "My friends read many books. They learn new things every day.",
+          "chinese": "我的朋友們讀很多書。他們每天學習新事物。"
+        },
+        {
+          "english": "The birds sing in the trees. They fly high in the sky.",
+          "chinese": "鳥兒在樹上唱歌。牠們在天空中飛得很高。"
+        }
+      ]
     },
     {
       "word": "boy",
@@ -84,7 +182,21 @@
       "id": 8,
       "filename": "0008_boy.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0008_boy.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The boy plays with his red ball.",
+          "chinese": "這個男孩玩他的紅色球。"
+        },
+        {
+          "english": "That boy helps his friend clean the desk.",
+          "chinese": "那個男孩幫他的朋友清理桌子。"
+        },
+        {
+          "english": "Every boy in the class likes to sing a song.",
+          "chinese": "班上的每個男孩都喜歡唱歌。"
+        }
+      ]
     },
     {
       "word": "girl",
@@ -94,7 +206,21 @@
       "id": 9,
       "filename": "0009_girl.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0009_girl.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "That happy girl has a big red ball.",
+          "chinese": "那個開心的女孩有一個大的紅球。"
+        },
+        {
+          "english": "A girl likes to play with dolls.",
+          "chinese": "女孩喜歡玩洋娃娃。"
+        },
+        {
+          "english": "The girl goes to school every day.",
+          "chinese": "這個女孩每天上學。"
+        }
+      ]
     },
     {
       "word": "baby",
@@ -104,7 +230,21 @@
       "id": 10,
       "filename": "0010_baby.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0010_baby.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My little baby loves to play with toys.",
+          "chinese": "我的小嬰兒喜歡玩玩具。"
+        },
+        {
+          "english": "This baby has big, cute eyes.",
+          "chinese": "這個嬰兒有又大又可愛的眼睛。"
+        },
+        {
+          "english": "The baby bird is learning to fly now.",
+          "chinese": "這隻小鳥寶寶現在正在學飛。"
+        }
+      ]
     },
     {
       "word": "a",
@@ -114,7 +254,21 @@
       "id": 11,
       "filename": "0011_a.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0011_a.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I see a big red car on the road.",
+          "chinese": "我在路上看到一輛大紅色的車子。"
+        },
+        {
+          "english": "This is a cute brown dog playing in the park.",
+          "chinese": "這是一隻在公園裡玩耍的可愛棕色狗。"
+        },
+        {
+          "english": "My father is a kind doctor at the hospital.",
+          "chinese": "我的爸爸是醫院裡一位和藹的醫生。"
+        }
+      ]
     },
     {
       "word": "the",
@@ -124,7 +278,21 @@
       "id": 12,
       "filename": "0012_the.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0012_the.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The blue bird sings a beautiful song.",
+          "chinese": "這隻藍色小鳥唱著一首美妙的歌。"
+        },
+        {
+          "english": "The teacher reads a story to the class.",
+          "chinese": "那位老師對班上同學讀一個故事。"
+        },
+        {
+          "english": "Let's go to the park and play games.",
+          "chinese": "我們去那個公園玩遊戲吧。"
+        }
+      ]
     },
     {
       "word": "this",
@@ -134,7 +302,21 @@
       "id": 13,
       "filename": "0013_this.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0013_this.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "This is my new book, and it is very interesting.",
+          "chinese": "這是我新的書，而且它很有趣。"
+        },
+        {
+          "english": "This red apple is very sweet, I like it a lot.",
+          "chinese": "這個紅色的蘋果很甜，我很喜歡它。"
+        },
+        {
+          "english": "This is a nice day today, let's go outside.",
+          "chinese": "這是一個美好的日子，我們出去玩吧。"
+        }
+      ]
     },
     {
       "word": "that",
@@ -144,7 +326,25 @@
       "id": 14,
       "filename": "0014_that.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0014_that.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Here are 3 example sentences with Chinese translations for \"that\" (那):",
+          "chinese": ""
+        },
+        {
+          "english": "That red apple on the table looks so delicious.",
+          "chinese": "桌上那個紅蘋果看起來真好吃。"
+        },
+        {
+          "english": "That boy running in the park is my classmate, Tom.",
+          "chinese": "公園裡跑步的那個男孩是我的同學Tom。"
+        },
+        {
+          "english": "I like that story about the brave little bird very much.",
+          "chinese": "我很喜歡那個關於勇敢小鳥的故事。"
+        }
+      ]
     },
     {
       "word": "these",
@@ -154,7 +354,21 @@
       "id": 15,
       "filename": "0015_these.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0015_these.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "These are my new storybooks.",
+          "chinese": "這些是我的新故事書。"
+        },
+        {
+          "english": "These apples are sweet and red.",
+          "chinese": "這些蘋果又甜又紅。"
+        },
+        {
+          "english": "These students are reading quietly in the library.",
+          "chinese": "這些學生在圖書館裡安靜地閱讀。"
+        }
+      ]
     },
     {
       "word": "those",
@@ -164,7 +378,21 @@
       "id": 16,
       "filename": "0016_those.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0016_those.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Those flowers in the garden smell wonderful.",
+          "chinese": "那些在花園裡的花聞起來很香。"
+        },
+        {
+          "english": "Those students are reading books in the library.",
+          "chinese": "那些學生正在圖書館裡讀書。"
+        },
+        {
+          "english": "Those shoes are too big for my feet.",
+          "chinese": "那些鞋子對我的腳來說太大了。"
+        }
+      ]
     },
     {
       "word": "is",
@@ -174,7 +402,21 @@
       "id": 17,
       "filename": "0017_is.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0017_is.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My favorite color is blue.",
+          "chinese": "我最喜歡的顏色是藍色。"
+        },
+        {
+          "english": "The little bird is on the tree.",
+          "chinese": "小鳥在樹上。"
+        },
+        {
+          "english": "The baby is now a happy child.",
+          "chinese": "這個寶寶現在是一個快樂的小孩。"
+        }
+      ]
     },
     {
       "word": "are",
@@ -184,7 +426,21 @@
       "id": 18,
       "filename": "0018_are.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0018_are.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My classmates are all very friendly students.",
+          "chinese": "我的同學都是非常友善的學生。"
+        },
+        {
+          "english": "We are very happy to play together now.",
+          "chinese": "我們現在很高興能一起玩。"
+        },
+        {
+          "english": "They are watching a fun cartoon on TV.",
+          "chinese": "他們正在電視上看一部有趣的卡通。"
+        }
+      ]
     },
     {
       "word": "am",
@@ -194,7 +450,21 @@
       "id": 19,
       "filename": "0019_am.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0019_am.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Hello, I am a student in Grade 3.",
+          "chinese": "嗨，我是三年級的學生。"
+        },
+        {
+          "english": "After playing games, I am very tired now.",
+          "chinese": "玩了遊戲後，我現在很累。"
+        },
+        {
+          "english": "I am nine years old this year.",
+          "chinese": "我今年九歲。"
+        }
+      ]
     },
     {
       "word": "do",
@@ -204,7 +474,21 @@
       "id": 20,
       "filename": "0020_do.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0020_do.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We do our homework together in the afternoon.",
+          "chinese": "我們下午一起做功課。"
+        },
+        {
+          "english": "Do you like to eat pizza for lunch?",
+          "chinese": "你午餐喜歡吃披薩嗎？"
+        },
+        {
+          "english": "My friends and I do not play games in class.",
+          "chinese": "我和我的朋友們不在課堂上玩遊戲。"
+        }
+      ]
     },
     {
       "word": "do",
@@ -214,7 +498,21 @@
       "id": 21,
       "filename": "0021_do.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0021_do.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I do my homework every evening.",
+          "chinese": "我每天晚上做功課。"
+        },
+        {
+          "english": "Do you like to read books?",
+          "chinese": "你喜歡看書嗎？"
+        },
+        {
+          "english": "We do not play games in class.",
+          "chinese": "我們上課時不做遊戲。"
+        }
+      ]
     },
     {
       "word": "father",
@@ -224,7 +522,21 @@
       "id": 22,
       "filename": "0022_father.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0022_father.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My father loves to play with me every day.",
+          "chinese": "我的爸爸每天都喜歡和我玩。"
+        },
+        {
+          "english": "My father reads a story book every night.",
+          "chinese": "我的爸爸每天晚上都會讀故事書。"
+        },
+        {
+          "english": "Father teaches me how to ride my bike.",
+          "chinese": "爸爸教我怎麼騎我的腳踏車。"
+        }
+      ]
     },
     {
       "word": "mother",
@@ -234,7 +546,21 @@
       "id": 23,
       "filename": "0023_mother.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0023_mother.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mother loves me and takes care of me every day.",
+          "chinese": "我的媽媽愛我，每天都照顧我。"
+        },
+        {
+          "english": "My mother cooks delicious dinner for our family every night.",
+          "chinese": "我的媽媽每天晚上為我們家煮好吃的晚餐。"
+        },
+        {
+          "english": "The mother cat takes good care of her little kittens.",
+          "chinese": "那隻貓媽媽好好地照顧牠的小貓咪。"
+        }
+      ]
     },
     {
       "word": "son",
@@ -244,7 +570,21 @@
       "id": 24,
       "filename": "0024_son.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0024_son.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My son likes to play soccer very much.",
+          "chinese": "我的兒子非常喜歡踢足球。"
+        },
+        {
+          "english": "Mr. Wang's son is a very smart student.",
+          "chinese": "王先生的兒子是一位非常聰明的學生。"
+        },
+        {
+          "english": "Their son loves to read story books.",
+          "chinese": "他們的兒子很喜歡看故事書。"
+        }
+      ]
     },
     {
       "word": "daughter",
@@ -254,7 +594,21 @@
       "id": 25,
       "filename": "0025_daughter.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0025_daughter.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "This is my daughter. She loves to read books.",
+          "chinese": "這是我的女兒。她喜歡讀書。"
+        },
+        {
+          "english": "My daughter likes to play with her friends.",
+          "chinese": "我的女兒喜歡和她的朋友玩。"
+        },
+        {
+          "english": "My little daughter is seven years old now.",
+          "chinese": "我的小女兒現在七歲了。"
+        }
+      ]
     },
     {
       "word": "grandmother",
@@ -264,7 +618,21 @@
       "id": 26,
       "filename": "0026_grandmother.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0026_grandmother.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My grandmother loves to tell me stories.",
+          "chinese": "我的祖母喜歡說故事給我聽。"
+        },
+        {
+          "english": "Grandmothers often give warm hugs to children.",
+          "chinese": "祖母們常常給孩子們溫暖的擁抱。"
+        },
+        {
+          "english": "We visit our grandmother's house every Sunday.",
+          "chinese": "我們每個星期天都會去祖母家。"
+        }
+      ]
     },
     {
       "word": "grandfather",
@@ -274,7 +642,21 @@
       "id": 27,
       "filename": "0027_grandfather.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0027_grandfather.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My grandfather loves to read books to me.",
+          "chinese": "我的祖父喜歡讀書給我聽。"
+        },
+        {
+          "english": "I often go to the park with my grandfather.",
+          "chinese": "我常和我的祖父去公園。"
+        },
+        {
+          "english": "My grandfather teaches me many new things.",
+          "chinese": "我的祖父教我許多新事物。"
+        }
+      ]
     },
     {
       "word": "brother",
@@ -284,7 +666,21 @@
       "id": 28,
       "filename": "0028_brother.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0028_brother.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My older brother is very kind. He helps me study.",
+          "chinese": "我的哥哥很善良。他幫我學習。"
+        },
+        {
+          "english": "My little brother likes to play with toy cars all day.",
+          "chinese": "我的弟弟整天喜歡玩玩具車。"
+        },
+        {
+          "english": "My brother and I ride our bikes to the park on weekends.",
+          "chinese": "我和我的兄弟週末騎腳踏車去公園。"
+        }
+      ]
     },
     {
       "word": "sister",
@@ -294,7 +690,21 @@
       "id": 29,
       "filename": "0029_sister.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0029_sister.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have a sister, and we play together every day.",
+          "chinese": "我有一個姐妹，我們每天都一起玩。"
+        },
+        {
+          "english": "My older sister helps me to clean my room.",
+          "chinese": "我的姊姊幫我打掃房間。"
+        },
+        {
+          "english": "My little sister likes to draw colorful pictures.",
+          "chinese": "我的妹妹喜歡畫彩色圖畫。"
+        }
+      ]
     },
     {
       "word": "zero",
@@ -304,7 +714,21 @@
       "id": 30,
       "filename": "0030_zero.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0030_zero.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have zero apples in my bag today.",
+          "chinese": "我今天書包裡有零顆蘋果。"
+        },
+        {
+          "english": "The temperature is zero degrees Celsius outside.",
+          "chinese": "外面氣溫是零度。"
+        },
+        {
+          "english": "Our team has zero points right now.",
+          "chinese": "我們隊伍現在有零分。"
+        }
+      ]
     },
     {
       "word": "one",
@@ -314,7 +738,21 @@
       "id": 31,
       "filename": "0031_one.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0031_one.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have one red apple in my bag.",
+          "chinese": "我的包包裡有一個紅蘋果。"
+        },
+        {
+          "english": "I want the blue shirt. Do you want the red one?",
+          "chinese": "我想要藍色的襯衫。你想要紅色的那一件嗎？"
+        },
+        {
+          "english": "There is only one dog in the park.",
+          "chinese": "公園裡只有一隻狗。"
+        }
+      ]
     },
     {
       "word": "two",
@@ -324,7 +762,21 @@
       "id": 32,
       "filename": "0032_two.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0032_two.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have two red apples in my bag.",
+          "chinese": "我的包包裡有兩個紅蘋果。"
+        },
+        {
+          "english": "It is two o'clock now, time for lunch!",
+          "chinese": "現在是兩點鐘，該吃午餐了！"
+        },
+        {
+          "english": "My two friends like to read books together.",
+          "chinese": "我的兩個朋友喜歡一起看書。"
+        }
+      ]
     },
     {
       "word": "three",
@@ -334,7 +786,21 @@
       "id": 33,
       "filename": "0033_three.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_1/0033_three.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have three red pencils in my pencil case.",
+          "chinese": "我鉛筆盒裡有三枝紅色鉛筆。"
+        },
+        {
+          "english": "We go home from school at three o'clock every day.",
+          "chinese": "我們每天三點鐘從學校回家。"
+        },
+        {
+          "english": "My little brother has three toy cars to play with.",
+          "chinese": "我弟弟有三輛玩具車可以玩。"
+        }
+      ]
     }
   ]
 }

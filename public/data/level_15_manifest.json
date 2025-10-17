@@ -14,7 +14,21 @@
       "id": 857,
       "filename": "0857_cut.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0857_cut.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Can you help me cut these vegetables for dinner?",
+          "chinese": "你能幫我切這些蔬菜做晚餐嗎？"
+        },
+        {
+          "english": "He has a small cut on his hand from the sharp paper.",
+          "chinese": "他的手上被鋒利的紙割了一個小傷口。"
+        },
+        {
+          "english": "The barber will cut his hair very short today.",
+          "chinese": "理髮師今天會把他的頭髮剪得很短。"
+        }
+      ]
     },
     {
       "word": "fill",
@@ -24,7 +38,21 @@
       "id": 858,
       "filename": "0858_fill.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0858_fill.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Please help me fill this bottle with water right now.",
+          "chinese": "請幫我現在把這個瓶子裝滿水。"
+        },
+        {
+          "english": "Soft music quickly filled the whole room with joy.",
+          "chinese": "輕柔的音樂很快地用歡樂裝滿了整個房間。"
+        },
+        {
+          "english": "The bakery's new cakes always fill my stomach.",
+          "chinese": "這家麵包店的新蛋糕總是把我的胃裝滿。"
+        }
+      ]
     },
     {
       "word": "pack",
@@ -34,7 +62,21 @@
       "id": 859,
       "filename": "0859_pack.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0859_pack.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Don't forget to pack your passport for the trip.",
+          "chinese": "別忘了為旅行打包你的護照。"
+        },
+        {
+          "english": "We need to pack these old toys into a big box.",
+          "chinese": "我們需要把這些舊玩具裝進一個大箱子裡。"
+        },
+        {
+          "english": "My mother always packs me a healthy lunch for school.",
+          "chinese": "我媽媽總是為我準備健康的午餐帶到學校。"
+        }
+      ]
     },
     {
       "word": "package",
@@ -44,7 +86,21 @@
       "id": 860,
       "filename": "0860_package.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0860_package.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I received a small package from my aunt yesterday.",
+          "chinese": "我昨天收到我阿姨寄來的一個小包裹。"
+        },
+        {
+          "english": "Our tour package includes flights and a hotel stay.",
+          "chinese": "我們的旅遊套裝行程包含機票和飯店住宿。"
+        },
+        {
+          "english": "They package fresh fruit carefully to keep it safe.",
+          "chinese": "他們仔細包裝新鮮水果以確保安全。"
+        }
+      ]
     },
     {
       "word": "air",
@@ -54,7 +110,21 @@
       "id": 861,
       "filename": "0861_air.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0861_air.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "It's important to get enough fresh air every day.",
+          "chinese": "每天呼吸足夠的新鮮空氣是很重要的。"
+        },
+        {
+          "english": "The popular TV show will air live at 8 p.m.",
+          "chinese": "那個受歡迎的電視節目將在晚上八點現場播出。"
+        },
+        {
+          "english": "The new student had an air of quiet confidence.",
+          "chinese": "那位新學生帶有一股沉靜自信的氣質。"
+        }
+      ]
     },
     {
       "word": "smoke",
@@ -64,7 +134,21 @@
       "id": 862,
       "filename": "0862_smoke.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0862_smoke.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My grandpa used to smoke a pipe every evening after dinner.",
+          "chinese": "我爺爺以前每天晚餐後都會抽菸斗。"
+        },
+        {
+          "english": "I saw thick smoke coming from the burning building.",
+          "chinese": "我看到濃厚的煙霧從燃燒的建築物冒出來。"
+        },
+        {
+          "english": "We could see the smoke rising from the distant campfire.",
+          "chinese": "我們可以看到遠處營火上升起的煙霧。"
+        }
+      ]
     },
     {
       "word": "earth",
@@ -74,7 +158,21 @@
       "id": 863,
       "filename": "0863_earth.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0863_earth.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Earth is the third planet from the Sun and home to many living things.",
+          "chinese": "地球是太陽系的第三顆行星，也是許多生物的家園。"
+        },
+        {
+          "english": "We must work together to protect Earth's environment for everyone's future.",
+          "chinese": "我們必須共同努力保護地球環境，為了大家的未來。"
+        },
+        {
+          "english": "From space, Earth appears like a beautiful blue marble with swirling clouds.",
+          "chinese": "從太空看，地球看起來像一顆美麗的藍色彈珠，有著旋轉的雲。"
+        }
+      ]
     },
     {
       "word": "plant",
@@ -84,7 +182,21 @@
       "id": 864,
       "filename": "0864_plant.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0864_plant.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "This beautiful plant needs a lot of water to stay healthy.",
+          "chinese": "這株美麗的植物需要很多水才能保持健康。"
+        },
+        {
+          "english": "Let's plant some new trees to help the Earth.",
+          "chinese": "讓我們種植一些新樹來幫助地球。"
+        },
+        {
+          "english": "Many different plants grow well in this warm climate.",
+          "chinese": "許多不同的植物在這個溫暖的氣候下生長良好。"
+        }
+      ]
     },
     {
       "word": "life",
@@ -94,7 +206,21 @@
       "id": 865,
       "filename": "0865_life.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0865_life.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Life is a journey full of unexpected events and challenges.",
+          "chinese": "生命是一趟充滿意想不到事件與挑戰的旅程。"
+        },
+        {
+          "english": "City life can be exciting, but also very busy and stressful for many.",
+          "chinese": "城市生活可能很刺激，但也對許多人來說非常忙碌且充滿壓力。"
+        },
+        {
+          "english": "The doctor saved the man's life after the serious car accident.",
+          "chinese": "醫生在嚴重的車禍後救了那個男人的性命。"
+        }
+      ]
     },
     {
       "word": "light",
@@ -104,7 +230,21 @@
       "id": 866,
       "filename": "0866_light.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0866_light.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Please turn on the light; it's too dark here.",
+          "chinese": "請把燈打開；這裡太暗了。"
+        },
+        {
+          "english": "This box is very light, so I can carry it easily.",
+          "chinese": "這個箱子很輕，所以我可以輕鬆地搬動它。"
+        },
+        {
+          "english": "The bright light from the sun warmed the whole room.",
+          "chinese": "太陽發出的明亮光線溫暖了整個房間。"
+        }
+      ]
     },
     {
       "word": "tub",
@@ -114,7 +254,21 @@
       "id": 867,
       "filename": "0867_tub.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0867_tub.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She filled the tub with warm water for a relaxing bath.",
+          "chinese": "她把浴缸裝滿溫水，準備泡個放鬆的澡。"
+        },
+        {
+          "english": "He bought a large tub of ice cream to share with friends.",
+          "chinese": "他買了一大桶冰淇淋，準備和朋友分享。"
+        },
+        {
+          "english": "We used a big tub to soak the dirty clothes before washing them.",
+          "chinese": "我們用一個大盆子來浸泡髒衣服，然後才洗。"
+        }
+      ]
     },
     {
       "word": "mat",
@@ -124,7 +278,21 @@
       "id": 868,
       "filename": "0868_mat.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0868_mat.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Please wipe your shoes on the doormat before coming inside.",
+          "chinese": "請在進來之前先在門墊上擦鞋。"
+        },
+        {
+          "english": "She bought a new yoga mat to practice her poses.",
+          "chinese": "她買了一個新的瑜伽墊來練習她的姿勢。"
+        },
+        {
+          "english": "Always put a mat under hot dishes to protect the table.",
+          "chinese": "為了保護桌子，熱盤子下面總是放個墊子。"
+        }
+      ]
     },
     {
       "word": "candle",
@@ -134,7 +302,21 @@
       "id": 869,
       "filename": "0869_candle.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0869_candle.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The birthday cake had many colorful candles, which we soon lit.",
+          "chinese": "生日蛋糕上有很多彩色蠟燭，我們很快就把它們點亮了。"
+        },
+        {
+          "english": "We lit candles when the power went out, so we could see in the dark.",
+          "chinese": "停電時，我們點亮蠟燭，這樣才能在黑暗中看見。"
+        },
+        {
+          "english": "Before blowing out the candles, she made a secret wish for her future.",
+          "chinese": "在吹熄蠟燭之前，她為自己的未來許了一個秘密願望。"
+        }
+      ]
     },
     {
       "word": "lamp",
@@ -144,7 +326,25 @@
       "id": 870,
       "filename": "0870_lamp.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0870_lamp.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Here are 3 example sentences with Chinese translations for the English word \"lamp\" (Chinese meaning: 檯燈), suitable for Taiwanese 國中八年級學生:",
+          "chinese": ""
+        },
+        {
+          "english": "I always turn on my lamp when I study at night.",
+          "chinese": "$我晚上讀書時總是會打開我的檯燈。"
+        },
+        {
+          "english": "This old lamp on my desk is not bright enough.",
+          "chinese": "$我桌上的這盞舊檯燈不夠亮。"
+        },
+        {
+          "english": "My brother bought a new lamp for his birthday last week.",
+          "chinese": "$我弟弟上週生日時買了一盞新檯燈。"
+        }
+      ]
     },
     {
       "word": "fire",
@@ -154,7 +354,21 @@
       "id": 871,
       "filename": "0871_fire.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0871_fire.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The brave firefighters quickly put out the big fire.",
+          "chinese": "勇敢的消防員迅速撲滅了大火。"
+        },
+        {
+          "english": "The referee fired the starting pistol to begin the race.",
+          "chinese": "裁判鳴槍，比賽隨即開始。"
+        },
+        {
+          "english": "He was fired from his job for being often late.",
+          "chinese": "他因為經常遲到而被解僱。"
+        }
+      ]
     },
     {
       "word": "wind",
@@ -164,7 +378,21 @@
       "id": 872,
       "filename": "0872_wind.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0872_wind.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The wind picked up suddenly, making the old tree branches sway.",
+          "chinese": "風突然變大，讓老樹的樹枝搖擺。"
+        },
+        {
+          "english": "You need to wind the string around the spool carefully.",
+          "chinese": "你需要小心地把線纏繞在線軸上。"
+        },
+        {
+          "english": "The winding road gradually winds up the steep mountain.",
+          "chinese": "那條彎彎曲曲的路逐漸蜿蜒而上陡峭的山。"
+        }
+      ]
     },
     {
       "word": "sky",
@@ -174,7 +402,21 @@
       "id": 873,
       "filename": "0873_sky.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0873_sky.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The sunset made the sky turn a beautiful orange and purple.",
+          "chinese": "夕陽讓天空變成美麗的橘色和紫色。"
+        },
+        {
+          "english": "He wants to reach for the sky and achieve his dreams.",
+          "chinese": "他想志向遠大，實現他的夢想。"
+        },
+        {
+          "english": "It's a clear sky, perfect for stargazing tonight.",
+          "chinese": "今晚是個晴朗的天空，非常適合觀星。"
+        }
+      ]
     },
     {
       "word": "rainbow",
@@ -184,7 +426,21 @@
       "id": 874,
       "filename": "0874_rainbow.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0874_rainbow.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "After the rain, we saw a beautiful rainbow in the sky.",
+          "chinese": "雨後，我們在天空看見一道美麗的彩虹。"
+        },
+        {
+          "english": "The rainbow after the storm gave us a feeling of hope.",
+          "chinese": "暴風雨後的彩虹帶給我們希望的感覺。"
+        },
+        {
+          "english": "The children loved the rainbow colors of the candies.",
+          "chinese": "孩子們很喜歡那些糖果的彩虹顏色。"
+        }
+      ]
     },
     {
       "word": "yet",
@@ -194,7 +450,21 @@
       "id": 875,
       "filename": "0875_yet.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0875_yet.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The movie hasn't started yet, but it will soon.",
+          "chinese": "電影尚未開始，但很快就會了。"
+        },
+        {
+          "english": "The book was difficult, yet I enjoyed reading it.",
+          "chinese": "這本書很難，然而我很享受閱讀它。"
+        },
+        {
+          "english": "Have you finished your lunch yet, or are you still eating?",
+          "chinese": "你吃完午餐了嗎，還是仍在吃？"
+        }
+      ]
     },
     {
       "word": "wave",
@@ -204,7 +474,21 @@
       "id": 876,
       "filename": "0876_wave.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0876_wave.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The big wave crashed loudly on the shore.",
+          "chinese": "那道大波浪在岸邊發出巨響。"
+        },
+        {
+          "english": "Surfers love riding the high waves in the ocean.",
+          "chinese": "衝浪者喜歡在大海中乘風破浪。"
+        },
+        {
+          "english": "We saw many waves coming towards the boat.",
+          "chinese": "我們看到許多海浪朝著船隻湧來。"
+        }
+      ]
     },
     {
       "word": "rock",
@@ -214,7 +498,21 @@
       "id": 877,
       "filename": "0877_rock.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0877_rock.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "He picked up a smooth rock from the riverbank.",
+          "chinese": "他從河岸撿起一塊光滑的石頭。"
+        },
+        {
+          "english": "A big rock blocked the narrow path in the forest.",
+          "chinese": "一塊大石頭擋住了森林裡狹窄的小徑。"
+        },
+        {
+          "english": "The waves crashed against the sharp rocks near the shore.",
+          "chinese": "海浪拍打著岸邊鋒利的岩石。"
+        }
+      ]
     },
     {
       "word": "nature",
@@ -224,7 +522,21 @@
       "id": 878,
       "filename": "0878_nature.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0878_nature.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Many people enjoy spending their weekends connecting with nature.",
+          "chinese": "許多人喜歡在週末與大自然接觸。"
+        },
+        {
+          "english": "The beauty of nature, like mountains and oceans, always amazes us.",
+          "chinese": "大自然的美，例如山和海洋，總是讓我們驚嘆不已。"
+        },
+        {
+          "english": "We must learn to respect nature and protect its delicate balance.",
+          "chinese": "我們必須學會尊重大自然並保護它脆弱的平衡。"
+        }
+      ]
     },
     {
       "word": "land",
@@ -234,7 +546,21 @@
       "id": 879,
       "filename": "0879_land.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0879_land.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Astronauts will land on the moon next year.",
+          "chinese": "太空人明年將會登陸月球。"
+        },
+        {
+          "english": "After a long trip, we finally saw land.",
+          "chinese": "經過漫長的旅程，我們終於看到陸地了。"
+        },
+        {
+          "english": "The fisherman hoped to land a big fish today.",
+          "chinese": "漁夫希望今天能捕到一條大魚。"
+        }
+      ]
     },
     {
       "word": "pond",
@@ -244,7 +570,21 @@
       "id": 880,
       "filename": "0880_pond.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0880_pond.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Many colorful fish swim happily in the small pond.",
+          "chinese": "許多色彩繽紛的魚兒在小池塘裡快樂地游著。"
+        },
+        {
+          "english": "Children often throw bread crumbs to feed ducks in the park pond.",
+          "chinese": "孩子們經常在公園池塘邊丟麵包屑餵鴨子。"
+        },
+        {
+          "english": "The surface of the pond was still, reflecting the blue sky.",
+          "chinese": "池塘水面很平靜，倒映著藍天。"
+        }
+      ]
     },
     {
       "word": "mud",
@@ -254,7 +594,21 @@
       "id": 881,
       "filename": "0881_mud.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0881_mud.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My shoes were covered in mud after hiking through the forest.",
+          "chinese": "我的鞋子在走過森林後沾滿了泥巴。"
+        },
+        {
+          "english": "Children love to play in the mud after it rains heavily.",
+          "chinese": "下大雨後，孩子們喜歡在泥巴裡玩耍。"
+        },
+        {
+          "english": "The car got stuck in the deep mud on the unpaved road.",
+          "chinese": "車子卡在未鋪設道路的深泥巴裡了。"
+        }
+      ]
     },
     {
       "word": "mountain",
@@ -264,7 +618,21 @@
       "id": 882,
       "filename": "0882_mountain.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0882_mountain.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "From the top of the mountain, we enjoyed a breathtaking view of the valley.",
+          "chinese": "從山頂，我們欣賞到令人屏息的山谷美景。"
+        },
+        {
+          "english": "After the party, there was a mountain of dishes waiting to be washed.",
+          "chinese": "派對結束後，有一大堆碗盤等著清洗。"
+        },
+        {
+          "english": "To achieve success, we must be willing to move mountains.",
+          "chinese": "為了取得成功，我們必須願意移山倒海（排除萬難）。"
+        }
+      ]
     },
     {
       "word": "beach",
@@ -274,7 +642,21 @@
       "id": 883,
       "filename": "0883_beach.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0883_beach.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We spent a relaxing afternoon playing on the sandy beach.海灘上沙子很軟，我們在上面玩耍，度過了一個輕鬆的下午。",
+          "chinese": ""
+        },
+        {
+          "english": "Many tourists enjoy swimming and sunbathing on the beautiful beach during summer.許多遊客在夏天喜歡在美麗的海灘上游泳和曬太陽。",
+          "chinese": ""
+        },
+        {
+          "english": "Our family plans to visit a quiet beach next month for a vacation.我們家計畫下個月去一個安靜的海灘度假。",
+          "chinese": ""
+        }
+      ]
     },
     {
       "word": "river",
@@ -284,7 +666,21 @@
       "id": 884,
       "filename": "0884_river.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0884_river.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The river, which runs through the mountains, is very long.",
+          "chinese": "這條流經山區的河流非常長。"
+        },
+        {
+          "english": "Many animals live near the river, finding food and water.",
+          "chinese": "許多動物住在河邊，尋找食物和水源。"
+        },
+        {
+          "english": "If we keep the river clean, its water will be safe to drink.",
+          "chinese": "如果我們保持河流清潔，它的水就能安全飲用。"
+        }
+      ]
     },
     {
       "word": "lake",
@@ -294,7 +690,21 @@
       "id": 885,
       "filename": "0885_lake.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0885_lake.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The clear water of the lake reflected the blue sky beautifully.",
+          "chinese": "湖泊清澈的水面美麗地倒映著藍天。"
+        },
+        {
+          "english": "Many people enjoy boating on the lake during holidays.",
+          "chinese": "許多人喜歡在假期時到湖上划船。"
+        },
+        {
+          "english": "This large lake provides fresh water, which is important for the whole city.",
+          "chinese": "這個大湖泊提供淡水，對整個城市來說很重要。"
+        }
+      ]
     },
     {
       "word": "please",
@@ -304,7 +714,21 @@
       "id": 886,
       "filename": "0886_please.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0886_please.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Please remember to submit your project before the deadline.",
+          "chinese": "請記得在截止日期前提交你的專案。"
+        },
+        {
+          "english": "He always tries his best to please his strict teacher.",
+          "chinese": "他總是盡力取悅他嚴格的老師。"
+        },
+        {
+          "english": "May I have another slice of pizza, please, if it's not too much trouble?",
+          "chinese": "如果不麻煩的話，我可以再吃一片披薩嗎？"
+        }
+      ]
     },
     {
       "word": "chance",
@@ -314,7 +738,21 @@
       "id": 887,
       "filename": "0887_chance.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0887_chance.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Don't miss the chance to learn English well.",
+          "chinese": "不要錯過學好英文的機會。"
+        },
+        {
+          "english": "Sometimes you need to take a chance to achieve your dreams.",
+          "chinese": "有時候你需要抓住機會來實現你的夢想。"
+        },
+        {
+          "english": "Please give me one more chance to prove myself.",
+          "chinese": "請再給我一次證明自己的機會。"
+        }
+      ]
     },
     {
       "word": "prize",
@@ -324,7 +762,21 @@
       "id": 888,
       "filename": "0888_prize.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0888_prize.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She won a beautiful prize in the drawing competition.",
+          "chinese": "她在繪畫比賽中贏得了一個漂亮的獎品。"
+        },
+        {
+          "english": "The lucky winner took home a big prize.",
+          "chinese": "那位幸運的贏家帶走了一個大獎品。"
+        },
+        {
+          "english": "Winning the top prize required a lot of practice.",
+          "chinese": "贏得最高獎品需要大量的練習。"
+        }
+      ]
     },
     {
       "word": "moment",
@@ -334,7 +786,21 @@
       "id": 889,
       "filename": "0889_moment.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0889_moment.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She paused for a moment, thinking about the difficult question.",
+          "chinese": "她停頓了一下，思考那個困難的問題。"
+        },
+        {
+          "english": "Everyone cheered the moment our team scored the winning goal.",
+          "chinese": "我們的隊伍射進致勝球的那一刻，每個人都歡呼了。"
+        },
+        {
+          "english": "I'm quite busy at the moment, so I can't help you.",
+          "chinese": "我現在相當忙，所以無法幫助你。"
+        }
+      ]
     },
     {
       "word": "giant",
@@ -344,7 +810,21 @@
       "id": 890,
       "filename": "0890_giant.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0890_giant.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "In the story, a brave hero fought a terrible giant.",
+          "chinese": "在故事中，一位勇敢的英雄和一個可怕的巨人戰鬥。"
+        },
+        {
+          "english": "The blue whale is a giant animal that lives in the ocean.",
+          "chinese": "藍鯨是生活在海洋裡一種巨大的動物。"
+        },
+        {
+          "english": "Building this new bridge was a giant task for the engineers.",
+          "chinese": "建造這座新橋對工程師來說是一項巨大的任務。"
+        }
+      ]
     },
     {
       "word": "mile",
@@ -354,7 +834,21 @@
       "id": 891,
       "filename": "0891_mile.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0891_mile.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We walked about two miles to reach the beach.",
+          "chinese": "我們走了大約兩英里才到海灘。"
+        },
+        {
+          "english": "She always goes the extra mile to help her friends.",
+          "chinese": "她總是會額外付出更多努力來幫助她的朋友。"
+        },
+        {
+          "english": "His new drawing is miles better than his old one.",
+          "chinese": "他的新畫作比舊的好上許多。"
+        }
+      ]
     },
     {
       "word": "mad",
@@ -364,7 +858,21 @@
       "id": 892,
       "filename": "0892_mad.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0892_mad.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mom got mad because I didn't clean my room.",
+          "chinese": "我的媽媽生氣了，因為我沒有打掃房間。"
+        },
+        {
+          "english": "The scientist had a mad idea to create a time machine.",
+          "chinese": "那位科學家有一個瘋狂的點子要創造時光機。"
+        },
+        {
+          "english": "My sister is mad about collecting cute stickers.",
+          "chinese": "我的妹妹非常喜歡收集可愛的貼紙。"
+        }
+      ]
     },
     {
       "word": "lonely",
@@ -374,7 +882,21 @@
       "id": 893,
       "filename": "0893_lonely.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0893_lonely.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She felt very lonely after her best friend moved away.",
+          "chinese": "她最好的朋友搬走後，她感到非常孤獨。"
+        },
+        {
+          "english": "The old house on the hill looked lonely and abandoned.",
+          "chinese": "山上那棟老房子看起來孤獨又被遺棄了。"
+        },
+        {
+          "english": "Even in a crowd, he sometimes felt lonely and misunderstood.",
+          "chinese": "即使在人群中，他有時仍感到孤獨和不被理解。"
+        }
+      ]
     },
     {
       "word": "unhappy",
@@ -384,7 +906,21 @@
       "id": 894,
       "filename": "0894_unhappy.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0894_unhappy.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Lily was unhappy because her pet dog got lost last night.",
+          "chinese": "莉莉昨晚因為她的寵物狗走失了，所以不快樂。"
+        },
+        {
+          "english": "Many students were unhappy with the new school rules.",
+          "chinese": "許多學生對新的校規感到不快樂。"
+        },
+        {
+          "english": "Please don't make your friends unhappy by ignoring them.",
+          "chinese": "請不要因為忽略你的朋友而讓他們不快樂。"
+        }
+      ]
     },
     {
       "word": "shy",
@@ -394,7 +930,21 @@
       "id": 895,
       "filename": "0895_shy.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0895_shy.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My little sister is often shy when meeting new people.",
+          "chinese": "我妹妹在遇到陌生人時，常常會害羞。"
+        },
+        {
+          "english": "He was too shy to ask his crush for a dance.",
+          "chinese": "他太害羞了，不敢邀請他喜歡的人跳舞。"
+        },
+        {
+          "english": "Don't be shy to ask questions if you don't understand.",
+          "chinese": "如果你不懂，不要害羞提問。"
+        }
+      ]
     },
     {
       "word": "ice",
@@ -404,7 +954,21 @@
       "id": 896,
       "filename": "0896_ice.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0896_ice.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Don't walk on the ice; it's dangerous and might break.",
+          "chinese": "不要走在冰上；那很危險，可能會破裂。"
+        },
+        {
+          "english": "Many people enjoy ice skating when it gets cold.",
+          "chinese": "許多人喜歡在天氣變冷時溜冰。"
+        },
+        {
+          "english": "Let's play a game to break the ice among us.",
+          "chinese": "我們來玩個遊戲，打破我們之間的隔閡吧。"
+        }
+      ]
     },
     {
       "word": "loud",
@@ -414,7 +978,21 @@
       "id": 897,
       "filename": "0897_loud.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0897_loud.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The music from the speakers was very loud.",
+          "chinese": "喇叭裡傳出的音樂非常大聲。"
+        },
+        {
+          "english": "Please don't be so loud when you talk in the library.",
+          "chinese": "請你在圖書館說話時不要這麼吵鬧。"
+        },
+        {
+          "english": "A loud alarm rang, waking up everyone in the house.",
+          "chinese": "一聲響亮的警報聲響起，吵醒了屋裡的每個人。"
+        }
+      ]
     },
     {
       "word": "strange",
@@ -424,7 +1002,21 @@
       "id": 898,
       "filename": "0898_strange.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0898_strange.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "That tall building has a very strange shape. (8 words)",
+          "chinese": "那棟高樓的形狀非常奇怪。"
+        },
+        {
+          "english": "The food in that foreign country tasted very strange to me. (12 words)",
+          "chinese": "那個外國的食物對我來說味道很奇怪。"
+        },
+        {
+          "english": "It was strange that she didn't say hello to me today. (12 words)",
+          "chinese": "她今天沒有跟我打招呼，這很奇怪。"
+        }
+      ]
     },
     {
       "word": "both",
@@ -434,7 +1026,21 @@
       "id": 899,
       "filename": "0899_both.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0899_both.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Both my brother and I enjoy playing basketball.",
+          "chinese": "我哥哥和我兩個人都喜歡打籃球。"
+        },
+        {
+          "english": "The new movie was both interesting and exciting.",
+          "chinese": "這部新電影既有趣又刺激。"
+        },
+        {
+          "english": "We can eat both pizza and pasta for dinner.",
+          "chinese": "我們晚餐披薩和義大利麵都可以吃。"
+        }
+      ]
     },
     {
       "word": "bright",
@@ -444,7 +1050,21 @@
       "id": 900,
       "filename": "0900_bright.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0900_bright.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The bright lights of the city made the night feel alive.",
+          "chinese": "城市的燈光如此明亮，讓夜晚充滿了活力。"
+        },
+        {
+          "english": "With her bright mind, she quickly solved the difficult math problem.",
+          "chinese": "她有聰明的頭腦，很快就解決了那個數學難題。"
+        },
+        {
+          "english": "With hard work, you will surely have a bright future ahead.",
+          "chinese": "只要努力，你肯定會擁有一個光明的未來。"
+        }
+      ]
     },
     {
       "word": "convenient",
@@ -454,7 +1074,21 @@
       "id": 901,
       "filename": "0901_convenient.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0901_convenient.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "This restaurant is convenient because it's close to the MRT station.",
+          "chinese": "這間餐廳很方便，因為它離捷運站很近。"
+        },
+        {
+          "english": "Is 3 PM convenient for our study group tomorrow?",
+          "chinese": "明天下午三點對我們的讀書會方便嗎？"
+        },
+        {
+          "english": "Online shopping is convenient since you don't need to leave home.",
+          "chinese": "線上購物很方便，因為你不需要出門。"
+        }
+      ]
     },
     {
       "word": "fix",
@@ -464,7 +1098,21 @@
       "id": 902,
       "filename": "0902_fix.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0902_fix.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My dad can fix almost anything broken around the house.",
+          "chinese": "我爸爸幾乎能修理家裡任何壞掉的東西。"
+        },
+        {
+          "english": "Mom always fixes a delicious meal for us on Sundays.",
+          "chinese": "媽媽總是在星期天為我們準備一頓美味的飯菜。"
+        },
+        {
+          "english": "We should fix a time to study for the English test next week.",
+          "chinese": "我們應該確定下週一個時間來準備英文考試。"
+        }
+      ]
     },
     {
       "word": "choose",
@@ -474,7 +1122,21 @@
       "id": 903,
       "filename": "0903_choose.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0903_choose.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "You can choose any book from the shelf.",
+          "chinese": "你可以從書架上選擇任何一本書。"
+        },
+        {
+          "english": "He chose to study hard for the exam.",
+          "chinese": "他選擇努力讀書準備考試。"
+        },
+        {
+          "english": "It's important to choose your friends wisely.",
+          "chinese": "明智地選擇朋友很重要。"
+        }
+      ]
     },
     {
       "word": "fact",
@@ -484,7 +1146,21 @@
       "id": 904,
       "filename": "0904_fact.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0904_fact.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The teacher shared many interesting facts about history.",
+          "chinese": "老師分享了許多關於歷史的有趣事實。"
+        },
+        {
+          "english": "It's a fact that smoking is bad for your health.",
+          "chinese": "吸菸有害健康是一個事實。"
+        },
+        {
+          "english": "I expected a storm, but in fact, the weather was sunny.",
+          "chinese": "我本來預期會有暴風雨，但事實上天氣卻是晴朗的。"
+        }
+      ]
     },
     {
       "word": "cry",
@@ -494,7 +1170,21 @@
       "id": 905,
       "filename": "0905_cry.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0905_cry.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The little girl started to cry when she lost her toy.",
+          "chinese": "小女孩弄丟了玩具，就哭了起來。"
+        },
+        {
+          "english": "The crowd began to cry for joy when their team won the game.",
+          "chinese": "他們的隊伍贏得比賽時，人群開始高聲歡呼。"
+        },
+        {
+          "english": "The villagers cried out for help after the flood destroyed their homes.",
+          "chinese": "洪水摧毀他們的家園後，村民們大聲呼救。"
+        }
+      ]
     },
     {
       "word": "smile",
@@ -504,7 +1194,21 @@
       "id": 906,
       "filename": "0906_smile.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0906_smile.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She smiled brightly when she saw her best friend at the party.",
+          "chinese": "她在派對上看到她最好的朋友時，臉上露出了燦爛的笑容。"
+        },
+        {
+          "english": "His warm smile always makes people feel comfortable and welcome.",
+          "chinese": "他溫暖的微笑總是讓人感到很自在和受歡迎。"
+        },
+        {
+          "english": "Even though she was nervous, she tried to smile confidently for the presentation.",
+          "chinese": "儘管她很緊張，她還是努力自信地微笑了，為了這次簡報。"
+        }
+      ]
     },
     {
       "word": "save",
@@ -514,7 +1218,21 @@
       "id": 907,
       "filename": "0907_save.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0907_save.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The lifeguard quickly jumped into the water to save the child.",
+          "chinese": "救生員迅速跳入水中去拯救那個孩子。"
+        },
+        {
+          "english": "My parents taught me how to save money for the future.",
+          "chinese": "我的父母教我如何為未來存錢。"
+        },
+        {
+          "english": "You can save a lot of time by using a dictionary app.",
+          "chinese": "你可以透過使用字典應用程式節省很多時間。"
+        }
+      ]
     },
     {
       "word": "tell",
@@ -524,7 +1242,21 @@
       "id": 908,
       "filename": "0908_tell.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0908_tell.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My best friend told me a big secret yesterday.",
+          "chinese": "我的好朋友昨天告訴我一個大秘密。"
+        },
+        {
+          "english": "The teacher told us to finish our homework before class.",
+          "chinese": "老師吩咐我們在課前完成作業。"
+        },
+        {
+          "english": "My grandpa always tells funny stories about his youth.",
+          "chinese": "我的爺爺總是會告訴我們他年輕時的有趣故事。"
+        }
+      ]
     },
     {
       "word": "maybe",
@@ -534,7 +1266,21 @@
       "id": 909,
       "filename": "0909_maybe.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0909_maybe.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Maybe it will rain tomorrow, so bring an umbrella.",
+          "chinese": "也許明天會下雨，所以帶把傘吧。"
+        },
+        {
+          "english": "Maybe we can meet at the library after school.",
+          "chinese": "也許我們放學後可以在圖書館見面。"
+        },
+        {
+          "english": "Maybe he is busy right now, so I will call later.",
+          "chinese": "也許他現在很忙，所以我等等再打。"
+        }
+      ]
     },
     {
       "word": "either",
@@ -544,7 +1290,21 @@
       "id": 910,
       "filename": "0910_either.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0910_either.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "You can either study for the test or play games.",
+          "chinese": "你可以選擇讀書準備考試或是玩遊戲。"
+        },
+        {
+          "english": "My brother cannot swim, and I cannot either.",
+          "chinese": "我哥哥不會游泳，我也不會。"
+        },
+        {
+          "english": "You can choose either path to reach the library.",
+          "chinese": "你可以選擇這兩條路徑中的任一條到達圖書館。"
+        }
+      ]
     },
     {
       "word": "sit",
@@ -554,7 +1314,21 @@
       "id": 911,
       "filename": "0911_sit.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0911_sit.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Please sit down quietly and open your books.",
+          "chinese": "請安靜坐下並打開你的書。"
+        },
+        {
+          "english": "Our school sits on a small hill near the park.",
+          "chinese": "我們的學校坐落在公園附近的一座小山丘上。"
+        },
+        {
+          "english": "The cat likes to sit in front of the window and watch birds.",
+          "chinese": "這隻貓喜歡坐在窗前看鳥。"
+        }
+      ]
     },
     {
       "word": "quick",
@@ -564,7 +1338,21 @@
       "id": 912,
       "filename": "0912_quick.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0912_quick.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She made a quick decision to help her friend.",
+          "chinese": "她很快地決定要幫助她的朋友。"
+        },
+        {
+          "english": "Let's take a quick break before we continue studying.",
+          "chinese": "在我們繼續讀書前，我們先快速休息一下吧。"
+        },
+        {
+          "english": "He is a quick learner and always understands new things fast.",
+          "chinese": "他是一個學得很快的人，總是能快速理解新事物。"
+        }
+      ]
     },
     {
       "word": "ticket",
@@ -574,7 +1362,21 @@
       "id": 913,
       "filename": "0913_ticket.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0913_ticket.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I bought a movie ticket to see the new animated film.",
+          "chinese": "我買了一張電影票，要去看那部新的動畫片。"
+        },
+        {
+          "english": "The police officer gave me a ticket for speeding.",
+          "chinese": "警察開了一張超速罰單給我。"
+        },
+        {
+          "english": "Do you have a ticket for the concert tonight?",
+          "chinese": "你今晚有那場演唱會的票嗎？"
+        }
+      ]
     },
     {
       "word": "carefully",
@@ -584,7 +1386,21 @@
       "id": 914,
       "filename": "0914_carefully.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0914_carefully.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She carefully carried the glass box so it wouldn't break.",
+          "chinese": "她小心地搬運玻璃盒，以免它破掉。"
+        },
+        {
+          "english": "Please think carefully before you make an important decision.",
+          "chinese": "在做出重要決定前，請你仔細考慮。"
+        },
+        {
+          "english": "He carefully checked his homework for mistakes before handing it in.",
+          "chinese": "他在交作業前，小心地檢查了有沒有錯誤。"
+        }
+      ]
     },
     {
       "word": "until",
@@ -594,7 +1410,21 @@
       "id": 915,
       "filename": "0915_until.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0915_until.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I will study until midnight to prepare for the test.",
+          "chinese": "我會讀書直到午夜，為考試做準備。"
+        },
+        {
+          "english": "You cannot watch TV until you finish your homework.",
+          "chinese": "你不能看電視，直到你完成功課。"
+        },
+        {
+          "english": "We waited at the bus stop until the rain stopped.",
+          "chinese": "我們在公車站等，直到雨停了。"
+        }
+      ]
     },
     {
       "word": "nothing",
@@ -604,7 +1434,21 @@
       "id": 916,
       "filename": "0916_nothing.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0916_nothing.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "There was nothing left to eat in the fridge.",
+          "chinese": "冰箱裡沒有任何食物可以吃了。"
+        },
+        {
+          "english": "He did nothing but play video games all weekend.",
+          "chinese": "他整個週末除了玩電動遊戲，什麼都沒做。"
+        },
+        {
+          "english": "The broken toy meant nothing to the child now.",
+          "chinese": "那個壞掉的玩具對那孩子來說，現在已經毫無意義了。"
+        }
+      ]
     },
     {
       "word": "must",
@@ -614,7 +1458,21 @@
       "id": 917,
       "filename": "0917_must.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0917_must.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Students must wear their school uniform every day.",
+          "chinese": "學生每天都必須穿校服。"
+        },
+        {
+          "english": "You must study hard to pass the exam.",
+          "chinese": "你必須努力讀書才能通過考試。"
+        },
+        {
+          "english": "She must be very busy because she hasn't replied.",
+          "chinese": "她一定很忙，因為她還沒回覆。"
+        }
+      ]
     },
     {
       "word": "should",
@@ -624,7 +1482,21 @@
       "id": 918,
       "filename": "0918_should.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0918_should.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "You should finish your homework before watching TV.",
+          "chinese": "你應該在看電視之前完成作業。"
+        },
+        {
+          "english": "We should always help those who are in need.",
+          "chinese": "我們應該總是幫助那些需要幫助的人。"
+        },
+        {
+          "english": "A good student should always try their best in school.",
+          "chinese": "一個好學生應該總是在學校盡力而為。"
+        }
+      ]
     },
     {
       "word": "bean",
@@ -634,7 +1506,21 @@
       "id": 919,
       "filename": "0919_bean.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0919_bean.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Beans are a healthy food, full of protein and fiber.",
+          "chinese": "豆子是一種健康的食物，富含蛋白質和纖維。"
+        },
+        {
+          "english": "Coffee beans are roasted to make the tasty drink we love.",
+          "chinese": "咖啡豆經過烘烤，才能製成我們喜歡的美味飲品。"
+        },
+        {
+          "english": "Please don't spill the beans about my birthday surprise!",
+          "chinese": "請不要洩漏我生日驚喜的秘密！"
+        }
+      ]
     },
     {
       "word": "bun",
@@ -644,7 +1530,21 @@
       "id": 920,
       "filename": "0920_bun.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0920_bun.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She often enjoys a warm bun with butter for breakfast.",
+          "chinese": "她早餐常喜歡吃一個溫熱的奶油小圓麵包。"
+        },
+        {
+          "english": "My grandma bakes delicious sweet buns with raisins every Sunday.",
+          "chinese": "我奶奶每個星期天都會烤美味的葡萄乾甜小圓麵包。"
+        },
+        {
+          "english": "The chef used these small, soft buns to serve the mini burgers.",
+          "chinese": "那位廚師用這些小而軟的小圓麵包來搭配迷你漢堡。"
+        }
+      ]
     },
     {
       "word": "butter",
@@ -654,7 +1554,21 @@
       "id": 921,
       "filename": "0921_butter.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0921_butter.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I like to spread butter on my toast every morning.",
+          "chinese": "我喜歡每天早上在我的吐司上塗奶油。"
+        },
+        {
+          "english": "Please butter the bread for your little sister.",
+          "chinese": "請幫你的小妹妹在麵包上塗奶油。"
+        },
+        {
+          "english": "He tried to butter up his teacher for a better grade.",
+          "chinese": "他試圖討好老師以獲得更好的成績。"
+        }
+      ]
     },
     {
       "word": "cheese",
@@ -664,7 +1578,21 @@
       "id": 922,
       "filename": "0922_cheese.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0922_cheese.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Pizza tastes much better with extra cheese on top.",
+          "chinese": "披薩上面加了額外的起司會好吃許多。"
+        },
+        {
+          "english": "Cheese is a good source of calcium for your bones.",
+          "chinese": "乳酪是補充骨骼所需鈣質的良好來源。"
+        },
+        {
+          "english": "The photographer told us to say 'cheese' for the picture.",
+          "chinese": "攝影師叫我們拍照時要說「起司」。"
+        }
+      ]
     },
     {
       "word": "French fries",
@@ -674,7 +1602,21 @@
       "id": 923,
       "filename": "0923_French_fries.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0923_French_fries.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I often order French fries with my burger.",
+          "chinese": "我點漢堡時常點薯條。"
+        },
+        {
+          "english": "Do you want some French fries to share?",
+          "chinese": "你要不要一些薯條一起吃？"
+        },
+        {
+          "english": "These French fries are perfectly crispy and hot.",
+          "chinese": "這些薯條炸得酥脆又熱，真是完美！"
+        }
+      ]
     },
     {
       "word": "lettuce",
@@ -684,7 +1626,21 @@
       "id": 924,
       "filename": "0924_lettuce.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0924_lettuce.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Fresh lettuce is a key ingredient for a healthy salad.",
+          "chinese": "新鮮的萵苣是健康沙拉的關鍵食材。"
+        },
+        {
+          "english": "Don't forget to add lettuce to your sandwich for a crisp texture.",
+          "chinese": "別忘了在你的三明治裡加上萵苣，以增加清脆的口感。"
+        },
+        {
+          "english": "Many people grow lettuce in their gardens because it's easy and healthy.",
+          "chinese": "許多人在他們的菜園裡種植萵苣，因為它容易種植且健康。"
+        }
+      ]
     },
     {
       "word": "steak",
@@ -694,7 +1650,21 @@
       "id": 925,
       "filename": "0925_steak.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0925_steak.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We enjoyed a juicy steak for dinner at the new restaurant.",
+          "chinese": "我們在新餐廳享用了一份多汁的牛排當晚餐。"
+        },
+        {
+          "english": "My dad often grills steak perfectly rare for our family.",
+          "chinese": "我爸爸經常為我們家人把牛排煎得完美的三分熟。"
+        },
+        {
+          "english": "I save money to treat myself to a delicious steak once a month.",
+          "chinese": "我存錢是為了每個月請自己吃一頓美味的牛排。"
+        }
+      ]
     },
     {
       "word": "spaghetti",
@@ -704,7 +1674,21 @@
       "id": 926,
       "filename": "0926_spaghetti.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0926_spaghetti.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I often eat spaghetti with meatballs for dinner.",
+          "chinese": "我晚餐常吃義大利麵配肉丸。"
+        },
+        {
+          "english": "She carefully twirled the spaghetti onto her fork.",
+          "chinese": "她小心地將義大利麵捲上叉子。"
+        },
+        {
+          "english": "This Italian restaurant is famous for its fresh spaghetti.",
+          "chinese": "這家義大利餐廳以新鮮的義大利麵聞名。"
+        }
+      ]
     },
     {
       "word": "toast",
@@ -714,7 +1698,21 @@
       "id": 927,
       "filename": "0927_toast.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0927_toast.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I often have toast and jam for breakfast.",
+          "chinese": "我早餐常吃吐司配果醬。"
+        },
+        {
+          "english": "He loves to put peanut butter on his warm toast.",
+          "chinese": "他很喜歡在他溫熱的吐司上抹花生醬。"
+        },
+        {
+          "english": "My mom made me cheese toast for a quick snack.",
+          "chinese": "我媽媽幫我做了起司吐司當快速點心。"
+        }
+      ]
     },
     {
       "word": "salad",
@@ -724,7 +1722,21 @@
       "id": 928,
       "filename": "0928_salad.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0928_salad.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Eating a fresh salad for lunch is a healthy choice.",
+          "chinese": "午餐吃新鮮沙拉是很健康的選擇。"
+        },
+        {
+          "english": "This grilled fish dish comes with a fresh side salad.",
+          "chinese": "這道烤魚料理附有新鮮的配菜沙拉。"
+        },
+        {
+          "english": "You can add nuts and fruits to make your salad tastier.",
+          "chinese": "你可以加堅果和水果，讓你的沙拉更好吃。"
+        }
+      ]
     },
     {
       "word": "order",
@@ -734,7 +1746,21 @@
       "id": 929,
       "filename": "0929_order.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0929_order.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Let's order some pizza for dinner tonight.",
+          "chinese": "我們今晚點些披薩當晚餐吧。"
+        },
+        {
+          "english": "Please keep your desk in good order.",
+          "chinese": "請保持你的書桌整齊。"
+        },
+        {
+          "english": "Our online order arrived yesterday morning.",
+          "chinese": "我們的網路訂單昨天早上送達了。"
+        }
+      ]
     },
     {
       "word": "ham",
@@ -744,7 +1770,21 @@
       "id": 930,
       "filename": "0930_ham.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0930_ham.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We often eat ham and eggs for breakfast on weekends.",
+          "chinese": "我們週末早餐常吃火腿蛋。"
+        },
+        {
+          "english": "My favorite sandwich has cheese, tomato, and ham.",
+          "chinese": "我最喜歡的三明治有起司、番茄和火腿。"
+        },
+        {
+          "english": "The actor tended to ham it up in every scene.",
+          "chinese": "那位演員在每個場景中都傾向於誇張表演。"
+        }
+      ]
     },
     {
       "word": "menu",
@@ -754,7 +1794,21 @@
       "id": 931,
       "filename": "0931_menu.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_15/0931_menu.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We checked the menu to see what delicious dishes they had.",
+          "chinese": "我們看了菜單，看看他們有什麼美味的菜餚。"
+        },
+        {
+          "english": "Click the \"File\" menu at the top to save your document.",
+          "chinese": "點擊上方「檔案」選單，以儲存你的文件。"
+        },
+        {
+          "english": "This restaurant offers a special set menu every weekend.",
+          "chinese": "這家餐廳每個週末都會提供一份特別的套餐菜單。"
+        }
+      ]
     }
   ]
 }

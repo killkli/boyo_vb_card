@@ -14,7 +14,21 @@
       "id": 34,
       "filename": "0034_four.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0034_four.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have four red apples in my bag today.",
+          "chinese": "我今天書包裡有四顆紅蘋果。"
+        },
+        {
+          "english": "We go home from school at four o'clock in the afternoon.",
+          "chinese": "我們下午四點鐘從學校回家。"
+        },
+        {
+          "english": "There are four children playing together in the park.",
+          "chinese": "有四個小朋友在公園裡一起玩耍。"
+        }
+      ]
     },
     {
       "word": "five",
@@ -24,7 +38,21 @@
       "id": 35,
       "filename": "0035_five.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0035_five.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have five red pencils for drawing.",
+          "chinese": "我有五枝紅色鉛筆可以畫畫。"
+        },
+        {
+          "english": "It is five o'clock now, time to eat.",
+          "chinese": "現在是五點了，該吃飯了。"
+        },
+        {
+          "english": "There are five people in my happy family.",
+          "chinese": "我的幸福家庭裡有五個人。"
+        }
+      ]
     },
     {
       "word": "six",
@@ -34,7 +62,21 @@
       "id": 36,
       "filename": "0036_six.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0036_six.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have six colorful pencils in my box.",
+          "chinese": "我有六枝彩色鉛筆在我的盒子裡。"
+        },
+        {
+          "english": "We eat dinner at six o'clock every night.",
+          "chinese": "我們每天晚上六點吃晚餐。"
+        },
+        {
+          "english": "My little brother is six years old this year.",
+          "chinese": "我弟弟今年六歲。"
+        }
+      ]
     },
     {
       "word": "seven",
@@ -44,7 +86,21 @@
       "id": 37,
       "filename": "0037_seven.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0037_seven.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "There are seven colorful balloons floating high.",
+          "chinese": "有七顆彩色氣球高高地飄著。"
+        },
+        {
+          "english": "My little brother is seven years old today.",
+          "chinese": "我的小弟弟今天七歲了。"
+        },
+        {
+          "english": "School starts at seven in the morning.",
+          "chinese": "學校早上七點開始上課。"
+        }
+      ]
     },
     {
       "word": "eight",
@@ -54,7 +110,21 @@
       "id": 38,
       "filename": "0038_eight.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0038_eight.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "There are eight apples on the table.",
+          "chinese": "桌子上有八顆蘋果。"
+        },
+        {
+          "english": "I go to school at eight o'clock every day.",
+          "chinese": "我每天八點去學校。"
+        },
+        {
+          "english": "My friend is eight years old today.",
+          "chinese": "我的朋友今天八歲了。"
+        }
+      ]
     },
     {
       "word": "nine",
@@ -64,7 +134,21 @@
       "id": 39,
       "filename": "0039_nine.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0039_nine.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "There are nine red apples in the basket.",
+          "chinese": "籃子裡有九顆紅蘋果。"
+        },
+        {
+          "english": "School starts at nine o'clock every morning.",
+          "chinese": "學校每天早上九點開始上課。"
+        },
+        {
+          "english": "My little brother is nine years old this year.",
+          "chinese": "我的小弟弟今年九歲。"
+        }
+      ]
     },
     {
       "word": "ten",
@@ -74,7 +158,21 @@
       "id": 40,
       "filename": "0040_ten.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0040_ten.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have ten red apples in my lunch box today.",
+          "chinese": "我今天午餐盒裡有十顆紅蘋果。"
+        },
+        {
+          "english": "My sister is ten years old this year, and she is very tall.",
+          "chinese": "我妹妹今年十歲了，她很高。"
+        },
+        {
+          "english": "We meet at ten o'clock this morning for fun playtime.",
+          "chinese": "我們今天早上十點見面，一起開心玩。"
+        }
+      ]
     },
     {
       "word": "eleven",
@@ -84,7 +182,21 @@
       "id": 41,
       "filename": "0041_eleven.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0041_eleven.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have eleven red apples in my basket.",
+          "chinese": "我籃子裡有十一顆紅蘋果。"
+        },
+        {
+          "english": "Our math class starts at eleven o'clock.",
+          "chinese": "我們的數學課十一點開始。"
+        },
+        {
+          "english": "My good friend is eleven years old now.",
+          "chinese": "我的好朋友現在十一歲了。"
+        }
+      ]
     },
     {
       "word": "twelve",
@@ -94,7 +206,21 @@
       "id": 42,
       "filename": "0042_twelve.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0042_twelve.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "There are twelve students in my class.",
+          "chinese": "我們班有十二個學生。"
+        },
+        {
+          "english": "We eat lunch at twelve every day.",
+          "chinese": "我們每天十二點吃午餐。"
+        },
+        {
+          "english": "My sister is twelve years old today.",
+          "chinese": "我的妹妹今天十二歲了。"
+        }
+      ]
     },
     {
       "word": "school",
@@ -104,7 +230,21 @@
       "id": 43,
       "filename": "0043_school.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0043_school.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We learn many new things at school every day.",
+          "chinese": "我們每天在學校學到許多新東西。"
+        },
+        {
+          "english": "School starts at eight o'clock and ends in the afternoon.",
+          "chinese": "學校八點開始上課，下午結束。"
+        },
+        {
+          "english": "My school has a big library with many interesting books.",
+          "chinese": "我的學校有一個大圖書館，裡面有許多有趣的書。"
+        }
+      ]
     },
     {
       "word": "class",
@@ -114,7 +254,21 @@
       "id": 44,
       "filename": "0044_class.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0044_class.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I like my class and my teacher.",
+          "chinese": "我喜歡我的班級和我的老師。"
+        },
+        {
+          "english": "Today we have English class with Miss Lin.",
+          "chinese": "今天我們和林老師有英文課。"
+        },
+        {
+          "english": "The bell rings, so it is time for class.",
+          "chinese": "鐘聲響了，所以現在是上課時間。"
+        }
+      ]
     },
     {
       "word": "student",
@@ -124,7 +278,21 @@
       "id": 45,
       "filename": "0045_student.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0045_student.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She is a good student and always studies hard.",
+          "chinese": "她是個好學生，而且總是努力學習。"
+        },
+        {
+          "english": "Many students like to play outside during break time.",
+          "chinese": "許多學生都喜歡在下課時間到外面玩。"
+        },
+        {
+          "english": "Every student in our class has a red backpack.",
+          "chinese": "我們班上每個學生都有一個紅色的背包。"
+        }
+      ]
     },
     {
       "word": "teacher",
@@ -134,7 +302,21 @@
       "id": 46,
       "filename": "0046_teacher.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0046_teacher.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She is my kind English teacher.",
+          "chinese": "她是我的英文老師，她人很好。"
+        },
+        {
+          "english": "Our teacher teaches us many interesting stories.",
+          "chinese": "我們的老師教我們許多有趣的故事。"
+        },
+        {
+          "english": "A good teacher helps all students learn happily.",
+          "chinese": "一位好老師幫助所有學生快樂學習。"
+        }
+      ]
     },
     {
       "word": "friend",
@@ -144,7 +326,21 @@
       "id": 47,
       "filename": "0047_friend.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0047_friend.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "This is my friend, Lily. She likes to read books.",
+          "chinese": "這是我的朋友莉莉。她喜歡讀書。"
+        },
+        {
+          "english": "My friend and I like to share our toys.",
+          "chinese": "我的朋友和我喜歡分享我們的玩具。"
+        },
+        {
+          "english": "Good friends always help each other learn and play.",
+          "chinese": "好朋友總是互相幫助學習和玩耍。"
+        }
+      ]
     },
     {
       "word": "book",
@@ -154,7 +350,21 @@
       "id": 48,
       "filename": "0048_book.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0048_book.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I like to read a story book with pictures.",
+          "chinese": "我喜歡讀有圖片的故事書。"
+        },
+        {
+          "english": "My mom wants to book a table at the restaurant.",
+          "chinese": "我媽媽想在餐廳預訂一個位子。"
+        },
+        {
+          "english": "Please write your name in your new notebook.",
+          "chinese": "請把你的名字寫在你的新本子上。"
+        }
+      ]
     },
     {
       "word": "chair",
@@ -164,7 +374,21 @@
       "id": 49,
       "filename": "0049_chair.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0049_chair.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have a yellow chair at my desk.",
+          "chinese": "我書桌旁有一張黃色椅子。"
+        },
+        {
+          "english": "Please sit on the chair to eat dinner.",
+          "chinese": "請坐在椅子上吃晚餐。"
+        },
+        {
+          "english": "The living room has many comfortable chairs.",
+          "chinese": "客廳裡有許多舒服的椅子。"
+        }
+      ]
     },
     {
       "word": "desk",
@@ -174,7 +398,21 @@
       "id": 50,
       "filename": "0050_desk.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0050_desk.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I sit at my desk and read a book.",
+          "chinese": "我坐在書桌前看書。"
+        },
+        {
+          "english": "My desk has a pen and a book.",
+          "chinese": "我的書桌上有一枝筆和一本書。"
+        },
+        {
+          "english": "This is a big desk in my classroom.",
+          "chinese": "這是我們教室裡的一張大書桌。"
+        }
+      ]
     },
     {
       "word": "table",
@@ -184,7 +422,21 @@
       "id": 51,
       "filename": "0051_table.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0051_table.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We eat our breakfast at the kitchen table every morning.",
+          "chinese": "我們每天早上在餐桌吃早餐。"
+        },
+        {
+          "english": "Please put your book on the table after you read it.",
+          "chinese": "請把你的書放在桌上，等你讀完之後。"
+        },
+        {
+          "english": "My sister draws pictures on the big table in her room.",
+          "chinese": "我姐姐在她房間的大桌子上畫畫。"
+        }
+      ]
     },
     {
       "word": "pen",
@@ -194,7 +446,21 @@
       "id": 52,
       "filename": "0052_pen.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0052_pen.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have a new blue pen in my pencil box.",
+          "chinese": "我有一個新的藍色筆在我的鉛筆盒裡。"
+        },
+        {
+          "english": "My teacher uses a red pen to mark our homework.",
+          "chinese": "我的老師用一支紅色的筆來批改我們的功課。"
+        },
+        {
+          "english": "Where is my pen? I need to write a letter.",
+          "chinese": "我的筆在哪裡？我需要寫一封信。"
+        }
+      ]
     },
     {
       "word": "pencil",
@@ -204,7 +470,21 @@
       "id": 53,
       "filename": "0053_pencil.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0053_pencil.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have a yellow pencil for drawing pictures.",
+          "chinese": "我有一枝黃色鉛筆用來畫圖。"
+        },
+        {
+          "english": "Please use your pencil to write your name here.",
+          "chinese": "請用你的鉛筆在這裡寫下你的名字。"
+        },
+        {
+          "english": "There are three pencils in my pencil case.",
+          "chinese": "我的鉛筆盒裡有三枝鉛筆。"
+        }
+      ]
     },
     {
       "word": "ruler",
@@ -214,7 +494,21 @@
       "id": 54,
       "filename": "0054_ruler.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0054_ruler.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I use a ruler to measure the paper.",
+          "chinese": "我用尺量紙張。"
+        },
+        {
+          "english": "I use my ruler to draw a straight line.",
+          "chinese": "我用我的尺畫直線。"
+        },
+        {
+          "english": "This ruler is made of plastic and is blue.",
+          "chinese": "這把尺是塑膠的，藍色的。"
+        }
+      ]
     },
     {
       "word": "eraser",
@@ -224,7 +518,21 @@
       "id": 55,
       "filename": "0055_eraser.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0055_eraser.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have a small eraser in my pencil box.",
+          "chinese": "我在我的鉛筆盒裡有一個小的橡皮擦。"
+        },
+        {
+          "english": "I use an eraser to clean my pencil mistakes.",
+          "chinese": "我用橡皮擦擦掉我的鉛筆錯誤。"
+        },
+        {
+          "english": "Look! My eraser can erase all the pencil lines.",
+          "chinese": "看！我的橡皮擦可以擦掉所有的鉛筆線。"
+        }
+      ]
     },
     {
       "word": "marker",
@@ -234,7 +542,21 @@
       "id": 56,
       "filename": "0056_marker.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0056_marker.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Please use a red marker to draw a big apple.",
+          "chinese": "請用紅色麥克筆畫一個大蘋果。"
+        },
+        {
+          "english": "The big rock is a marker for our secret base.",
+          "chinese": "這塊大石頭是我們秘密基地的標記。"
+        },
+        {
+          "english": "This cute ribbon is a marker for my book.",
+          "chinese": "這條可愛的緞帶是我的書籤。"
+        }
+      ]
     },
     {
       "word": "box",
@@ -244,7 +566,21 @@
       "id": 57,
       "filename": "0057_box.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0057_box.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She puts her toys in a small box.",
+          "chinese": "她把玩具放在一個小盒子裡。"
+        },
+        {
+          "english": "He opens a big box to get a book.",
+          "chinese": "他打開一個大箱子拿一本書。"
+        },
+        {
+          "english": "My birthday gift is inside a colorful box.",
+          "chinese": "我的生日禮物在一個彩色的盒子裡。"
+        }
+      ]
     },
     {
       "word": "pencil box",
@@ -254,7 +590,21 @@
       "id": 58,
       "filename": "0058_pencil_box.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0058_pencil_box.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My pencil box is blue and has a cute cat.",
+          "chinese": "我的鉛筆盒是藍色的，上面有一隻可愛的貓。"
+        },
+        {
+          "english": "I put my pencils and eraser in the pencil box.",
+          "chinese": "我把我的鉛筆和橡皮擦放進鉛筆盒裡。"
+        },
+        {
+          "english": "He opens his pencil box to take out a ruler.",
+          "chinese": "他打開鉛筆盒，拿出一把尺。"
+        }
+      ]
     },
     {
       "word": "map",
@@ -264,7 +614,21 @@
       "id": 59,
       "filename": "0059_map.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0059_map.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I use a map to find the library.",
+          "chinese": "我用一張地圖來找圖書館。"
+        },
+        {
+          "english": "Let's draw a map of our school playground.",
+          "chinese": "我們來畫一張學校操場的地圖。"
+        },
+        {
+          "english": "The world map shows many different countries.",
+          "chinese": "世界地圖顯示很多不同的國家。"
+        }
+      ]
     },
     {
       "word": "color",
@@ -274,7 +638,21 @@
       "id": 60,
       "filename": "0060_color.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0060_color.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My favorite color is blue.",
+          "chinese": "我最喜歡的顏色是藍色。"
+        },
+        {
+          "english": "The rainbow has many beautiful colors.",
+          "chinese": "彩虹有許多美麗的顏色。"
+        },
+        {
+          "english": "I like to color a picture with crayons.",
+          "chinese": "我喜歡用蠟筆畫圖上色。"
+        }
+      ]
     },
     {
       "word": "red",
@@ -284,7 +662,21 @@
       "id": 61,
       "filename": "0061_red.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0061_red.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Look! This big apple is red and sweet.",
+          "chinese": "看！這個大蘋果是紅色又甜的。"
+        },
+        {
+          "english": "When the traffic light is red, you must stop.",
+          "chinese": "當交通燈是紅色時，你必須停下來。"
+        },
+        {
+          "english": "My mom wears a beautiful red dress today.",
+          "chinese": "我媽媽今天穿了一件漂亮的紅色洋裝。"
+        }
+      ]
     },
     {
       "word": "green",
@@ -294,7 +686,21 @@
       "id": 62,
       "filename": "0062_green.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0062_green.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The grass in the park is very green now.",
+          "chinese": "公園裡的草現在很綠。"
+        },
+        {
+          "english": "Look, the little frog is green and jumps.",
+          "chinese": "看，這隻小青蛙是綠色的，而且會跳。"
+        },
+        {
+          "english": "Don't eat that banana, it is still very green.",
+          "chinese": "不要吃那根香蕉，它還很綠。"
+        }
+      ]
     },
     {
       "word": "blue",
@@ -304,7 +710,21 @@
       "id": 63,
       "filename": "0063_blue.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0063_blue.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have a blue pen in my school bag.",
+          "chinese": "我有一個藍色的筆在我的書包裡。"
+        },
+        {
+          "english": "The sky is blue on a sunny day.",
+          "chinese": "晴天的時候天空是藍色的。"
+        },
+        {
+          "english": "My friend likes to draw with a blue crayon.",
+          "chinese": "我的朋友喜歡用藍色的蠟筆畫畫。"
+        }
+      ]
     },
     {
       "word": "yellow",
@@ -314,7 +734,21 @@
       "id": 64,
       "filename": "0064_yellow.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0064_yellow.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The bright sun is yellow in the sky.",
+          "chinese": "亮亮的太陽在天空中是黃色的。"
+        },
+        {
+          "english": "Look at the yellow flower in the garden.",
+          "chinese": "看那花園裡的黃色花朵。"
+        },
+        {
+          "english": "My brother plays with his new yellow ball.",
+          "chinese": "我的弟弟玩著他那顆新的黃色球。"
+        }
+      ]
     },
     {
       "word": "pink",
@@ -324,7 +758,21 @@
       "id": 65,
       "filename": "0065_pink.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0065_pink.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I have a soft pink blanket on my bed.",
+          "chinese": "我床上有一條軟軟的粉紅色毯子。"
+        },
+        {
+          "english": "My younger sister always chooses pink for her drawings.",
+          "chinese": "我的妹妹畫畫時總是選粉紅色。"
+        },
+        {
+          "english": "Look at that cute pig; it is all pink!",
+          "chinese": "看那隻可愛的豬；牠全身都是粉紅色的！"
+        }
+      ]
     },
     {
       "word": "black",
@@ -334,7 +782,21 @@
       "id": 66,
       "filename": "0066_black.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0066_black.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My friend has a cute black cat at home.",
+          "chinese": "我的朋友家裡有一隻可愛的黑貓。"
+        },
+        {
+          "english": "I use a black pen to draw a picture.",
+          "chinese": "我用一支黑色的筆畫圖。"
+        },
+        {
+          "english": "When night comes, the sky becomes very black.",
+          "chinese": "當夜晚來臨時，天空變得非常黑。"
+        }
+      ]
     },
     {
       "word": "white",
@@ -344,7 +806,21 @@
       "id": 67,
       "filename": "0067_white.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0067_white.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I see a big white cloud in the sky.",
+          "chinese": "我在天空中看到一朵大白雲。"
+        },
+        {
+          "english": "We often eat white rice for dinner.",
+          "chinese": "我們晚餐經常吃白飯。"
+        },
+        {
+          "english": "My mom likes her new white shoes.",
+          "chinese": "我媽媽喜歡她的新白鞋子。"
+        }
+      ]
     },
     {
       "word": "face",
@@ -354,7 +830,21 @@
       "id": 68,
       "filename": "0068_face.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0068_face.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My little sister has a cute round face.",
+          "chinese": "我的小妹妹有一張可愛的圓臉。"
+        },
+        {
+          "english": "Please face the front when the teacher is talking.",
+          "chinese": "老師說話的時候，請面向前方。"
+        },
+        {
+          "english": "The clock's face shows the time with big numbers.",
+          "chinese": "時鐘的鐘面用大數字顯示時間。"
+        }
+      ]
     },
     {
       "word": "eye",
@@ -364,7 +854,21 @@
       "id": 69,
       "filename": "0069_eye.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0069_eye.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I use my eyes to see the beautiful flowers in the garden.",
+          "chinese": "我用我的眼睛看花園裡美麗的花。"
+        },
+        {
+          "english": "The little cat eyed the toy mouse on the floor carefully.",
+          "chinese": "小貓咪仔細地盯著地板上的玩具老鼠看。"
+        },
+        {
+          "english": "Mom told me to keep an eye on my little brother at the park.",
+          "chinese": "媽媽叫我在公園裡看好我的弟弟。"
+        }
+      ]
     },
     {
       "word": "nose",
@@ -374,7 +878,21 @@
       "id": 70,
       "filename": "0070_nose.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0070_nose.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I use my nose to smell tasty food.",
+          "chinese": "我用我的鼻子聞好吃的食物。"
+        },
+        {
+          "english": "She has a cute nose on her face.",
+          "chinese": "她的臉上有一隻可愛的鼻子。"
+        },
+        {
+          "english": "When I have a cold, I blow my nose.",
+          "chinese": "當我感冒時，我會擤我的鼻子。"
+        }
+      ]
     },
     {
       "word": "ear",
@@ -384,7 +902,21 @@
       "id": 71,
       "filename": "0071_ear.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0071_ear.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I use my ears to hear my teacher speak.",
+          "chinese": "我用耳朵聽老師說話。"
+        },
+        {
+          "english": "A rabbit has two long ears on its head.",
+          "chinese": "兔子頭上有兩隻長長的耳朵。"
+        },
+        {
+          "english": "We eat a sweet ear of corn for dinner.",
+          "chinese": "我們晚餐吃一根甜甜的玉米。"
+        }
+      ]
     },
     {
       "word": "mouth",
@@ -394,7 +926,21 @@
       "id": 72,
       "filename": "0072_mouth.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0072_mouth.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I use my mouth to eat yummy food.",
+          "chinese": "我用我的嘴巴吃好吃的食物。"
+        },
+        {
+          "english": "My mouth opens when I sing a song.",
+          "chinese": "我唱歌的時候，我的嘴巴會張開。"
+        },
+        {
+          "english": "A frog has a big mouth to catch flies.",
+          "chinese": "青蛙有一個大嘴巴來抓蒼蠅。"
+        }
+      ]
     },
     {
       "word": "head",
@@ -404,7 +950,21 @@
       "id": 73,
       "filename": "0073_head.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_2/0073_head.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I use my head to think about many things.",
+          "chinese": "我用我的頭想很多事情。"
+        },
+        {
+          "english": "We head to the park to play after school.",
+          "chinese": "我們放學後會前往公園玩。"
+        },
+        {
+          "english": "Please stand at the head of the line.",
+          "chinese": "請排在隊伍的最前面。"
+        }
+      ]
     }
   ]
 }

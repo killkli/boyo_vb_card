@@ -14,7 +14,21 @@
       "id": 114,
       "filename": "0114_cook.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0114_cook.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My uncle was a good cook at that restaurant.",
+          "chinese": "我的舅舅在那間餐廳是個好廚師。"
+        },
+        {
+          "english": "Mom cooked a delicious meal for our family last night.",
+          "chinese": "媽媽昨晚為我們的家人煮了一頓美味的餐點。"
+        },
+        {
+          "english": "My little brother cooked his first egg yesterday morning.",
+          "chinese": "我的小弟弟昨天早上煮了他的第一顆蛋。"
+        }
+      ]
     },
     {
       "word": "driver",
@@ -24,7 +38,21 @@
       "id": 115,
       "filename": "0115_driver.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0115_driver.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The taxi driver took us home after school.",
+          "chinese": "計程車司機放學後載我們回家。"
+        },
+        {
+          "english": "The bus driver stopped the car at the station.",
+          "chinese": "公車司機在車站停了車。"
+        },
+        {
+          "english": "My uncle is a careful driver on the road.",
+          "chinese": "我的叔叔在路上是個很小心的駕駛員。"
+        }
+      ]
     },
     {
       "word": "engineer",
@@ -34,7 +62,21 @@
       "id": 116,
       "filename": "0116_engineer.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0116_engineer.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My dad is an engineer, he designed the new park.",
+          "chinese": "我爸爸是工程師，他設計了新的公園。"
+        },
+        {
+          "english": "The engineer built a strong robot for the contest.",
+          "chinese": "那位工程師為比賽建造了一台堅固的機器人。"
+        },
+        {
+          "english": "An engineer made sure the big bridge was very safe.",
+          "chinese": "一位工程師確保這座大橋非常安全。"
+        }
+      ]
     },
     {
       "word": "farmer",
@@ -44,7 +86,21 @@
       "id": 117,
       "filename": "0117_farmer.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0117_farmer.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My grandpa was a farmer; he grew sweet potatoes.",
+          "chinese": "我的爺爺是個農夫；他種地瓜。"
+        },
+        {
+          "english": "A kind farmer gave us some fresh apples yesterday.",
+          "chinese": "一位好心的農夫昨天給了我們一些新鮮蘋果。"
+        },
+        {
+          "english": "Farmers help us get delicious food every day.",
+          "chinese": "農夫每天幫助我們取得美味的食物。"
+        }
+      ]
     },
     {
       "word": "worker",
@@ -54,7 +110,21 @@
       "id": 118,
       "filename": "0118_worker.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0118_worker.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "A worker helped us carry the heavy box.",
+          "chinese": "一位工人幫我們搬了很重的箱子。"
+        },
+        {
+          "english": "Many workers worked hard in the factory.",
+          "chinese": "很多工人在工廠裡努力工作。"
+        },
+        {
+          "english": "The worker wore a yellow safety helmet.",
+          "chinese": "那位工人戴著黃色的安全帽。"
+        }
+      ]
     },
     {
       "word": "name",
@@ -64,7 +134,21 @@
       "id": 119,
       "filename": "0119_name.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0119_name.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "He wrote his name on the card yesterday.",
+          "chinese": "他昨天把他的名字寫在卡片上。"
+        },
+        {
+          "english": "My parents named me Lily when I was born.",
+          "chinese": "我出生時，爸媽給我取名叫莉莉。"
+        },
+        {
+          "english": "The girl could not name all the fruits.",
+          "chinese": "那個女孩說不出所有的水果名稱。"
+        }
+      ]
     },
     {
       "word": "Mr.",
@@ -74,7 +158,21 @@
       "id": 120,
       "filename": "0120_Mr_.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0120_Mr_.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Mr. Lin taught us art class yesterday.",
+          "chinese": "林先生昨天教我們美術課。"
+        },
+        {
+          "english": "We saw Mr. Chen buying fruit at the market.",
+          "chinese": "我們在市場看到陳先生買水果。"
+        },
+        {
+          "english": "My mom talked to Mr. Wang about the new park.",
+          "chinese": "我媽媽和王先生聊了新公園的事。"
+        }
+      ]
     },
     {
       "word": "Mrs.",
@@ -84,7 +182,21 @@
       "id": 121,
       "filename": "0121_Mrs_.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0121_Mrs_.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Mrs. Chen kindly gave me a cookie yesterday.",
+          "chinese": "陳太太昨天很和善地給我一個餅乾。"
+        },
+        {
+          "english": "My mom met Mrs. Lee at the park.",
+          "chinese": "我媽媽在公園遇見了李太太。"
+        },
+        {
+          "english": "We saw Mrs. Chang at the market this morning.",
+          "chinese": "我們今天早上在市場看到張太太了。"
+        }
+      ]
     },
     {
       "word": "fruit",
@@ -94,7 +206,21 @@
       "id": 122,
       "filename": "0122_fruit.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0122_fruit.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Eating fresh fruit every day is good for our health.",
+          "chinese": "每天吃新鮮水果對我們的健康很好。"
+        },
+        {
+          "english": "Yesterday, my dad bought some tasty fruit from the store.",
+          "chinese": "昨天，我爸爸從商店買了一些好吃的水果。"
+        },
+        {
+          "english": "For lunch, I shared a big piece of fruit with my friend.",
+          "chinese": "午餐時，我跟我的朋友分享了一大塊水果。"
+        }
+      ]
     },
     {
       "word": "apple",
@@ -104,7 +230,21 @@
       "id": 123,
       "filename": "0123_apple.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0123_apple.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I ate a delicious apple after school yesterday.",
+          "chinese": "我昨天放學後吃了一個美味的蘋果。"
+        },
+        {
+          "english": "My mom bought two big red apples at the market.",
+          "chinese": "我媽媽在市場買了兩個大紅色的蘋果。"
+        },
+        {
+          "english": "We picked many apples from the apple tree last week.",
+          "chinese": "我們上週從蘋果樹上摘了許多蘋果。"
+        }
+      ]
     },
     {
       "word": "pear",
@@ -114,7 +254,21 @@
       "id": 124,
       "filename": "0124_pear.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0124_pear.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I ate a sweet pear yesterday.",
+          "chinese": "我昨天吃了一個甜甜的梨子。"
+        },
+        {
+          "english": "My mom bought a big green pear.",
+          "chinese": "我媽媽買了一個大大的綠梨子。"
+        },
+        {
+          "english": "We saw many pears at the market.",
+          "chinese": "我們在市場看到很多梨子。"
+        }
+      ]
     },
     {
       "word": "peach",
@@ -124,7 +278,21 @@
       "id": 125,
       "filename": "0125_peach.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0125_peach.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I ate a sweet and juicy peach yesterday afternoon.",
+          "chinese": "我昨天下午吃了一個又甜又多汁的桃子。"
+        },
+        {
+          "english": "Her favorite shirt was a light peach color.",
+          "chinese": "她最喜歡的襯衫是淺桃色的。"
+        },
+        {
+          "english": "My family picked many fresh peaches at the farm.",
+          "chinese": "我家在農場採了許多新鮮的桃子。"
+        }
+      ]
     },
     {
       "word": "grape",
@@ -134,7 +302,21 @@
       "id": 126,
       "filename": "0126_grape.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0126_grape.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mom bought some sweet grapes for me.",
+          "chinese": "我的媽媽幫我買了一些甜葡萄。"
+        },
+        {
+          "english": "Many grapes are purple, but some are green.",
+          "chinese": "很多葡萄是紫色的，但有些是綠色的。"
+        },
+        {
+          "english": "We picked many grapes at the farm last week.",
+          "chinese": "我們上週在農場摘了很多葡萄。"
+        }
+      ]
     },
     {
       "word": "banana",
@@ -144,7 +326,21 @@
       "id": 127,
       "filename": "0127_banana.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0127_banana.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We ate a sweet banana after lunch.",
+          "chinese": "我們午餐後吃了一根甜香蕉。"
+        },
+        {
+          "english": "The monkey liked the yellow banana very much.",
+          "chinese": "那隻猴子非常喜歡那根黃色的香蕉。"
+        },
+        {
+          "english": "Dad put a banana in my lunchbox this morning.",
+          "chinese": "爸爸今天早上在我的午餐盒裡放了一根香蕉。"
+        }
+      ]
     },
     {
       "word": "water",
@@ -154,7 +350,21 @@
       "id": 128,
       "filename": "0128_water.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0128_water.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "He drank a lot of water after playing outside.",
+          "chinese": "他在外面玩之後喝了很多水。"
+        },
+        {
+          "english": "My mother watered the flowers in the garden yesterday.",
+          "chinese": "我媽媽昨天在花園裡澆花了。"
+        },
+        {
+          "english": "The fish swim in the clean river water.",
+          "chinese": "魚兒在乾淨的河水裡游泳。"
+        }
+      ]
     },
     {
       "word": "milk",
@@ -164,7 +374,21 @@
       "id": 129,
       "filename": "0129_milk.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0129_milk.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I drank a glass of milk for breakfast.",
+          "chinese": "我早餐喝了一杯牛奶。"
+        },
+        {
+          "english": "She put some milk in her cereal this morning.",
+          "chinese": "她今天早上在麥片裡加了牛奶。"
+        },
+        {
+          "english": "My mom bought a carton of milk yesterday.",
+          "chinese": "我媽媽昨天買了一盒牛奶。"
+        }
+      ]
     },
     {
       "word": "Coke",
@@ -174,7 +398,21 @@
       "id": 130,
       "filename": "0130_Coke.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0130_Coke.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "He had a cold Coke with his burger.",
+          "chinese": "他吃漢堡時喝了一杯冰可樂。"
+        },
+        {
+          "english": "My mom bought a bottle of Coke for me.",
+          "chinese": "我媽媽幫我買了一瓶可樂。"
+        },
+        {
+          "english": "I like to drink cold Coke in summer.",
+          "chinese": "我喜歡在夏天喝冰可樂。"
+        }
+      ]
     },
     {
       "word": "juice",
@@ -184,7 +422,21 @@
       "id": 131,
       "filename": "0131_juice.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0131_juice.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I drank a glass of orange juice this morning.",
+          "chinese": "我今天早上喝了一杯柳橙汁。"
+        },
+        {
+          "english": "My mom bought some apple juice for my snack.",
+          "chinese": "我媽媽買了一些蘋果汁給我當點心。"
+        },
+        {
+          "english": "This sweet fruit juice is good for breakfast.",
+          "chinese": "這甜甜的果汁很適合當早餐。"
+        }
+      ]
     },
     {
       "word": "coffee",
@@ -194,7 +446,21 @@
       "id": 132,
       "filename": "0132_coffee.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0132_coffee.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My dad drank hot coffee with milk this morning.",
+          "chinese": "我爸爸今天早上喝了熱咖啡加牛奶。"
+        },
+        {
+          "english": "Mom bought a small coffee from the store yesterday.",
+          "chinese": "媽媽昨天從商店買了一小杯咖啡。"
+        },
+        {
+          "english": "My sister ate coffee ice cream after dinner last night.",
+          "chinese": "我姐姐昨晚晚餐後吃了咖啡冰淇淋。"
+        }
+      ]
     },
     {
       "word": "tea",
@@ -204,7 +470,21 @@
       "id": 133,
       "filename": "0133_tea.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0133_tea.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mom made a cup of tea for me yesterday.",
+          "chinese": "我媽媽昨天為我泡了一杯茶。"
+        },
+        {
+          "english": "My friend gave me some black tea last week.",
+          "chinese": "我的朋友上週給了我一些紅茶。"
+        },
+        {
+          "english": "The hot tea warmed my hands in winter.",
+          "chinese": "熱茶在冬天溫暖了我的手。"
+        }
+      ]
     },
     {
       "word": "egg",
@@ -214,7 +494,21 @@
       "id": 134,
       "filename": "0134_egg.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0134_egg.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mom cooked a delicious egg for my breakfast.",
+          "chinese": "我的媽媽為我的早餐煮了一顆美味的蛋。"
+        },
+        {
+          "english": "The little bird laid an egg in its nest yesterday.",
+          "chinese": "那隻小鳥昨天在牠的巢裡下了一顆蛋。"
+        },
+        {
+          "english": "We need three eggs to bake this yummy cake.",
+          "chinese": "我們需要三顆蛋來烤這個美味的蛋糕。"
+        }
+      ]
     },
     {
       "word": "cake",
@@ -224,7 +518,21 @@
       "id": 135,
       "filename": "0135_cake.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0135_cake.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She loved the sweet strawberry cake very much.",
+          "chinese": "她非常喜歡那個甜草莓蛋糕。"
+        },
+        {
+          "english": "Mom made a yummy cake for my birthday.",
+          "chinese": "媽媽為我的生日做了一個美味的蛋糕。"
+        },
+        {
+          "english": "That big cake had many colorful candles on it.",
+          "chinese": "那個大蛋糕上面有許多彩色蠟燭。"
+        }
+      ]
     },
     {
       "word": "fish",
@@ -234,7 +542,21 @@
       "id": 136,
       "filename": "0136_fish.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0136_fish.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I saw a colorful fish in the aquarium yesterday.",
+          "chinese": "昨天我在水族箱裡看到一條很漂亮的魚。"
+        },
+        {
+          "english": "We ate delicious grilled fish for dinner last night.",
+          "chinese": "昨晚我們晚餐吃了美味的烤魚。"
+        },
+        {
+          "english": "My grandpa taught me how to fish by the lake.",
+          "chinese": "我爺爺教我在湖邊釣魚。"
+        }
+      ]
     },
     {
       "word": "rice",
@@ -244,7 +566,21 @@
       "id": 137,
       "filename": "0137_rice.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0137_rice.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mom bought a big bag of rice yesterday.",
+          "chinese": "我媽媽昨天買了一大袋米。"
+        },
+        {
+          "english": "We ate a lot of rice for dinner last night.",
+          "chinese": "我們昨晚晚餐吃了很多米飯。"
+        },
+        {
+          "english": "My dad cooked rice for us this morning.",
+          "chinese": "我爸爸今天早上為我們煮了米飯。"
+        }
+      ]
     },
     {
       "word": "breakfast",
@@ -254,7 +590,21 @@
       "id": 138,
       "filename": "0138_breakfast.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0138_breakfast.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I ate a very big breakfast yesterday morning.",
+          "chinese": "我昨天早上吃了一頓非常豐盛的早餐。"
+        },
+        {
+          "english": "Yesterday, my friend and I had breakfast at home.",
+          "chinese": "昨天，我和我的朋友在家吃早餐。"
+        },
+        {
+          "english": "I drank milk with my breakfast this morning.",
+          "chinese": "我今天早上喝牛奶配早餐。"
+        }
+      ]
     },
     {
       "word": "lunch",
@@ -264,7 +614,21 @@
       "id": 139,
       "filename": "0139_lunch.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0139_lunch.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We ate our lunch together at school.",
+          "chinese": "我們在學校一起吃了午餐。"
+        },
+        {
+          "english": "My lunch was a sandwich and an apple.",
+          "chinese": "我的午餐是一個三明治和一顆蘋果。"
+        },
+        {
+          "english": "The bell rang for lunch.",
+          "chinese": "鐘聲響了，代表午餐時間到了。"
+        }
+      ]
     },
     {
       "word": "dinner",
@@ -274,7 +638,21 @@
       "id": 140,
       "filename": "0140_dinner.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0140_dinner.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We ate pizza for dinner last night.",
+          "chinese": "我們昨晚晚餐吃了披薩。"
+        },
+        {
+          "english": "I had a nice dinner with my family yesterday.",
+          "chinese": "我昨天和家人吃了一頓很棒的晚餐。"
+        },
+        {
+          "english": "Mom always makes delicious dinner for us.",
+          "chinese": "媽媽總是為我們做美味的晚餐。"
+        }
+      ]
     },
     {
       "word": "drink",
@@ -284,7 +662,21 @@
       "id": 141,
       "filename": "0141_drink.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0141_drink.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I drink water every day to stay healthy.",
+          "chinese": "我每天喝水來保持健康。"
+        },
+        {
+          "english": "Yesterday, my brother drank all the orange juice.",
+          "chinese": "昨天，我弟弟喝光了所有的柳橙汁。"
+        },
+        {
+          "english": "After playing, I like to have a cold drink.",
+          "chinese": "玩耍後，我喜歡喝一杯冰涼的飲料。"
+        }
+      ]
     },
     {
       "word": "eat",
@@ -294,7 +686,21 @@
       "id": 142,
       "filename": "0142_eat.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0142_eat.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I ate breakfast this morning before school.",
+          "chinese": "我今天早上上學前吃了早餐。"
+        },
+        {
+          "english": "My brother ate a big hamburger for dinner last night.",
+          "chinese": "我哥哥昨晚晚餐吃了一個大漢堡。"
+        },
+        {
+          "english": "We ate many yummy fruits with our friends yesterday.",
+          "chinese": "我們昨天和朋友一起吃了許多美味的水果。"
+        }
+      ]
     },
     {
       "word": "sleep",
@@ -304,7 +710,33 @@
       "id": 143,
       "filename": "0143_sleep.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0143_sleep.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My cat loves to sleep on my soft blanket.",
+          "chinese": ""
+        },
+        {
+          "english": "我的貓喜歡睡在我的軟毯子上。",
+          "chinese": ""
+        },
+        {
+          "english": "Yesterday, I slept very well because I was tired.",
+          "chinese": ""
+        },
+        {
+          "english": "昨天，我睡得很好因為我很累。",
+          "chinese": ""
+        },
+        {
+          "english": "Please go to sleep early tonight, you have school tomorrow.",
+          "chinese": ""
+        },
+        {
+          "english": "今晚請早點睡覺，你明天要上學。",
+          "chinese": ""
+        }
+      ]
     },
     {
       "word": "read",
@@ -314,7 +746,21 @@
       "id": 144,
       "filename": "0144_read.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0144_read.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Yesterday, I read a fun story in my new book.",
+          "chinese": "昨天，我在我的新書裡讀了一個有趣的故事。"
+        },
+        {
+          "english": "My dad read the newspaper after dinner last night.",
+          "chinese": "我的爸爸昨晚吃完晚餐後讀了報紙。"
+        },
+        {
+          "english": "My teacher read a picture book to the class this morning.",
+          "chinese": "今天早上，我的老師讀了一本繪本給全班聽。"
+        }
+      ]
     },
     {
       "word": "play",
@@ -324,7 +770,21 @@
       "id": 145,
       "filename": "0145_play.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0145_play.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I played basketball with my friends yesterday.",
+          "chinese": "我昨天和我的朋友們玩籃球。"
+        },
+        {
+          "english": "She played with her new toy car.",
+          "chinese": "她玩她的新玩具車。"
+        },
+        {
+          "english": "The children played happily in the park this morning.",
+          "chinese": "今天早上孩子們在公園裡快樂地玩耍。"
+        }
+      ]
     },
     {
       "word": "go",
@@ -334,7 +794,21 @@
       "id": 146,
       "filename": "0146_go.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0146_go.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We went to the park to play with friends yesterday.",
+          "chinese": "我們昨天去公園和朋友玩。"
+        },
+        {
+          "english": "She went to a fun birthday party last Saturday.",
+          "chinese": "她上週六去了一個有趣的生日派對。"
+        },
+        {
+          "english": "My brother went to bed very late last night.",
+          "chinese": "我弟弟昨天晚上很晚才去睡覺。"
+        }
+      ]
     },
     {
       "word": "like",
@@ -344,7 +818,21 @@
       "id": 147,
       "filename": "0147_like.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0147_like.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I liked to eat yummy ice cream yesterday.",
+          "chinese": "我昨天喜歡吃美味的冰淇淋。"
+        },
+        {
+          "english": "He liked to play basketball with friends last week.",
+          "chinese": "他上週喜歡和朋友一起打籃球。"
+        },
+        {
+          "english": "My mom liked blue flowers very much before.",
+          "chinese": "我的媽媽以前非常喜歡藍色的花。"
+        }
+      ]
     },
     {
       "word": "listen",
@@ -354,7 +842,21 @@
       "id": 148,
       "filename": "0148_listen.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0148_listen.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We like to listen to pop music in the classroom.",
+          "chinese": "我們喜歡在教室裡聽流行音樂。"
+        },
+        {
+          "english": "You must listen to your mom and dad.",
+          "chinese": "你必須聽你爸爸媽媽的話。"
+        },
+        {
+          "english": "She listened for the rain outside yesterday.",
+          "chinese": "她昨天在外面聽雨聲。"
+        }
+      ]
     },
     {
       "word": "music",
@@ -364,7 +866,21 @@
       "id": 149,
       "filename": "0149_music.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0149_music.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We enjoyed the music at the party last night.",
+          "chinese": "我們昨晚在派對上很喜歡那些音樂。"
+        },
+        {
+          "english": "The music from the band was very loud.",
+          "chinese": "樂隊的音樂非常大聲。"
+        },
+        {
+          "english": "We sang many songs in music class yesterday.",
+          "chinese": "我們昨天在音樂課上唱了很多歌。"
+        }
+      ]
     },
     {
       "word": "movie",
@@ -374,7 +890,21 @@
       "id": 150,
       "filename": "0150_movie.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0150_movie.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We watched a very fun movie last night.",
+          "chinese": "我們昨晚看了一部很有趣的電影。"
+        },
+        {
+          "english": "My family went to the movie theater on Saturday.",
+          "chinese": "我家人週六去了電影院。"
+        },
+        {
+          "english": "That new cartoon movie was really exciting to watch.",
+          "chinese": "那部新的卡通電影看得很刺激。"
+        }
+      ]
     },
     {
       "word": "comic book",
@@ -384,7 +914,21 @@
       "id": 151,
       "filename": "0151_comic_book.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0151_comic_book.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Yesterday, I read a very funny comic book.",
+          "chinese": "昨天我讀了一本非常有趣的漫畫書。"
+        },
+        {
+          "english": "My friend has many comic books about superheroes.",
+          "chinese": "我的朋友有很多關於超級英雄的漫畫書。"
+        },
+        {
+          "english": "She bought a new comic book from the store.",
+          "chinese": "她從商店買了一本新的漫畫書。"
+        }
+      ]
     },
     {
       "word": "computer",
@@ -394,7 +938,21 @@
       "id": 152,
       "filename": "0152_computer.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0152_computer.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I played a fun game on the computer yesterday.",
+          "chinese": "我昨天在電腦上玩了一個有趣的遊戲。"
+        },
+        {
+          "english": "We use computers to learn many new things.",
+          "chinese": "我們使用電腦學習許多新事物。"
+        },
+        {
+          "english": "My family bought a new computer last month.",
+          "chinese": "我的家人上個月買了一台新電腦。"
+        }
+      ]
     },
     {
       "word": "bus",
@@ -404,7 +962,21 @@
       "id": 153,
       "filename": "0153_bus.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_4/0153_bus.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I took the bus to school yesterday morning.",
+          "chinese": "我昨天早上搭公車去學校。"
+        },
+        {
+          "english": "We waited for the bus at the stop.",
+          "chinese": "我們在公車站牌等公車。"
+        },
+        {
+          "english": "Look! A big red bus just passed by.",
+          "chinese": "看！一輛大紅色公車剛剛開過去了。"
+        }
+      ]
     }
   ]
 }

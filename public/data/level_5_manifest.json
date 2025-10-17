@@ -14,7 +14,21 @@
       "id": 154,
       "filename": "0154_car.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0154_car.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My dad has a new blue car.",
+          "chinese": "我爸爸有一輛新的藍色汽車。"
+        },
+        {
+          "english": "The red car is going very fast now.",
+          "chinese": "那輛紅色汽車現在開得很快。"
+        },
+        {
+          "english": "We are riding in the car to school.",
+          "chinese": "我們正在搭汽車去學校。"
+        }
+      ]
     },
     {
       "word": "bike",
@@ -24,7 +38,21 @@
       "id": 155,
       "filename": "0155_bike.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0155_bike.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mom bought me a beautiful pink bike.",
+          "chinese": "我媽媽買給我一輛漂亮的粉紅色腳踏車。"
+        },
+        {
+          "english": "The boy is riding his new bike around the park.",
+          "chinese": "那個男孩正在公園裡騎他的新腳踏車。"
+        },
+        {
+          "english": "Riding a bike is good exercise for us.",
+          "chinese": "騎腳踏車對我們來說是很好的運動。"
+        }
+      ]
     },
     {
       "word": "bicycle",
@@ -34,7 +62,21 @@
       "id": 156,
       "filename": "0156_bicycle.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0156_bicycle.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My brother is riding his new red bicycle very fast now.",
+          "chinese": "我的哥哥現在正騎著他那輛全新的紅色腳踏車，速度很快。"
+        },
+        {
+          "english": "Look! My dad is cleaning his shiny blue bicycle in the yard.",
+          "chinese": "看！我的爸爸正在院子裡擦拭他那輛閃亮的藍色腳踏車。"
+        },
+        {
+          "english": "Many students are parking their bicycles neatly outside the school.",
+          "chinese": "許多學生正把他們的腳踏車整齊地停放在學校外面。"
+        }
+      ]
     },
     {
       "word": "taxi",
@@ -44,7 +86,21 @@
       "id": 157,
       "filename": "0157_taxi.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0157_taxi.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The man is waiting for a yellow taxi at the corner.",
+          "chinese": "那個男人正在街角等一輛黃色的計程車。"
+        },
+        {
+          "english": "A big taxi is driving very fast down the street now.",
+          "chinese": "一輛大型計程車現在正快速地開在街上。"
+        },
+        {
+          "english": "My friend is taking a taxi to the zoo with her family.",
+          "chinese": "我的朋友正和她的家人搭計程車去動物園。"
+        }
+      ]
     },
     {
       "word": "train",
@@ -54,7 +110,21 @@
       "id": 158,
       "filename": "0158_train.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0158_train.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The red train is arriving at the station now.",
+          "chinese": "紅色的火車現在正在抵達車站。"
+        },
+        {
+          "english": "She is waiting for the train to go home.",
+          "chinese": "她正在等火車回家。"
+        },
+        {
+          "english": "Look! The train is going into a dark tunnel.",
+          "chinese": "看！火車正在駛入一個黑暗的隧道。"
+        }
+      ]
     },
     {
       "word": "ship",
@@ -64,7 +134,21 @@
       "id": 159,
       "filename": "0159_ship.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0159_ship.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "A big blue ship is sailing slowly on the ocean today.",
+          "chinese": "一艘很大的藍色船今天正在海上緩慢航行。"
+        },
+        {
+          "english": "That large ship is carrying many heavy boxes now.",
+          "chinese": "那艘大船現在正載著許多很重的箱子。"
+        },
+        {
+          "english": "Look! A passenger ship is bringing many tourists to the island.",
+          "chinese": "看！一艘客船正載著許多觀光客到島上。"
+        }
+      ]
     },
     {
       "word": "call",
@@ -74,7 +158,21 @@
       "id": 160,
       "filename": "0160_call.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0160_call.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My dad is calling his friend on the phone right now.",
+          "chinese": "我爸爸現在正在打電話給他的朋友。"
+        },
+        {
+          "english": "Mom is calling us home for dinner now.",
+          "chinese": "媽媽現在正在叫我們回家吃晚餐。"
+        },
+        {
+          "english": "We are calling our new baby cat \"Mimi\".",
+          "chinese": "我們正在把我們的新小貓叫做「咪咪」。"
+        }
+      ]
     },
     {
       "word": "open",
@@ -84,7 +182,21 @@
       "id": 161,
       "filename": "0161_open.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0161_open.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The girl is slowly opening the window for fresh air.",
+          "chinese": "那個女孩正在慢慢地打開窗戶，讓新鮮空氣進來。"
+        },
+        {
+          "english": "The boy is carefully opening his new storybook now.",
+          "chinese": "這個男孩現在正小心地打開他的新故事書。"
+        },
+        {
+          "english": "My friends are excitedly opening their birthday presents.",
+          "chinese": "我的朋友們正在興奮地打開他們的生日禮物。"
+        }
+      ]
     },
     {
       "word": "close",
@@ -94,7 +206,21 @@
       "id": 162,
       "filename": "0162_close.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0162_close.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The boy is closing the door very quietly.",
+          "chinese": "男孩正在非常安靜地關上門。"
+        },
+        {
+          "english": "My sister is closing her laptop after finishing homework.",
+          "chinese": "我的妹妹在寫完功課後正在關上她的筆記型電腦。"
+        },
+        {
+          "english": "The shop owner is closing the store early today.",
+          "chinese": "店主今天正在提早關上商店。"
+        }
+      ]
     },
     {
       "word": "see",
@@ -104,7 +230,21 @@
       "id": 163,
       "filename": "0163_see.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0163_see.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I am seeing a cute little cat in the garden.",
+          "chinese": "我正在花園裡看到一隻可愛的小貓。"
+        },
+        {
+          "english": "We are seeing a funny cartoon on TV right now.",
+          "chinese": "我們現在正在電視上看一部有趣的卡通片。"
+        },
+        {
+          "english": "She is seeing her grandmother at the hospital today.",
+          "chinese": "她今天正在醫院看她的奶奶。"
+        }
+      ]
     },
     {
       "word": "look",
@@ -114,7 +254,21 @@
       "id": 164,
       "filename": "0164_look.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0164_look.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The students are looking at the beautiful butterfly in the garden.",
+          "chinese": "學生們正在花園裡看那隻美麗的蝴蝶。"
+        },
+        {
+          "english": "My little brother is looking sleepy after his long nap.",
+          "chinese": "我弟弟睡了長長的午覺後，看起來很睏。"
+        },
+        {
+          "english": "She is looking for her red umbrella because it is raining outside.",
+          "chinese": "她正在找她的紅色雨傘，因為外面正在下雨。"
+        }
+      ]
     },
     {
       "word": "watch",
@@ -124,7 +278,21 @@
       "id": 165,
       "filename": "0165_watch.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0165_watch.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We are watching a fun cartoon right now.",
+          "chinese": "我們現在正在看一個有趣的卡通。"
+        },
+        {
+          "english": "The children are watching the monkeys play at the zoo.",
+          "chinese": "孩子們正在動物園看猴子玩耍。"
+        },
+        {
+          "english": "My sister is watching our mom bake a delicious cake.",
+          "chinese": "我姐姐正在看媽媽烤一個美味的蛋糕。"
+        }
+      ]
     },
     {
       "word": "tall",
@@ -134,7 +302,21 @@
       "id": 166,
       "filename": "0166_tall.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0166_tall.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My dad is standing tall and strong.",
+          "chinese": "我的爸爸站得又高又壯。"
+        },
+        {
+          "english": "That tall tree is shading our whole house.",
+          "chinese": "那棵高大的樹正在遮蔽我們的整個房子。"
+        },
+        {
+          "english": "The new skyscraper is looking extremely tall in the city.",
+          "chinese": "這棟新的摩天大樓在城市裡看起來非常高。"
+        }
+      ]
     },
     {
       "word": "long",
@@ -144,7 +326,21 @@
       "id": 167,
       "filename": "0167_long.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0167_long.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The snake is moving with its long body.",
+          "chinese": "那條蛇正用牠長長的身體移動著。"
+        },
+        {
+          "english": "We are taking a long time to finish our homework.",
+          "chinese": "我們正在花很長的時間完成作業。"
+        },
+        {
+          "english": "The teacher is drawing a very long line on the board.",
+          "chinese": "老師正在黑板上畫一條很長的線。"
+        }
+      ]
     },
     {
       "word": "short",
@@ -154,7 +350,21 @@
       "id": 168,
       "filename": "0168_short.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0168_short.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My friend Lily is short, but she runs fast.",
+          "chinese": "我的朋友莉莉很矮，但是她跑得很快。"
+        },
+        {
+          "english": "My teacher has short hair and big eyes.",
+          "chinese": "我的老師有短頭髮和大眼睛。"
+        },
+        {
+          "english": "Our break time is short, so we play quickly.",
+          "chinese": "我們的下課時間很短，所以我們玩得很快。"
+        }
+      ]
     },
     {
       "word": "big",
@@ -164,7 +374,21 @@
       "id": 169,
       "filename": "0169_big.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0169_big.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The elephant is walking with its big ears.",
+          "chinese": "這隻大象正用牠的大耳朵走路。"
+        },
+        {
+          "english": "Today is a big day for my school's sports festival.",
+          "chinese": "今天是我學校運動會的一個重要日子。"
+        },
+        {
+          "english": "She is eating a big bowl of noodles right now.",
+          "chinese": "她現在正在吃一大碗麵。"
+        }
+      ]
     },
     {
       "word": "small",
@@ -174,7 +398,21 @@
       "id": 170,
       "filename": "0170_small.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0170_small.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My toy car is very small, but it can run fast.",
+          "chinese": "我的玩具車很小，但是它跑得很快。"
+        },
+        {
+          "english": "Look! A small bird is eating seeds on the tree branch.",
+          "chinese": "看！一隻小鳥正在樹枝上吃種子。"
+        },
+        {
+          "english": "Mom is giving me a small piece of cake now for dessert.",
+          "chinese": "媽媽現在正在給我一小塊蛋糕當甜點。"
+        }
+      ]
     },
     {
       "word": "good",
@@ -184,7 +422,21 @@
       "id": 171,
       "filename": "0171_good.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0171_good.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "This ice cream tastes really good.",
+          "chinese": "這個冰淇淋嚐起來真好吃。"
+        },
+        {
+          "english": "She is a good student and always studies hard.",
+          "chinese": "她是一個好學生，而且總是努力學習。"
+        },
+        {
+          "english": "Getting enough sleep is good for your body.",
+          "chinese": "獲得足夠的睡眠對你的身體很好。"
+        }
+      ]
     },
     {
       "word": "bad",
@@ -194,7 +446,21 @@
       "id": 172,
       "filename": "0172_bad.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0172_bad.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The old milk in the refrigerator smells very bad.",
+          "chinese": "冰箱裡面的舊牛奶聞起來很壞。"
+        },
+        {
+          "english": "Eating too much candy is bad for your teeth.",
+          "chinese": "吃太多糖對你的牙齒很壞。"
+        },
+        {
+          "english": "It is bad to tell lies to your friends.",
+          "chinese": "對你的朋友說謊是很壞的。"
+        }
+      ]
     },
     {
       "word": "nice",
@@ -204,7 +470,21 @@
       "id": 173,
       "filename": "0173_nice.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0173_nice.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Our teacher is being nice and patient with all of us.",
+          "chinese": "我們的老師現在對我們所有人都很親切也很有耐心。"
+        },
+        {
+          "english": "We are having a nice picnic by the river right now.",
+          "chinese": "我們現在正在河邊享受美好的野餐。"
+        },
+        {
+          "english": "My sister is wearing a very nice new dress today.",
+          "chinese": "我的姐姐今天穿著一件非常漂亮的新洋裝。"
+        }
+      ]
     },
     {
       "word": "happy",
@@ -214,7 +494,21 @@
       "id": 174,
       "filename": "0174_happy.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0174_happy.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She is happy because she got a new toy.",
+          "chinese": "她很高興，因為她得到了一個新玩具。"
+        },
+        {
+          "english": "The children are looking very happy in the park today.",
+          "chinese": "孩子們今天在公園裡看起來非常快樂。"
+        },
+        {
+          "english": "We are having a happy time at the party.",
+          "chinese": "我們在派對上度過了一段快樂的時光。"
+        }
+      ]
     },
     {
       "word": "sad",
@@ -224,7 +518,21 @@
       "id": 175,
       "filename": "0175_sad.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0175_sad.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I am sad because my pet dog is sick.",
+          "chinese": "我很傷心，因為我的寵物狗生病了。"
+        },
+        {
+          "english": "She is feeling sad because her favorite toy broke.",
+          "chinese": "她現在感到傷心，因為她最喜歡的玩具壞掉了。"
+        },
+        {
+          "english": "It is a sad story about a lonely puppy looking for a home.",
+          "chinese": "這是一個關於一隻孤單小狗尋找家的傷心故事。"
+        }
+      ]
     },
     {
       "word": "fat",
@@ -234,7 +542,21 @@
       "id": 176,
       "filename": "0176_fat.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0176_fat.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The cat is getting fat because it eats too much.",
+          "chinese": "這隻貓咪越來越胖，因為牠吃太多了。"
+        },
+        {
+          "english": "You should not eat too much fat meat.",
+          "chinese": "你不應該吃太多肥肉。"
+        },
+        {
+          "english": "Santa Claus is a fat and jolly man.",
+          "chinese": "聖誕老公公是一位又胖又快樂的人。"
+        }
+      ]
     },
     {
       "word": "thin",
@@ -244,7 +566,21 @@
       "id": 177,
       "filename": "0177_thin.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0177_thin.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The girl is very thin because she loves to dance.",
+          "chinese": "這個女孩很瘦，因為她喜歡跳舞。"
+        },
+        {
+          "english": "This piece of paper is very thin and easy to tear.",
+          "chinese": "這張紙很薄，很容易撕破。"
+        },
+        {
+          "english": "The soup tastes a little thin, so let's add some noodles.",
+          "chinese": "這湯喝起來有點稀，所以我們加一些麵條吧。"
+        }
+      ]
     },
     {
       "word": "strong",
@@ -254,7 +590,21 @@
       "id": 178,
       "filename": "0178_strong.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0178_strong.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The strong boy is lifting heavy boxes.",
+          "chinese": "這個強壯的男孩正在搬運沉重的箱子。"
+        },
+        {
+          "english": "The strong bridge is connecting two sides of the river.",
+          "chinese": "這座堅固的橋樑正在連接河的兩岸。"
+        },
+        {
+          "english": "A strong wind is blowing the leaves right now.",
+          "chinese": "一陣強勁的風正在吹動樹葉。"
+        }
+      ]
     },
     {
       "word": "cute",
@@ -264,7 +614,21 @@
       "id": 179,
       "filename": "0179_cute.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0179_cute.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Look! The baby panda is very cute as it eats bamboo.紅！那隻貓熊寶寶在吃竹子時非常可愛。",
+          "chinese": ""
+        },
+        {
+          "english": "Look at that little girl; she is wearing a very cute hat.看那個小女孩；她正戴著一頂非常可愛的帽子。",
+          "chinese": ""
+        },
+        {
+          "english": "My baby brother is making a cute face for the camera now.我的小弟弟現在正在對著鏡頭擺出一個可愛的表情。",
+          "chinese": ""
+        }
+      ]
     },
     {
       "word": "sick",
@@ -274,7 +638,21 @@
       "id": 180,
       "filename": "0180_sick.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0180_sick.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I am feeling sick now, so I need to rest.",
+          "chinese": "我現在感到很不舒服，所以需要休息。"
+        },
+        {
+          "english": "My little sister is sick and has a high fever today.",
+          "chinese": "我的小妹妹生病了，今天發高燒。"
+        },
+        {
+          "english": "My friend is getting sick because he played in the rain.",
+          "chinese": "我的朋友因為淋雨正在生病。"
+        }
+      ]
     },
     {
       "word": "tired",
@@ -284,7 +662,21 @@
       "id": 181,
       "filename": "0181_tired.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0181_tired.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The children are tired from playing outside.",
+          "chinese": "孩子們在外面玩耍後很疲倦。"
+        },
+        {
+          "english": "I am tired now and need to take a nap.",
+          "chinese": "我現在很疲倦，需要小睡一下。"
+        },
+        {
+          "english": "This long math problem is making me tired.",
+          "chinese": "這個很長的數學題讓我感到疲倦。"
+        }
+      ]
     },
     {
       "word": "angry",
@@ -294,7 +686,21 @@
       "id": 182,
       "filename": "0182_angry.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0182_angry.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The teacher is angry with the noisy students.",
+          "chinese": "老師對那些吵鬧的學生很生氣。"
+        },
+        {
+          "english": "He usually gets angry when he loses games.",
+          "chinese": "他輸掉遊戲時通常會生氣。"
+        },
+        {
+          "english": "She is angry about her lost pencil case.",
+          "chinese": "她對她弄丟的鉛筆盒很生氣。"
+        }
+      ]
     },
     {
       "word": "hungry",
@@ -304,7 +710,21 @@
       "id": 183,
       "filename": "0183_hungry.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0183_hungry.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I am very hungry now. I want to eat lunch.",
+          "chinese": "我現在很餓。我想吃午餐。"
+        },
+        {
+          "english": "After playing outside, the children are very hungry.",
+          "chinese": "在外面玩耍後，孩子們都好餓。"
+        },
+        {
+          "english": "The yummy smell of cookies is making me hungry.",
+          "chinese": "餅乾的美味香味讓我肚子餓了。"
+        }
+      ]
     },
     {
       "word": "thirsty",
@@ -314,7 +734,21 @@
       "id": 184,
       "filename": "0184_thirsty.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0184_thirsty.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I am thirsty, so I want to drink some water right now.",
+          "chinese": "我現在很渴，所以想喝一些水。"
+        },
+        {
+          "english": "After playing basketball, the boys were very thirsty.",
+          "chinese": "打完籃球後，那些男孩們都非常口渴。"
+        },
+        {
+          "english": "It's so hot today! I am thirsty for a cold juice.",
+          "chinese": "今天好熱喔！我很想喝一杯冰涼的果汁。"
+        }
+      ]
     },
     {
       "word": "aunt",
@@ -324,7 +758,21 @@
       "id": 185,
       "filename": "0185_aunt.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0185_aunt.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My kind aunt is cooking a big dinner in the kitchen now.",
+          "chinese": "我的親切阿姨現在正在廚房煮一頓豐盛的晚餐。"
+        },
+        {
+          "english": "Our helpful aunt is teaching me how to draw a cute cat.",
+          "chinese": "我們樂於助人的阿姨正在教我如何畫一隻可愛的貓咪。"
+        },
+        {
+          "english": "The friendly aunt at the bakery is helping customers choose cakes.",
+          "chinese": "烘焙坊裡那位友善的阿姨正在幫助顧客挑選蛋糕。"
+        }
+      ]
     },
     {
       "word": "uncle",
@@ -334,7 +782,21 @@
       "id": 186,
       "filename": "0186_uncle.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0186_uncle.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My uncle is now teaching me how to ride a bike.",
+          "chinese": "我的叔叔現在正在教我怎麼騎腳踏車。"
+        },
+        {
+          "english": "Our friendly uncle is smiling and waving at us.",
+          "chinese": "我們友善的叔叔正在對我們微笑和揮手。"
+        },
+        {
+          "english": "My uncle is cooking delicious noodles for dinner tonight.",
+          "chinese": "我的叔叔今晚正在煮美味的麵條當晚餐。"
+        }
+      ]
     },
     {
       "word": "cousin",
@@ -344,7 +806,21 @@
       "id": 187,
       "filename": "0187_cousin.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0187_cousin.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My cousin is playing basketball in the park.",
+          "chinese": "我的堂/表兄弟姊妹正在公園打籃球。"
+        },
+        {
+          "english": "My cousin has a very cool red bike.",
+          "chinese": "我的堂/表兄弟姊妹有一輛很酷的紅色腳踏車。"
+        },
+        {
+          "english": "My cousin and I are watching a funny movie.",
+          "chinese": "我和我的堂/表兄弟姊妹正在看一部有趣的電影。"
+        }
+      ]
     },
     {
       "word": "parent",
@@ -354,7 +830,21 @@
       "id": 188,
       "filename": "0188_parent.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0188_parent.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My parent is reading an interesting story to me now.",
+          "chinese": "我的父(母)親現在正在讀一個有趣的故事給我聽。"
+        },
+        {
+          "english": "My parents are happily planting flowers in the garden.",
+          "chinese": "我的父母親正在高興地在花園裡種花。"
+        },
+        {
+          "english": "A kind parent is helping their child with homework right now.",
+          "chinese": "一位親切的父(母)親現在正在幫助孩子寫功課。"
+        }
+      ]
     },
     {
       "word": "family",
@@ -364,7 +854,21 @@
       "id": 189,
       "filename": "0189_family.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0189_family.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My family is eating dinner together now.",
+          "chinese": "我的家人現在正在一起吃晚餐。"
+        },
+        {
+          "english": "My family members always take care of each other.",
+          "chinese": "我的家人總是互相照顧。"
+        },
+        {
+          "english": "Our family loves to spend time together.",
+          "chinese": "我們家喜歡一起度過時光。"
+        }
+      ]
     },
     {
       "word": "live",
@@ -374,7 +878,21 @@
       "id": 190,
       "filename": "0190_live.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0190_live.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My family is living in a big house now.",
+          "chinese": "我的家人現在正住在一棟大房子裡。"
+        },
+        {
+          "english": "She is living with her grandparents for the summer.",
+          "chinese": "她這個夏天正和祖父母住在一起。"
+        },
+        {
+          "english": "We are living happily in our new apartment.",
+          "chinese": "我們正快樂地住在我們的新公寓裡。"
+        }
+      ]
     },
     {
       "word": "food",
@@ -384,7 +902,21 @@
       "id": 191,
       "filename": "0191_food.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0191_food.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mother is preparing healthy food for our dinner.",
+          "chinese": "我的媽媽正在為我們的晚餐準備健康的食物。"
+        },
+        {
+          "english": "The children are enjoying tasty fast food at the restaurant.",
+          "chinese": "孩子們正在餐廳裡享用美味的速食。"
+        },
+        {
+          "english": "The animals in the zoo are waiting for their food.",
+          "chinese": "動物園裡的動物們正在等待牠們的食物。"
+        }
+      ]
     },
     {
       "word": "beef",
@@ -394,7 +926,21 @@
       "id": 192,
       "filename": "0192_beef.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0192_beef.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mom is cooking delicious beef for dinner tonight.",
+          "chinese": "我媽媽今晚正在煮美味的牛肉當晚餐。"
+        },
+        {
+          "english": "The grilled beef is juicy and tastes really good.",
+          "chinese": "這烤牛肉多汁而且嚐起來非常好吃。"
+        },
+        {
+          "english": "The children are enjoying their beef burgers at the park.",
+          "chinese": "孩子們正在公園裡享用他們的牛肉漢堡。"
+        }
+      ]
     },
     {
       "word": "pork",
@@ -404,7 +950,21 @@
       "id": 193,
       "filename": "0193_pork.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0193_pork.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mom is buying some fresh pork at the market.",
+          "chinese": "我媽媽正在市場買一些新鮮的豬肉。"
+        },
+        {
+          "english": "Pork is meat that comes from a pig.",
+          "chinese": "豬肉是來自豬的肉。"
+        },
+        {
+          "english": "We are having delicious pork dumplings for dinner tonight.",
+          "chinese": "我們今晚晚餐要吃美味的豬肉水餃。"
+        }
+      ]
     },
     {
       "word": "soup",
@@ -414,7 +974,21 @@
       "id": 194,
       "filename": "0194_soup.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0194_soup.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I am drinking a warm bowl of corn soup right now.",
+          "chinese": "我現在正在喝一碗熱騰騰的玉米湯。"
+        },
+        {
+          "english": "Mom is carefully stirring the thick mushroom soup in the pot.",
+          "chinese": "媽媽正在仔細地攪拌鍋裡濃稠的蘑菇湯。"
+        },
+        {
+          "english": "My little sister is blowing on her hot chicken soup.",
+          "chinese": "我的小妹妹正在吹涼她熱騰騰的雞湯。"
+        }
+      ]
     },
     {
       "word": "hot dog",
@@ -424,7 +998,21 @@
       "id": 195,
       "filename": "0195_hot_dog.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0195_hot_dog.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My brother is eating a big hot dog with mustard right now.",
+          "chinese": "我的哥哥現在正在吃一個加了芥末醬的大熱狗。"
+        },
+        {
+          "english": "We are buying a yummy hot dog at the store for lunch.",
+          "chinese": "我們正在商店買一個美味的熱狗當午餐。"
+        },
+        {
+          "english": "She is adding ketchup to her hot dog because she likes it sweet.",
+          "chinese": "她正在她的熱狗上加番茄醬，因為她喜歡甜的味道。"
+        }
+      ]
     },
     {
       "word": "sandwich",
@@ -434,7 +1022,21 @@
       "id": 196,
       "filename": "0196_sandwich.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0196_sandwich.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My little sister is eating a yummy sandwich now.",
+          "chinese": "我的小妹妹現在正在吃一個美味的三明治。"
+        },
+        {
+          "english": "Dad is putting ham and cheese in the sandwich.",
+          "chinese": "爸爸正在把火腿和起司放進三明治裡。"
+        },
+        {
+          "english": "He is carefully wrapping his big sandwich for lunch.",
+          "chinese": "他正在小心地包裝他的大三明治當午餐。"
+        }
+      ]
     },
     {
       "word": "tomato",
@@ -444,7 +1046,21 @@
       "id": 197,
       "filename": "0197_tomato.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0197_tomato.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The round red tomato is on the table.",
+          "chinese": "圓圓紅紅的番茄在桌上。"
+        },
+        {
+          "english": "Dad is cutting a big tomato for our dinner.",
+          "chinese": "爸爸正在為我們的晚餐切一個大番茄。"
+        },
+        {
+          "english": "I love the sweet taste of a fresh tomato.",
+          "chinese": "我喜歡新鮮番茄甜美的味道。"
+        }
+      ]
     },
     {
       "word": "orange",
@@ -454,7 +1070,21 @@
       "id": 198,
       "filename": "0198_orange.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0198_orange.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The farmer is picking many ripe oranges from the tree.",
+          "chinese": "這位農夫正在樹上摘很多成熟的柳橙。"
+        },
+        {
+          "english": "I am drawing a picture with a bright orange sun.",
+          "chinese": "我正在畫一張有著亮橘色太陽的圖畫。"
+        },
+        {
+          "english": "The little bird has pretty orange feathers on its wings.",
+          "chinese": "這隻小鳥的翅膀上有著美麗的橘色羽毛。"
+        }
+      ]
     },
     {
       "word": "vegetable",
@@ -464,7 +1094,21 @@
       "id": 199,
       "filename": "0199_vegetable.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0199_vegetable.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "This green vegetable is growing well in the garden.",
+          "chinese": "這種綠色的蔬菜在花園裡長得很好。"
+        },
+        {
+          "english": "My mom says eating vegetables keeps us strong.",
+          "chinese": "我媽媽說吃蔬菜可以讓我們保持強壯。"
+        },
+        {
+          "english": "We should eat many different vegetables every day.",
+          "chinese": "我們每天都應該吃很多不同的蔬菜。"
+        }
+      ]
     },
     {
       "word": "bread",
@@ -474,7 +1118,21 @@
       "id": 200,
       "filename": "0200_bread.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0200_bread.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We eat soft bread with milk for a delicious breakfast.",
+          "chinese": "我們早餐會吃鬆軟的麵包配牛奶，很美味。"
+        },
+        {
+          "english": "She is making a yummy sandwich using two slices of bread.",
+          "chinese": "她正在用兩片麵包做一個美味的三明治。"
+        },
+        {
+          "english": "There are many kinds of bread, like white bread and whole wheat bread.",
+          "chinese": "麵包有很多種，像是白麵包和全麥麵包。"
+        }
+      ]
     },
     {
       "word": "pie",
@@ -484,7 +1142,21 @@
       "id": 201,
       "filename": "0201_pie.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0201_pie.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mom is baking a delicious apple pie for dinner now.",
+          "chinese": "我媽媽現在正在為晚餐烤一個美味的蘋果派。"
+        },
+        {
+          "english": "The strawberry pie looks so yummy with fresh cream on top.",
+          "chinese": "這個草莓派上面有鮮奶油，看起來好好吃。"
+        },
+        {
+          "english": "My sister is sharing a big slice of pumpkin pie with me.",
+          "chinese": "我姐姐正在和我分享一大塊南瓜派。"
+        }
+      ]
     },
     {
       "word": "pizza",
@@ -494,7 +1166,21 @@
       "id": 202,
       "filename": "0202_pizza.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0202_pizza.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "They are eating delicious pizza for dinner right now.",
+          "chinese": "他們現在正在吃美味的披薩當晚餐。"
+        },
+        {
+          "english": "My mom is making a big cheese pizza for us.",
+          "chinese": "我媽媽正在為我們做一個大大的起司披薩。"
+        },
+        {
+          "english": "The warm pizza is smelling so good from the kitchen.",
+          "chinese": "溫熱的披薩從廚房傳來好香的味道。"
+        }
+      ]
     },
     {
       "word": "ice cream",
@@ -504,7 +1190,21 @@
       "id": 203,
       "filename": "0203_ice_cream.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0203_ice_cream.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The little girl is happily eating her strawberry ice cream.",
+          "chinese": "小女孩正在開心地吃她的草莓冰淇淋。"
+        },
+        {
+          "english": "Many people are enjoying ice cream because the weather is very hot today.",
+          "chinese": "很多人正在享用冰淇淋，因為今天天氣非常熱。"
+        },
+        {
+          "english": "They are buying a big cup of vanilla ice cream from the shop now.",
+          "chinese": "他們現在正在店裡買一大杯香草冰淇淋。"
+        }
+      ]
     },
     {
       "word": "candy",
@@ -514,7 +1214,21 @@
       "id": 204,
       "filename": "0204_candy.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_5/0204_candy.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My little sister is happily eating a piece of candy right now.",
+          "chinese": "我的小妹妹現在正開心地吃著一顆糖果。"
+        },
+        {
+          "english": "Mom is carefully wrapping many colorful candies for the party.",
+          "chinese": "媽媽正仔細地為派對包裝許多五顏六色的糖果。"
+        },
+        {
+          "english": "The children are eagerly waiting for the delicious candy at the store.",
+          "chinese": "孩子們正興奮地等待著店裡那些美味的糖果。"
+        }
+      ]
     }
   ]
 }

@@ -14,7 +14,21 @@
       "id": 74,
       "filename": "0074_hair.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0074_hair.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She colored her hair red yesterday afternoon.",
+          "chinese": "她昨天下午把頭髮染成紅色。"
+        },
+        {
+          "english": "He combed his hair quickly before school.",
+          "chinese": "他上學前很快地梳了梳頭髮。"
+        },
+        {
+          "english": "There was a hair on my shirt this morning.",
+          "chinese": "今天早上我的襯衫上有一根頭髮。"
+        }
+      ]
     },
     {
       "word": "hand",
@@ -25,7 +39,21 @@
       "filename": null,
       "filepath": null,
       "success": false,
-      "error": "API Error: No image data in response"
+      "error": "API Error: No image data in response",
+      "examples": [
+        {
+          "english": "My mom held my hand as we walked home.",
+          "chinese": "我的媽媽牽著我的手走回家。"
+        },
+        {
+          "english": "The boy raised his hand to answer the question.",
+          "chinese": "那個男生舉手回答問題。"
+        },
+        {
+          "english": "He handed his friend a small red ball.",
+          "chinese": "他遞給他的朋友一顆小的紅色球。"
+        }
+      ]
     },
     {
       "word": "leg",
@@ -35,7 +63,21 @@
       "id": 76,
       "filename": "0076_leg.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0076_leg.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I hurt my leg when I fell down.",
+          "chinese": "我跌倒的時候弄傷了我的腿。"
+        },
+        {
+          "english": "The table in my room has four strong legs.",
+          "chinese": "我房間裡的桌子有四條堅固的桌腳。"
+        },
+        {
+          "english": "My little brother ran very fast with his short legs.",
+          "chinese": "我的小弟弟用他短短的腿跑得很快。"
+        }
+      ]
     },
     {
       "word": "cat",
@@ -45,7 +87,21 @@
       "id": 77,
       "filename": "0077_cat.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0077_cat.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My friend has a very cute cat.",
+          "chinese": "我的朋友有一隻很可愛的貓。"
+        },
+        {
+          "english": "Yesterday, my cat played with a small toy.",
+          "chinese": "昨天，我的貓玩了一個小玩具。"
+        },
+        {
+          "english": "My cat always sleeps on the sofa.",
+          "chinese": "我的貓總是在沙發上睡覺。"
+        }
+      ]
     },
     {
       "word": "dog",
@@ -55,7 +111,21 @@
       "id": 78,
       "filename": "0078_dog.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0078_dog.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We had a lovely dog when I was little.",
+          "chinese": "我小時候養了一隻可愛的狗。"
+        },
+        {
+          "english": "The neighborhood dog barked at the cat last night.",
+          "chinese": "鄰居的狗昨晚對貓叫了。"
+        },
+        {
+          "english": "I saw a big brown dog playing in the park.",
+          "chinese": "我在公園裡看到一隻棕色的大狗在玩。"
+        }
+      ]
     },
     {
       "word": "bird",
@@ -65,7 +135,21 @@
       "id": 79,
       "filename": "0079_bird.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0079_bird.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The little bird flew high in the sky yesterday.",
+          "chinese": "這隻小鳥昨天在天空飛得很高。"
+        },
+        {
+          "english": "I heard a beautiful bird sing a sweet song this morning.",
+          "chinese": "我今天早上聽到一隻美麗的鳥唱著甜美的歌。"
+        },
+        {
+          "english": "A mother bird built a small nest in the big tree.",
+          "chinese": "一隻鳥媽媽在大樹上築了一個小鳥巢。"
+        }
+      ]
     },
     {
       "word": "bear",
@@ -75,7 +159,21 @@
       "id": 80,
       "filename": "0080_bear.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0080_bear.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The bear ate a lot of honey yesterday.",
+          "chinese": "那隻熊昨天吃了很多蜂蜜。"
+        },
+        {
+          "english": "Bears like to sleep in the cold winter.",
+          "chinese": "熊喜歡在寒冷的冬天睡覺。"
+        },
+        {
+          "english": "That big bear has soft brown fur and a short tail.",
+          "chinese": "那隻大熊有柔軟的棕色毛皮和一條短尾巴。"
+        }
+      ]
     },
     {
       "word": "duck",
@@ -85,7 +183,21 @@
       "id": 81,
       "filename": "0081_duck.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0081_duck.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I saw a yellow duck swimming in the pond yesterday.",
+          "chinese": "我昨天看到一隻黃色的鴨子在池塘裡游泳。"
+        },
+        {
+          "english": "The boy quickly ducked to avoid the thrown ball.",
+          "chinese": "男孩快速地彎下身子，以閃躲丟過來的球。"
+        },
+        {
+          "english": "My family ate tasty duck for dinner last night.",
+          "chinese": "我家人昨晚晚餐吃了美味的鴨肉。"
+        }
+      ]
     },
     {
       "word": "chicken",
@@ -95,7 +207,21 @@
       "id": 82,
       "filename": "0082_chicken.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0082_chicken.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My grandma's chicken laid a big egg yesterday.",
+          "chinese": "我奶奶的雞昨天下了一顆大蛋。"
+        },
+        {
+          "english": "I ate some delicious fried chicken for dinner.",
+          "chinese": "我晚餐吃了一些美味的炸雞。"
+        },
+        {
+          "english": "We saw a big white chicken on the farm.",
+          "chinese": "我們在農場看到了一隻又大又白的雞。"
+        }
+      ]
     },
     {
       "word": "mouse",
@@ -105,7 +231,21 @@
       "id": 83,
       "filename": "0083_mouse.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0083_mouse.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The small mouse ran quickly across the kitchen floor.",
+          "chinese": "小老鼠快速地跑過了廚房地板。"
+        },
+        {
+          "english": "I used the computer mouse to click on the fun game icon.",
+          "chinese": "我用電腦滑鼠點擊了那個有趣的遊戲圖示。"
+        },
+        {
+          "english": "My cat chased a tiny mouse hiding under the old sofa.",
+          "chinese": "我的貓追趕一隻躲在舊沙發下的小老鼠。"
+        }
+      ]
     },
     {
       "word": "pig",
@@ -115,7 +255,21 @@
       "id": 84,
       "filename": "0084_pig.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0084_pig.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I saw a big pink pig on the farm.",
+          "chinese": "我在農場看到一隻大大的粉紅色豬。"
+        },
+        {
+          "english": "He ate his food like a pig at the party.",
+          "chinese": "他在派對上吃東西像一頭豬一樣。"
+        },
+        {
+          "english": "My little brother has a cute piggy bank.",
+          "chinese": "我的小弟弟有一個可愛的撲滿。"
+        }
+      ]
     },
     {
       "word": "rabbit",
@@ -125,7 +279,21 @@
       "id": 85,
       "filename": "0085_rabbit.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0085_rabbit.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My friend had a white rabbit as a pet last year.",
+          "chinese": "我的朋友去年養了一隻白色的兔子當寵物。"
+        },
+        {
+          "english": "Yesterday, a brown rabbit hopped quickly into the bushes.",
+          "chinese": "昨天，一隻棕色的兔子快速跳進了灌木叢。"
+        },
+        {
+          "english": "My sister loved the cute rabbit in the storybook.",
+          "chinese": "我妹妹很喜歡故事書裡那隻可愛的兔子。"
+        }
+      ]
     },
     {
       "word": "fox",
@@ -135,7 +303,21 @@
       "id": 86,
       "filename": "0086_fox.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0086_fox.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "A fox ran into the forest quickly.",
+          "chinese": "一隻狐狸快速地跑進森林裡。"
+        },
+        {
+          "english": "The little fox was very smart and found food.",
+          "chinese": "那隻小狐狸很聰明，找到了食物。"
+        },
+        {
+          "english": "We read a story about a talking fox.",
+          "chinese": "我們讀了一個關於會說話的狐狸的故事。"
+        }
+      ]
     },
     {
       "word": "lion",
@@ -145,7 +327,21 @@
       "id": 87,
       "filename": "0087_lion.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0087_lion.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We saw a big lion at the zoo yesterday.",
+          "chinese": "我們昨天在動物園看到一隻大獅子。"
+        },
+        {
+          "english": "A male lion has a thick mane on its head.",
+          "chinese": "公獅子的頭上有一圈濃密的鬃毛。"
+        },
+        {
+          "english": "The hungry lion let out a very loud roar.",
+          "chinese": "那隻飢餓的獅子發出非常響亮的吼叫聲。"
+        }
+      ]
     },
     {
       "word": "tiger",
@@ -155,7 +351,21 @@
       "id": 88,
       "filename": "0088_tiger.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0088_tiger.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I saw a big tiger with black stripes at the zoo yesterday.",
+          "chinese": "我昨天在動物園看到一隻有黑色條紋的大老虎。"
+        },
+        {
+          "english": "The big tiger roared loudly in the jungle.",
+          "chinese": "那隻大老虎在叢林裡大聲地吼叫。"
+        },
+        {
+          "english": "My favorite stuffed animal is a soft, orange tiger.",
+          "chinese": "我最喜歡的填充玩偶是一隻柔軟的橘色老虎。"
+        }
+      ]
     },
     {
       "word": "sheep",
@@ -165,7 +375,21 @@
       "id": 89,
       "filename": "0089_sheep.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0089_sheep.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I saw a white sheep on the farm yesterday.",
+          "chinese": "我昨天在農場看到一隻白色的羊。"
+        },
+        {
+          "english": "My mom bought a soft wool sweater made from sheep.",
+          "chinese": "我媽媽買了一件用羊毛做的柔軟毛衣。"
+        },
+        {
+          "english": "Last night, I counted many sheep to fall asleep.",
+          "chinese": "昨晚，我數了好多隻羊才睡著。"
+        }
+      ]
     },
     {
       "word": "monkey",
@@ -175,7 +399,21 @@
       "id": 90,
       "filename": "0090_monkey.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0090_monkey.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We saw a playful monkey at the zoo yesterday.",
+          "chinese": "我們昨天在動物園看到一隻頑皮的猴子。"
+        },
+        {
+          "english": "The clever monkey ate all the bananas quickly.",
+          "chinese": "那隻聰明的猴子很快地吃光了所有的香蕉。"
+        },
+        {
+          "english": "My little brother acted like a monkey yesterday.",
+          "chinese": "我弟弟昨天表現得像個猴子一樣。"
+        }
+      ]
     },
     {
       "word": "elephant",
@@ -185,7 +423,21 @@
       "id": 91,
       "filename": "0091_elephant.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0091_elephant.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We saw a big elephant at the zoo yesterday.",
+          "chinese": "我們昨天在動物園看到一隻大象。"
+        },
+        {
+          "english": "The baby elephant played with its long trunk.",
+          "chinese": "小象用牠的長鼻子玩耍。"
+        },
+        {
+          "english": "My mom bought me an elephant toy last week.",
+          "chinese": "我媽媽上週買給我一個大象玩具。"
+        }
+      ]
     },
     {
       "word": "horse",
@@ -195,7 +447,21 @@
       "id": 92,
       "filename": "0092_horse.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0092_horse.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The big horse ate green grass in the field.",
+          "chinese": "大馬在田裡吃綠色的草。"
+        },
+        {
+          "english": "Yesterday, I rode a gentle horse at the farm.",
+          "chinese": "昨天，我在農場騎了一匹溫馴的馬。"
+        },
+        {
+          "english": "My little sister played with her new rocking horse.",
+          "chinese": "我的小妹妹玩她的新搖搖馬。"
+        }
+      ]
     },
     {
       "word": "frog",
@@ -205,7 +471,21 @@
       "id": 93,
       "filename": "0093_frog.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0093_frog.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Yesterday, I saw a big green frog by the pond.",
+          "chinese": "昨天，我在池塘邊看到一隻大青蛙。"
+        },
+        {
+          "english": "The small frog jumped into the water very fast.",
+          "chinese": "那隻小青蛙很快地跳進水裡。"
+        },
+        {
+          "english": "My brother found a tiny frog in the garden yesterday.",
+          "chinese": "昨天，我哥哥在花園裡找到了一隻小青蛙。"
+        }
+      ]
     },
     {
       "word": "ant",
@@ -215,7 +495,21 @@
       "id": 94,
       "filename": "0094_ant.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0094_ant.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Yesterday, I saw a tiny ant walking on the ground.",
+          "chinese": "昨天，我看見一隻小螞蟻在地上走。"
+        },
+        {
+          "english": "The ant quickly carried a piece of bread to its hole.",
+          "chinese": "那隻螞蟻很快地把一塊麵包搬到牠的洞裡。"
+        },
+        {
+          "english": "We saw many ants marching in a long line on the wall.",
+          "chinese": "我們看到許多螞蟻在牆上排成一長列前進。"
+        }
+      ]
     },
     {
       "word": "bee",
@@ -225,7 +519,21 @@
       "id": 95,
       "filename": "0095_bee.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0095_bee.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "A bee often sits on a bright flower.",
+          "chinese": "蜜蜂常常坐在明亮的花朵上。"
+        },
+        {
+          "english": "A bee makes delicious honey for us to eat.",
+          "chinese": "蜜蜂為我們製作美味的蜂蜜來吃。"
+        },
+        {
+          "english": "I saw a small bee fly away yesterday.",
+          "chinese": "我昨天看到一隻小蜜蜂飛走了。"
+        }
+      ]
     },
     {
       "word": "snake",
@@ -235,7 +543,21 @@
       "id": 96,
       "filename": "0096_snake.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0096_snake.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We saw a long snake in the zoo last week.",
+          "chinese": "我們上週在動物園看到一條長長的蛇。"
+        },
+        {
+          "english": "The little snake hid under a rock.",
+          "chinese": "小蛇藏在一顆石頭下面。"
+        },
+        {
+          "english": "My mom was born in the Year of the Snake.",
+          "chinese": "我媽媽屬蛇。"
+        }
+      ]
     },
     {
       "word": "pet",
@@ -245,7 +567,21 @@
       "id": 97,
       "filename": "0097_pet.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0097_pet.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My friend has a lovely pet dog at home.",
+          "chinese": "我的朋友家裡有一隻可愛的寵物狗。"
+        },
+        {
+          "english": "Many kids enjoy playing with their little pets.",
+          "chinese": "很多小孩喜歡跟他們的小寵物玩。"
+        },
+        {
+          "english": "Our pet cat loves to sleep on the soft sofa.",
+          "chinese": "我們家的寵物貓喜歡睡在軟軟的沙發上。"
+        }
+      ]
     },
     {
       "word": "animal",
@@ -255,7 +591,21 @@
       "id": 98,
       "filename": "0098_animal.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0098_animal.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We saw many cute animals at the zoo yesterday.",
+          "chinese": "我們昨天在動物園看到很多可愛的動物。"
+        },
+        {
+          "english": "The little animal ran very fast in the park.",
+          "chinese": "那隻小動物在公園跑得很快。"
+        },
+        {
+          "english": "My brother drew a big animal on the paper.",
+          "chinese": "我哥哥在紙上畫了一隻大動物。"
+        }
+      ]
     },
     {
       "word": "my",
@@ -265,7 +615,21 @@
       "id": 99,
       "filename": "0099_my.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0099_my.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "This is my new book. I read it yesterday.",
+          "chinese": "這是我的新書。我昨天讀了它。"
+        },
+        {
+          "english": "My friend and I played in the park last week.",
+          "chinese": "我的朋友和我在上週去了公園玩。"
+        },
+        {
+          "english": "My dog ate its food quickly this morning.",
+          "chinese": "我的狗今天早上很快地吃了牠的食物。"
+        }
+      ]
     },
     {
       "word": "your",
@@ -275,7 +639,21 @@
       "id": 100,
       "filename": "0100_your.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0100_your.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Was that your favorite toy yesterday?",
+          "chinese": "那是你昨天最喜歡的玩具嗎？"
+        },
+        {
+          "english": "You finished your homework before dinner.",
+          "chinese": "你在晚餐前完成了你的功課。"
+        },
+        {
+          "english": "Your teacher said hello to me this morning.",
+          "chinese": "你的老師今天早上跟我打招呼。"
+        }
+      ]
     },
     {
       "word": "his",
@@ -285,7 +663,21 @@
       "id": 101,
       "filename": "0101_his.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0101_his.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "He lost his blue pencil at school yesterday.",
+          "chinese": "他昨天在學校弄丟了他的藍色鉛筆。"
+        },
+        {
+          "english": "David played with his best friend at the park.",
+          "chinese": "大衛在公園和他的好朋友一起玩。"
+        },
+        {
+          "english": "Tom likes his new red hat very much.",
+          "chinese": "湯姆很喜歡他的新紅色帽子。"
+        }
+      ]
     },
     {
       "word": "her",
@@ -295,7 +687,21 @@
       "id": 102,
       "filename": "0102_her.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0102_her.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She brushed her teeth before bed last night.",
+          "chinese": "她昨晚睡前刷了她的牙齒。"
+        },
+        {
+          "english": "We saw her at the store yesterday afternoon.",
+          "chinese": "我們昨天下午在商店看到了她。"
+        },
+        {
+          "english": "My mom gave her a small gift today.",
+          "chinese": "我的媽媽今天給了她一個小禮物。"
+        }
+      ]
     },
     {
       "word": "its",
@@ -305,7 +711,21 @@
       "id": 103,
       "filename": "0103_its.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0103_its.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The dog wagged its tail happily.",
+          "chinese": "狗狗開心地搖著牠的尾巴。"
+        },
+        {
+          "english": "The tree lost its leaves in the autumn.",
+          "chinese": "那棵樹在秋天掉光了牠的葉子。"
+        },
+        {
+          "english": "The elephant used its long trunk to drink water.",
+          "chinese": "那隻大象用牠的長鼻子喝水。"
+        }
+      ]
     },
     {
       "word": "our",
@@ -315,7 +735,21 @@
       "id": 104,
       "filename": "0104_our.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0104_our.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We ate our delicious lunch in the school cafeteria. (10 words)",
+          "chinese": "我們在學校餐廳吃了我們美味的午餐。"
+        },
+        {
+          "english": "Our teacher gave us a fun storybook last week. (10 words)",
+          "chinese": "我們的老師上週給了我們一本有趣的圖畫書。"
+        },
+        {
+          "english": "Yesterday, we cleaned our big house together. (8 words)",
+          "chinese": "昨天，我們一起打掃了我們的大房子。"
+        }
+      ]
     },
     {
       "word": "their",
@@ -325,7 +759,21 @@
       "id": 105,
       "filename": "0105_their.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0105_their.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The children played with their toys in the park.",
+          "chinese": "孩子們在公園裡玩他們的玩具。"
+        },
+        {
+          "english": "The students opened their books and started to read.",
+          "chinese": "學生們打開他們的書並開始閱讀。"
+        },
+        {
+          "english": "My friends shared their snacks with me yesterday.",
+          "chinese": "我的朋友們昨天跟我分享他們的點心。"
+        }
+      ]
     },
     {
       "word": "yes",
@@ -335,7 +783,21 @@
       "id": 106,
       "filename": "0106_yes.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0106_yes.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Yes, I want to play with my friends.",
+          "chinese": "對，我想要和我的朋友一起玩。"
+        },
+        {
+          "english": "Yes, you can borrow my book for class.",
+          "chinese": "是的，你可以借我的書上課用。"
+        },
+        {
+          "english": "Yes, I went to the zoo with my family last week.",
+          "chinese": "是的，我上週和我的家人去動物園了。"
+        }
+      ]
     },
     {
       "word": "no",
@@ -345,7 +807,21 @@
       "id": 107,
       "filename": "0107_no.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0107_no.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "No, thank you. I am full now.",
+          "chinese": "不用了，謝謝。我現在飽了。"
+        },
+        {
+          "english": "We have no juice left for breakfast.",
+          "chinese": "我們早餐沒有果汁了。"
+        },
+        {
+          "english": "The teacher said no talking during the test.",
+          "chinese": "老師說考試時不可以說話。"
+        }
+      ]
     },
     {
       "word": "not",
@@ -355,7 +831,21 @@
       "id": 108,
       "filename": "0108_not.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0108_not.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "It is not cold outside today.",
+          "chinese": "今天外面不冷。"
+        },
+        {
+          "english": "He did not finish his homework last night.",
+          "chinese": "他昨晚沒有寫完功課。"
+        },
+        {
+          "english": "The cat was not hungry after eating its food.",
+          "chinese": "貓咪吃完食物後不餓。"
+        }
+      ]
     },
     {
       "word": "O.K.",
@@ -365,7 +855,21 @@
       "id": 109,
       "filename": "0109_O_K_.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0109_O_K_.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "O.K., you can play with your friends after homework.",
+          "chinese": "好的，你寫完功課後可以和朋友玩。"
+        },
+        {
+          "english": "Is it O.K. to share your toys with me?",
+          "chinese": "和我分享你的玩具好嗎？"
+        },
+        {
+          "english": "Don't worry, everything will be O.K. soon.",
+          "chinese": "別擔心，所有事情很快就會好的。"
+        }
+      ]
     },
     {
       "word": "doctor",
@@ -375,7 +879,21 @@
       "id": 110,
       "filename": "0110_doctor.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0110_doctor.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I saw a doctor because I felt unwell.",
+          "chinese": "我去看醫生，因為我身體不舒服。"
+        },
+        {
+          "english": "A kind doctor gave me some medicine.",
+          "chinese": "一位好心的醫生給了我一些藥。"
+        },
+        {
+          "english": "My mom wanted to be a doctor when she was young.",
+          "chinese": "我媽媽年輕的時候想當醫生。"
+        }
+      ]
     },
     {
       "word": "nurse",
@@ -385,7 +903,21 @@
       "id": 111,
       "filename": "0111_nurse.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0111_nurse.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My aunt is a kind nurse at the local hospital.",
+          "chinese": "我的阿姨是當地醫院一位好心的護士。"
+        },
+        {
+          "english": "The girl nursed her sick puppy back to health.",
+          "chinese": "那個女孩照顧她生病的小狗，直到牠康復。"
+        },
+        {
+          "english": "He nursed his injured leg after the soccer game.",
+          "chinese": "足球賽後，他仔細護理他受傷的腿。"
+        }
+      ]
     },
     {
       "word": "singer",
@@ -395,7 +927,21 @@
       "id": 112,
       "filename": "0112_singer.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0112_singer.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "She was a good singer when she was young.",
+          "chinese": "她年輕的時候是個很棒的歌手。"
+        },
+        {
+          "english": "The famous singer sang many songs last night.",
+          "chinese": "那位有名的歌手昨晚唱了好多歌。"
+        },
+        {
+          "english": "I saw a new singer at the concert yesterday.",
+          "chinese": "我昨天在演唱會看到一位新歌手。"
+        }
+      ]
     },
     {
       "word": "actor",
@@ -405,7 +951,21 @@
       "id": 113,
       "filename": "0113_actor.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_3/0113_actor.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The actor played a brave hero in the new movie.",
+          "chinese": "這位演員在新電影裡扮演了一個勇敢的英雄。"
+        },
+        {
+          "english": "My favorite actor won an award last night.",
+          "chinese": "我最喜歡的演員昨晚贏得了一個獎。"
+        },
+        {
+          "english": "She wanted to be an actor when she grew up.",
+          "chinese": "她長大後想成為一名演員。"
+        }
+      ]
     }
   ]
 }
