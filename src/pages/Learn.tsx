@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { FlashCard } from '../components/FlashCard';
+import { UserIndicator } from '../components/UserIndicator';
 import { useLevelData } from '../hooks/useLevelData';
 import { useFlashCards } from '../hooks/useFlashCards';
 
@@ -129,15 +130,18 @@ export function Learn() {
         </svg>
       </button>
 
-      {/* 進度顯示 - 右上角 */}
-      <div className="absolute top-4 right-4 z-20 bg-white/90 backdrop-blur px-3 py-2 md:px-4 md:py-2 rounded-full shadow-lg text-xs md:text-sm font-medium text-gray-700">
-        <span className="hidden sm:inline">Level {levelNum} • </span>
-        {currentIndex + 1} / {totalCards}
+      {/* User Indicator & Progress - 右上角 */}
+      <div className="absolute top-4 right-4 z-20 flex flex-col items-end gap-2">
+        <UserIndicator />
+        <div className="bg-white/90 backdrop-blur px-3 py-2 md:px-4 md:py-2 rounded-full shadow-lg text-xs md:text-sm font-medium text-gray-700">
+          <span className="hidden sm:inline">Level {levelNum} • </span>
+          {currentIndex + 1} / {totalCards}
+        </div>
       </div>
 
       {/* Flash Card - 填滿整個空間 */}
       <div className="absolute inset-0 flex items-center justify-center">
-        <FlashCard card={currentCard} isFlipped={isFlipped} onFlip={flipCard} isLoading={isImageLoading} />
+        <FlashCard card={currentCard} level={levelNum!} isFlipped={isFlipped} onFlip={flipCard} isLoading={isImageLoading} />
       </div>
 
       {/* Navigation Controls - 底部中央，更緊湊 */}

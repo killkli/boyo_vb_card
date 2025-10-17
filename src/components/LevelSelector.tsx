@@ -1,5 +1,7 @@
 import { Link } from 'react-router-dom';
 import type { LevelMetadata } from '../types/vocabulary';
+import { LevelProgressIndicator } from './LevelProgressIndicator';
+import { OverallProgressStats } from './OverallProgressStats';
 
 interface LevelSelectorProps {
   levels: LevelMetadata[];
@@ -20,13 +22,15 @@ export function LevelSelector({ levels, loading }: LevelSelectorProps) {
 
   return (
     <div className="container mx-auto px-4 py-8">
-      <div className="text-center mb-12">
+      <div className="text-center mb-8">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
           單字翻卡學習系統
         </h1>
-        <p className="text-gray-600 text-lg">
+        <p className="text-gray-600 text-lg mb-6">
           選擇一個級數開始學習
         </p>
+        {/* Overall Progress Stats */}
+        <OverallProgressStats />
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-6">
@@ -65,6 +69,9 @@ export function LevelSelector({ levels, loading }: LevelSelectorProps) {
                   </svg>
                   <span className="text-sm">{level.totalWords} 個單字</span>
                 </div>
+
+                {/* Progress Indicator */}
+                <LevelProgressIndicator level={level.level} compact />
               </div>
             </div>
           </Link>

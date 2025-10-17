@@ -259,13 +259,56 @@ Keyboard shortcuts:
 - ✅ Code organized for tree-shaking
 **Next**: Run npm run build and test production build
 
-### Stage 5: Optional Enhancements
-**Goal**: Add progress tracking and advanced features
+### Stage 5: Multi-User Profile System (Phase 0)
+**Goal**: Enable multiple users to maintain separate learning progress
 **Success Criteria**:
-- LocalStorage saves user progress
-- Statistics page shows learning progress
-- "Review mode" filters unlearned cards
-**Status**: Not Started
+- ✅ User profile creation and management
+- ✅ Profile selection on app startup
+- ✅ User switching functionality
+- ✅ IndexedDB for persistent storage
+**Status**: Completed
+**Completed**:
+- ✅ UserContext for global user state management
+- ✅ ProfileSelector page for choosing/creating profiles
+- ✅ ProfileCreator page with avatar and theme color customization
+- ✅ IndexedDB schema with userProfiles and appSettings stores
+- ✅ User indicator component showing current user info
+- ✅ Profile switching and last active user persistence
+
+### Stage 6: Progress Tracking System (Phase 1)
+**Goal**: Track individual word learning progress with spaced repetition
+**Success Criteria**:
+- ✅ Record learning attempts (correct/incorrect)
+- ✅ Calculate proficiency levels (new → learning → familiar → mastered)
+- ✅ Spaced repetition algorithm for review scheduling
+- ✅ Track input methods (speech vs keyboard)
+**Status**: Completed
+**Completed**:
+- ✅ WordProgress data structure with proficiency tracking
+- ✅ LearningHistory for individual attempt records
+- ✅ DailyStats for daily learning statistics
+- ✅ Spaced repetition algorithm (1hr → 4-10hrs → 1-2 days → 1-3 weeks)
+- ✅ Proficiency level calculation based on accuracy and streak
+- ✅ User statistics aggregation (total words, accuracy, streak)
+- ✅ Integration with FlashCard component for automatic tracking
+
+### Stage 7: Visual Progress Indicators (Phase 2)
+**Goal**: Provide visual feedback and motivation through progress indicators
+**Success Criteria**:
+- ✅ Proficiency badges on flashcards
+- ✅ Progress indicators on level cards
+- ✅ Color-coded proficiency levels
+- ✅ Overall progress statistics dashboard
+- ✅ Celebration animations for achievements
+**Status**: Completed
+**Completed**:
+- ✅ ProficiencyBadge component with 4 levels (🆕📖✓⭐)
+- ✅ LevelProgressIndicator showing per-level progress
+- ✅ Color-coded card borders (gray/yellow/green/purple)
+- ✅ OverallProgressStats component for homepage
+- ✅ Streak celebration animations (3, 5, 10, 20, 50 milestones)
+- ✅ useLevelProgress hook for level-specific statistics
+- ✅ Fixed TypeScript type mismatches in progressTracking
 
 ## Technical Considerations
 

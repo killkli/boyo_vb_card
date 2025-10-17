@@ -1,32 +1,73 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import type { FlashCardData } from '../types/vocabulary';
+import type { WordProgress } from '../types/learning';
 import { useSpeechRecognition } from '../hooks/useSpeechRecognition';
+import { useProgressTracking } from '../hooks/useProgressTracking';
+import { useUser } from '../contexts/UserContext';
+import { getWordProgress } from '../utils/progressTracking';
 import { speakText, isTTSSupported } from '../utils/textToSpeech';
 import { strictCompare } from '../utils/textNormalization';
+import { ProficiencyBadge } from './ProficiencyBadge';
 
 interface FlashCardProps {
   card: FlashCardData;
+  level: number;
   isFlipped: boolean;
   onFlip: () => void;
   isLoading?: boolean;
 }
 
-export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashCardProps) {
+export function FlashCard({ card, level, isFlipped, onFlip, isLoading = false }: FlashCardProps) {
   const [imageLoaded, setImageLoaded] = useState(false);
   const [imageError, setImageError] = useState(false);
   const [showSuccess, setShowSuccess] = useState(false);
   const [showError, setShowError] = useState(false);
+  const [showStreakCelebration, setShowStreakCelebration] = useState(false);
+  const [streakMilestone, setStreakMilestone] = useState(0);
   const [ttsSupported] = useState(isTTSSupported());
   const [inputMode, setInputMode] = useState<'speech' | 'keyboard'>('speech');
   const [keyboardInput, setKeyboardInput] = useState('');
+  const [wordProgress, setWordProgress] = useState<WordProgress | null>(null);
   const isFlippedRef = useRef(isFlipped);
   const flipTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const inputRef = useRef<HTMLInputElement>(null);
+  const { currentUser } = useUser();
+  const { trackAttempt, isReady } = useProgressTracking();
 
   // Update ref when isFlipped changes
   useEffect(() => {
     isFlippedRef.current = isFlipped;
   }, [isFlipped]);
+
+  // Load word progress when card changes
+  useEffect(() => {
+    async function loadProgress() {
+      if (currentUser) {
+        const progress = await getWordProgress(currentUser.userId, card.id, level);
+        setWordProgress(progress || null);
+      }
+    }
+    loadProgress();
+  }, [card.id, level, currentUser]);
+
+  // Check for streak milestones
+  const checkStreakMilestone = useCallback((progress: WordProgress) => {
+    const streak = progress.correctStreak;
+    const milestones = [3, 5, 10, 20, 50];
+
+    for (const milestone of milestones) {
+      if (streak === milestone) {
+        setStreakMilestone(milestone);
+        setShowStreakCelebration(true);
+
+        // Auto-hide celebration after 3 seconds
+        setTimeout(() => {
+          setShowStreakCelebration(false);
+        }, 3000);
+        break;
+      }
+    }
+  }, []);
 
   // Reset states when card changes
   useEffect(() => {
@@ -50,6 +91,18 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
       return;
     }
 
+    // Track progress - speech recognition correct answer
+    if (isReady) {
+      trackAttempt(card.id, card.word, level, true, 'speech').then(async (progress) => {
+        if (progress) {
+          setWordProgress(progress);
+          checkStreakMilestone(progress);
+        }
+      }).catch(err => {
+        console.error('Failed to track speech attempt:', err);
+      });
+    }
+
     setShowSuccess(true);
 
     // Clear any existing timeout
@@ -68,7 +121,7 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
         flipTimeoutRef.current = null;
       }, 100);
     }, 1500);
-  }, [onFlip, showSuccess]);
+  }, [onFlip, showSuccess, card.id, card.word, level, isReady, trackAttempt]);
 
   const {
     isSupported: speechSupported,
@@ -106,7 +159,23 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
     }
 
     // Strict comparison for keyboard input
-    if (strictCompare(keyboardInput, card.word)) {
+    const isCorrect = strictCompare(keyboardInput, card.word);
+
+    // Track progress - keyboard input attempt
+    if (isReady) {
+      trackAttempt(card.id, card.word, level, isCorrect, 'keyboard').then(async (progress) => {
+        if (progress) {
+          setWordProgress(progress);
+          if (isCorrect) {
+            checkStreakMilestone(progress);
+          }
+        }
+      }).catch(err => {
+        console.error('Failed to track keyboard attempt:', err);
+      });
+    }
+
+    if (isCorrect) {
       // Correct answer
       setShowSuccess(true);
       setKeyboardInput('');
@@ -134,7 +203,7 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
         setShowError(false);
       }, 1000);
     }
-  }, [keyboardInput, card.word, onFlip, showSuccess]);
+  }, [keyboardInput, card.word, card.id, level, onFlip, showSuccess, isReady, trackAttempt]);
 
   // Handle pronunciation on back side
   const handleSpeak = useCallback((e: React.MouseEvent) => {
@@ -156,12 +225,30 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
     }
   }, [showSuccess, isLoading, onFlip]);
 
+  // Get proficiency border color
+  const getProficiencyBorderColor = () => {
+    if (!wordProgress) return '';
+
+    switch (wordProgress.proficiencyLevel) {
+      case 'new':
+        return 'ring-4 ring-gray-300/50';
+      case 'learning':
+        return 'ring-4 ring-yellow-400/50';
+      case 'familiar':
+        return 'ring-4 ring-green-400/50';
+      case 'mastered':
+        return 'ring-4 ring-purple-500/50';
+      default:
+        return '';
+    }
+  };
+
   return (
     <div className="card-flip-container w-full h-full flex items-center justify-center px-4">
       <div
         className={`card-flip relative w-full max-w-md h-[85vh] max-h-[600px] ${
           showSuccess || isLoading ? 'cursor-default' : 'cursor-pointer'
-        } ${isFlipped ? 'flipped' : ''}`}
+        } ${isFlipped ? 'flipped' : ''} ${getProficiencyBorderColor()}`}
         onClick={handleCardClick}
         role="button"
         tabIndex={0}
@@ -211,8 +298,37 @@ export function FlashCard({ card, isFlipped, onFlip, isLoading = false }: FlashC
           </div>
         )}
 
+        {/* Streak Celebration overlay */}
+        {showStreakCelebration && (
+          <div className="absolute inset-0 z-50 bg-gradient-to-br from-yellow-400/95 to-orange-500/95 backdrop-blur-sm rounded-xl md:rounded-2xl flex items-center justify-center animate-bounce">
+            <div className="flex flex-col items-center gap-4">
+              <div className="text-6xl md:text-8xl animate-spin-slow">🎉</div>
+              <div className="text-center">
+                <p className="text-white text-3xl md:text-4xl font-bold mb-2">
+                  連續答對 {streakMilestone} 次！
+                </p>
+                <p className="text-white text-xl md:text-2xl font-semibold">
+                  {streakMilestone >= 20 ? '太厲害了！🏆' : streakMilestone >= 10 ? '真棒！⭐' : '繼續加油！🔥'}
+                </p>
+              </div>
+              <div className="flex gap-2">
+                <span className="text-4xl animate-bounce" style={{ animationDelay: '0ms' }}>🎊</span>
+                <span className="text-4xl animate-bounce" style={{ animationDelay: '100ms' }}>✨</span>
+                <span className="text-4xl animate-bounce" style={{ animationDelay: '200ms' }}>🌟</span>
+              </div>
+            </div>
+          </div>
+        )}
+
         {/* Front Side - 中文意思 + 圖片 */}
         <div className="card-front absolute inset-0 rounded-xl md:rounded-2xl shadow-xl bg-gradient-to-br from-blue-50 to-indigo-50 p-4 md:p-6 flex flex-col items-center justify-between overflow-hidden">
+          {/* Proficiency Badge - Top Right Corner */}
+          {wordProgress && (
+            <div className="absolute top-2 right-2 md:top-3 md:right-3 z-10">
+              <ProficiencyBadge level={wordProgress.proficiencyLevel} size="small" />
+            </div>
+          )}
+
           {/* Image - 佔更大空間 */}
           <div className="flex-1 flex items-center justify-center w-full min-h-0">
             {!imageError ? (
