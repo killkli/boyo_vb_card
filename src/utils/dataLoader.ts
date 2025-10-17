@@ -1,4 +1,5 @@
 import type { LevelManifest, LevelMetadata, FlashCardData } from '../types/vocabulary';
+import { getOptimizedImagePath } from './imageUtils';
 
 /**
  * Load manifest file for a specific level
@@ -48,10 +49,16 @@ export async function loadAllLevelsMetadata(): Promise<LevelMetadata[]> {
  * @returns FlashCardData
  */
 export function toFlashCardData(word: any): FlashCardData {
+  // Build original PNG path
+  const originalPath = `${import.meta.env.BASE_URL}data/level_${word.level}/${word.filename}`;
+
+  // Get optimized image path (WebP if supported, PNG fallback)
+  const optimizedPath = getOptimizedImagePath(originalPath);
+
   return {
     word: word.word,
     meaning: word.meaning,
-    imagePath: `${import.meta.env.BASE_URL}data/level_${word.level}/${word.filename}`,
+    imagePath: optimizedPath,
     level: word.level,
     id: word.id,
     examples: word.examples,
