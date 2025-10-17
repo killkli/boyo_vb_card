@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 import { LevelSelector } from '../components/LevelSelector';
 import { UserIndicator } from '../components/UserIndicator';
-import { OverallProgressStats } from '../components/OverallProgressStats';
 import { loadAllLevelsMetadata } from '../utils/dataLoader';
 import type { LevelMetadata } from '../types/vocabulary';
 

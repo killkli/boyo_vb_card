@@ -1,4 +1,4 @@
-import type { WordProgress, ProficiencyLevel, InputMethod, LearningHistory, DailyStats } from '../types/learning';
+import type { WordProgress, ProficiencyLevel, InputMethod, LearningHistory } from '../types/learning';
 import { getDB } from './db';
 
 /**
@@ -312,7 +312,6 @@ export async function getWordsForReview(userId: string, limit: number = 20): Pro
  * Get learning statistics for a user
  */
 export async function getLearningStats(userId: string) {
-  const db = await getDB();
   const allProgress = await getUserProgress(userId);
 
   const stats = {

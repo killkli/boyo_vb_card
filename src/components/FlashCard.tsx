@@ -43,7 +43,7 @@ export function FlashCard({ card, level, isFlipped, onFlip, isLoading = false }:
   useEffect(() => {
     async function loadProgress() {
       if (currentUser) {
-        const progress = await getWordProgress(currentUser.userId, card.id, level);
+        const progress = await getWordProgress(currentUser.userId, String(card.id), level);
         setWordProgress(progress || null);
       }
     }
@@ -93,7 +93,7 @@ export function FlashCard({ card, level, isFlipped, onFlip, isLoading = false }:
 
     // Track progress - speech recognition correct answer
     if (isReady) {
-      trackAttempt(card.id, card.word, level, true, 'speech').then(async (progress) => {
+      trackAttempt(String(card.id), card.word, level, true, 'speech').then(async (progress) => {
         if (progress) {
           setWordProgress(progress);
           checkStreakMilestone(progress);
@@ -163,7 +163,7 @@ export function FlashCard({ card, level, isFlipped, onFlip, isLoading = false }:
 
     // Track progress - keyboard input attempt
     if (isReady) {
-      trackAttempt(card.id, card.word, level, isCorrect, 'keyboard').then(async (progress) => {
+      trackAttempt(String(card.id), card.word, level, isCorrect, 'keyboard').then(async (progress) => {
         if (progress) {
           setWordProgress(progress);
           if (isCorrect) {

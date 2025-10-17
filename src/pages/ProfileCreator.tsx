@@ -8,7 +8,7 @@ export function ProfileCreator() {
   const navigate = useNavigate();
   const { setCurrentUser } = useUser();
   const [name, setName] = useState('');
-  const [selectedAvatar, setSelectedAvatar] = useState(AVATAR_OPTIONS[0]);
+  const [selectedAvatar, setSelectedAvatar] = useState<string>(AVATAR_OPTIONS[0]);
   const [selectedColor, setSelectedColor] = useState(THEME_COLORS[0]);
   const [isCreating, setIsCreating] = useState(false);
   const [error, setError] = useState('');
@@ -140,12 +140,12 @@ export function ProfileCreator() {
                       : 'hover:bg-gray-50'
                   }`}
                   style={{
-                    ringColor: color.value,
+                    '--tw-ring-color': color.value,
                     backgroundColor:
                       selectedColor.value === color.value
                         ? `${color.value}20`
                         : 'transparent',
-                  }}
+                  } as React.CSSProperties}
                 >
                   <div
                     className="w-8 h-8 rounded-full flex items-center justify-center text-lg"

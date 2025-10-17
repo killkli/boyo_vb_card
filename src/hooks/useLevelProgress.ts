@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useUser } from '../contexts/UserContext';
 import { getDB } from '../utils/db';
-import type { WordProgress } from '../types/learning';
 
 interface LevelProgress {
   level: number;
