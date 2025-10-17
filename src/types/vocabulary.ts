@@ -1,5 +1,10 @@
 // TypeScript interfaces for vocabulary data
 
+export interface ExampleSentence {
+  english: string;
+  chinese: string;
+}
+
 export interface VocabularyWord {
   word: string;
   meaning: string;
@@ -9,6 +14,7 @@ export interface VocabularyWord {
   filename: string;
   filepath: string;
   success: boolean;
+  examples?: ExampleSentence[];
 }
 
 export interface LevelManifest {
@@ -33,4 +39,5 @@ export interface FlashCardData {
   imagePath: string;
   level: number;
   id: number;
+  examples?: ExampleSentence[];
 }

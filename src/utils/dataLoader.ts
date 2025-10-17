@@ -54,6 +54,7 @@ export function toFlashCardData(word: any): FlashCardData {
     imagePath: `${import.meta.env.BASE_URL}data/level_${word.level}/${word.filename}`,
     level: word.level,
     id: word.id,
+    examples: word.examples,
   };
 }
 

@@ -14,7 +14,21 @@
       "id": 407,
       "filename": "0407_husband.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0407_husband.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mother's husband works in a big office.",
+          "chinese": "我媽媽的丈夫在一間大辦公室工作。"
+        },
+        {
+          "english": "He wants to be a loving husband in the future.",
+          "chinese": "他希望未來能成為一位有愛的丈夫。"
+        },
+        {
+          "english": "They have been husband and wife for ten years.",
+          "chinese": "他們已經當了十年的夫妻。"
+        }
+      ]
     },
     {
       "word": "wife",
@@ -24,7 +38,21 @@
       "id": 408,
       "filename": "0408_wife.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0408_wife.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Mr. Wang's wife always bakes delicious cookies for their children.",
+          "chinese": "王先生的太太總是為他們的孩子烤美味的餅乾。"
+        },
+        {
+          "english": "He often buys flowers because he loves his wife very much.",
+          "chinese": "他經常買花，因為他非常愛他的妻子。"
+        },
+        {
+          "english": "My father and his wife always enjoy walking together in the park.",
+          "chinese": "我的爸爸和他的太太總是喜歡一起在公園散步。"
+        }
+      ]
     },
     {
       "word": "housewife",
@@ -34,7 +62,21 @@
       "id": 409,
       "filename": "0409_housewife.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0409_housewife.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My aunt became a housewife after her children were born.",
+          "chinese": "我的阿姨在孩子出生後就成了家庭主婦。"
+        },
+        {
+          "english": "A good housewife manages the home and cares for her family well.",
+          "chinese": "一位好的家庭主婦能把家務打理好，並照顧好家人。"
+        },
+        {
+          "english": "Being a housewife is not easy; it requires lots of effort every day.",
+          "chinese": "當家庭主婦不容易；它每天都需要付出很多努力。"
+        }
+      ]
     },
     {
       "word": "Miss",
@@ -44,7 +86,21 @@
       "id": 410,
       "filename": "0410_Miss.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0410_Miss.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Good morning, Miss Lin. How are you today?",
+          "chinese": "早安，林小姐。您今天好嗎？"
+        },
+        {
+          "english": "Miss Chen is our new English teacher this year.",
+          "chinese": "陳小姐是我們今年的新英文老師。"
+        },
+        {
+          "english": "Could you please ask Miss Lee to come here?",
+          "chinese": "您可以請李小姐過來這裡嗎？"
+        }
+      ]
     },
     {
       "word": "thirteen",
@@ -54,7 +110,21 @@
       "id": 411,
       "filename": "0411_thirteen.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0411_thirteen.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My brother will be thirteen next month.",
+          "chinese": "我哥哥下個月就十三歲了。"
+        },
+        {
+          "english": "We need thirteen chairs for the party.",
+          "chinese": "我們派對需要十三張椅子。"
+        },
+        {
+          "english": "This book has thirteen interesting chapters.",
+          "chinese": "這本書有十三個有趣的章節。"
+        }
+      ]
     },
     {
       "word": "fourteen",
@@ -64,7 +134,21 @@
       "id": 412,
       "filename": "0412_fourteen.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0412_fourteen.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The library has fourteen new English books.",
+          "chinese": "圖書館有十四本新的英文書。"
+        },
+        {
+          "english": "My brother will be fourteen years old next year.",
+          "chinese": "我哥哥明年就十四歲了。"
+        },
+        {
+          "english": "Please open your textbook to page fourteen.",
+          "chinese": "請把課本翻到第十四頁。"
+        }
+      ]
     },
     {
       "word": "fifteen",
@@ -74,7 +158,21 @@
       "id": 413,
       "filename": "0413_fifteen.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0413_fifteen.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My sister will be fifteen years old next month.",
+          "chinese": "我的妹妹下個月就十五歲了。"
+        },
+        {
+          "english": "There are fifteen students in my English class today.",
+          "chinese": "今天我的英文課有十五個學生。"
+        },
+        {
+          "english": "The train will arrive in fifteen minutes, so hurry up!",
+          "chinese": "火車十五分鐘後就會到，所以快點！"
+        }
+      ]
     },
     {
       "word": "sixteen",
@@ -84,7 +182,21 @@
       "id": 414,
       "filename": "0414_sixteen.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0414_sixteen.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My sister is sixteen years old this year.",
+          "chinese": "我的姐姐今年十六歲。"
+        },
+        {
+          "english": "There were sixteen students at the party last night.",
+          "chinese": "昨晚派對上有十六位學生。"
+        },
+        {
+          "english": "If you are sixteen, you can get a part-time job.",
+          "chinese": "如果你十六歲，就可以去打工。"
+        }
+      ]
     },
     {
       "word": "seventeen",
@@ -94,7 +206,21 @@
       "id": 415,
       "filename": "0415_seventeen.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0415_seventeen.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My older brother is seventeen years old now.",
+          "chinese": "我哥哥現在十七歲了。"
+        },
+        {
+          "english": "There are seventeen books on the shelf.",
+          "chinese": "書架上有十七本書。"
+        },
+        {
+          "english": "We waited for seventeen minutes at the bus stop.",
+          "chinese": "我們在公車站等了十七分鐘。"
+        }
+      ]
     },
     {
       "word": "eighteen",
@@ -104,7 +230,21 @@
       "id": 416,
       "filename": "0416_eighteen.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0416_eighteen.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My older brother will be eighteen years old next month.",
+          "chinese": "我的哥哥下個月就十八歲了。"
+        },
+        {
+          "english": "There are eighteen students in our English class.",
+          "chinese": "我們班上有十八位學生。"
+        },
+        {
+          "english": "The store closes at eighteen o'clock every day.",
+          "chinese": "這家商店每天在十八點關門。"
+        }
+      ]
     },
     {
       "word": "nineteen",
@@ -114,7 +254,21 @@
       "id": 417,
       "filename": "0417_nineteen.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0417_nineteen.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My dad caught nineteen fish this morning.",
+          "chinese": "我爸爸今天早上捕獲了十九條魚。"
+        },
+        {
+          "english": "My cousin is nineteen years old now.",
+          "chinese": "我表哥/表姊現在十九歲了。"
+        },
+        {
+          "english": "Our team scored nineteen points in the game.",
+          "chinese": "我們隊伍在那場比賽得了十九分。"
+        }
+      ]
     },
     {
       "word": "twenty",
@@ -124,7 +278,21 @@
       "id": 418,
       "filename": "0418_twenty.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0418_twenty.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "There are twenty students in our English class.",
+          "chinese": "我們英語課有二十個學生。"
+        },
+        {
+          "english": "My aunt will be twenty years old next year.",
+          "chinese": "我阿姨明年就二十歲了。"
+        },
+        {
+          "english": "We need about twenty minutes to walk to the park.",
+          "chinese": "我們大約需要二十分鐘才能走到公園。"
+        }
+      ]
     },
     {
       "word": "thirty",
@@ -134,7 +302,21 @@
       "id": 419,
       "filename": "0419_thirty.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0419_thirty.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "There are thirty students in our class.",
+          "chinese": "我們班有三十位學生。"
+        },
+        {
+          "english": "The show will start at seven thirty.",
+          "chinese": "表演將在七點半開始。"
+        },
+        {
+          "english": "It takes about thirty minutes to walk home.",
+          "chinese": "走路回家大約需要三十分鐘。"
+        }
+      ]
     },
     {
       "word": "forty",
@@ -144,7 +326,21 @@
       "id": 420,
       "filename": "0420_forty.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0420_forty.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mother will be forty years old next month.",
+          "chinese": "我媽媽下個月就四十歲了。"
+        },
+        {
+          "english": "We need forty colorful balloons for the party.",
+          "chinese": "我們需要四十顆彩色氣球來開派對。"
+        },
+        {
+          "english": "The bus ride usually takes forty minutes to get home.",
+          "chinese": "搭公車回家通常需要四十分鐘。"
+        }
+      ]
     },
     {
       "word": "fifty",
@@ -154,7 +350,21 @@
       "id": 421,
       "filename": "0421_fifty.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0421_fifty.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "There are fifty students in my class, and they often play sports together.",
+          "chinese": "我的班上有五十位學生，而且他們經常一起運動。"
+        },
+        {
+          "english": "My grandma will be fifty next year, and she plans a big party.",
+          "chinese": "我奶奶明年就五十歲了，她計畫辦一個大型派對。"
+        },
+        {
+          "english": "This book costs fifty NT dollars, so it's quite cheap for students.",
+          "chinese": "這本書要五十元新台幣，所以對學生來說相當便宜。"
+        }
+      ]
     },
     {
       "word": "sixty",
@@ -164,7 +374,21 @@
       "id": 422,
       "filename": "0422_sixty.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0422_sixty.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The teacher has sixty books for the whole class.",
+          "chinese": "老師有六十本書給全班。"
+        },
+        {
+          "english": "My grandfather will turn sixty next month.",
+          "chinese": "我的祖父下個月就六十歲了。"
+        },
+        {
+          "english": "He got sixty points on the math test yesterday.",
+          "chinese": "他昨天數學考試得了六十分。"
+        }
+      ]
     },
     {
       "word": "seventy",
@@ -174,7 +398,21 @@
       "id": 423,
       "filename": "0423_seventy.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0423_seventy.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I read seventy pages of the book yesterday.",
+          "chinese": "我昨天讀了這本書的七十頁。"
+        },
+        {
+          "english": "My grandma will be seventy years old next year.",
+          "chinese": "我奶奶明年就七十歲了。"
+        },
+        {
+          "english": "We need seventy points, and the exam is very difficult.",
+          "chinese": "我們需要七十分，而且這次考試很難。"
+        }
+      ]
     },
     {
       "word": "eighty",
@@ -184,7 +422,21 @@
       "id": 424,
       "filename": "0424_eighty.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0424_eighty.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Eighty students attended the English club meeting yesterday.",
+          "chinese": "八十位學生昨天參加了英文社團會議。"
+        },
+        {
+          "english": "My grandmother will be eighty next month.",
+          "chinese": "我奶奶下個月就八十歲了。"
+        },
+        {
+          "english": "The new computer game costs eighty dollars.",
+          "chinese": "這個新的電腦遊戲要價八十元。"
+        }
+      ]
     },
     {
       "word": "ninety",
@@ -194,7 +446,21 @@
       "id": 425,
       "filename": "0425_ninety.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0425_ninety.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Our school has ninety classrooms, and they are all new.",
+          "chinese": "我們學校有九十間教室，而且它們都是新的。"
+        },
+        {
+          "english": "He studied hard and got ninety on his math test.",
+          "chinese": "他努力讀書，數學考試得了九十分。"
+        },
+        {
+          "english": "The store will open in ninety minutes, so we have to wait.",
+          "chinese": "商店將在九十分鐘後開門，所以我們必須等待。"
+        }
+      ]
     },
     {
       "word": "thousand",
@@ -204,7 +470,21 @@
       "id": 426,
       "filename": "0426_thousand.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0426_thousand.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "There are about one thousand books in the school library.",
+          "chinese": "學校圖書館裡大約有一千本書。"
+        },
+        {
+          "english": "Thousands of people visit the museum every year.",
+          "chinese": "每年有數千人參觀這間博物館。"
+        },
+        {
+          "english": "The famous singer sold over a thousand tickets quickly.",
+          "chinese": "這位著名歌手很快就賣出了一千多張門票。"
+        }
+      ]
     },
     {
       "word": "number",
@@ -214,7 +494,21 @@
       "id": 427,
       "filename": "0427_number.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0427_number.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The number of students in our class is twenty-five.",
+          "chinese": "我們班的學生人數是二十五。"
+        },
+        {
+          "english": "What is your favorite number between one and ten?",
+          "chinese": "你最喜歡一到十之間的哪個數字？"
+        },
+        {
+          "english": "What is your phone number? I want to call you.",
+          "chinese": "你的電話號碼是什麼？我想打電話給你。"
+        }
+      ]
     },
     {
       "word": "workbook",
@@ -224,7 +518,21 @@
       "id": 428,
       "filename": "0428_workbook.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0428_workbook.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I need to finish my English workbook tonight.",
+          "chinese": "我今晚需要寫完我的英文作業本。"
+        },
+        {
+          "english": "The teacher asked us to open our math workbooks.",
+          "chinese": "老師請我們打開數學作業本。"
+        },
+        {
+          "english": "This new science workbook has many interesting pictures.",
+          "chinese": "這本新的自然作業本有很多有趣的圖片。"
+        }
+      ]
     },
     {
       "word": "brush",
@@ -234,7 +542,21 @@
       "id": 429,
       "filename": "0429_brush.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0429_brush.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "You should brush your teeth twice a day.",
+          "chinese": "你應該一天刷牙兩次。"
+        },
+        {
+          "english": "I need a new brush to comb my hair.",
+          "chinese": "我需要一把新髮刷來梳頭髮。"
+        },
+        {
+          "english": "She quickly brushed the dirt off her new shoes.",
+          "chinese": "她很快地把新鞋上的髒污刷掉了。"
+        }
+      ]
     },
     {
       "word": "cellphone",
@@ -244,7 +566,21 @@
       "id": 430,
       "filename": "0430_cellphone.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0430_cellphone.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My sister just got a new cellphone for her birthday.",
+          "chinese": "我姐姐生日時剛拿到一支新手機。"
+        },
+        {
+          "english": "We often use our cellphones to play games or send messages.",
+          "chinese": "我們經常使用手機玩遊戲或傳訊息。"
+        },
+        {
+          "english": "Students are not allowed to use cellphones during class.",
+          "chinese": "學生在課堂上不可以使用手機。"
+        }
+      ]
     },
     {
       "word": "scooter",
@@ -254,7 +590,21 @@
       "id": 431,
       "filename": "0431_scooter.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0431_scooter.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My little brother loves to ride his new scooter in the park.",
+          "chinese": "我的小弟弟喜歡在公園裡騎他的新踏板車。"
+        },
+        {
+          "english": "Many people in Taiwan ride a scooter to go to work.",
+          "chinese": "在台灣，很多人騎摩托車去上班。"
+        },
+        {
+          "english": "My dad rides a big scooter to take me to school.",
+          "chinese": "我爸爸騎一輛大摩托車載我去學校。"
+        }
+      ]
     },
     {
       "word": "party",
@@ -264,7 +614,21 @@
       "id": 432,
       "filename": "0432_party.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0432_party.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Let's have a small party at my house this weekend.",
+          "chinese": "我們這個週末在我家辦個小派對吧。"
+        },
+        {
+          "english": "Everyone danced happily at the Christmas party last night.",
+          "chinese": "昨晚大家在聖誕派對上快樂地跳舞。"
+        },
+        {
+          "english": "Are you going to the school party next Friday?",
+          "chinese": "你下週五會去學校派對嗎？"
+        }
+      ]
     },
     {
       "word": "gift",
@@ -274,7 +638,21 @@
       "id": 433,
       "filename": "0433_gift.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0433_gift.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My best friend gave me a special gift for Christmas.",
+          "chinese": "我的好朋友送我一份特別的聖誕禮物。"
+        },
+        {
+          "english": "He has a natural gift for playing the piano beautifully.",
+          "chinese": "他有彈奏優美鋼琴的天賦。"
+        },
+        {
+          "english": "We carefully wrapped the gift before the party started.",
+          "chinese": "派對開始前，我們仔細地把禮物包好。"
+        }
+      ]
     },
     {
       "word": "noon",
@@ -284,7 +662,21 @@
       "id": 434,
       "filename": "0434_noon.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0434_noon.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We will meet at the park at noon.",
+          "chinese": "我們中午會在公園見面。"
+        },
+        {
+          "english": "It often gets very hot around noon in the summer.",
+          "chinese": "夏天中午左右通常會非常熱。"
+        },
+        {
+          "english": "Our school gives us a long lunch break at noon.",
+          "chinese": "我們學校中午會給我們很長的午休時間。"
+        }
+      ]
     },
     {
       "word": "break",
@@ -294,7 +686,21 @@
       "id": 435,
       "filename": "0435_break.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0435_break.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "If you drop the glass, it will break into pieces.",
+          "chinese": "如果你掉了玻璃杯，它會碎成碎片。"
+        },
+        {
+          "english": "He accidentally broke the pencil while writing.",
+          "chinese": "他寫字時不小心把鉛筆折斷了。"
+        },
+        {
+          "english": "She hopes to break the school's high jump record.",
+          "chinese": "她希望能打破學校的跳高紀錄。"
+        }
+      ]
     },
     {
       "word": "pretty",
@@ -304,7 +710,21 @@
       "id": 436,
       "filename": "0436_pretty.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0436_pretty.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Your new hairstyle looks pretty on you, Jenny.",
+          "chinese": "Jenny，你的新髮型在你身上看起來很漂亮。"
+        },
+        {
+          "english": "Mom bought a pretty vase to put flowers in our living room.",
+          "chinese": "媽媽買了一個漂亮的花瓶放在我們客廳。"
+        },
+        {
+          "english": "My little sister drew a pretty picture of a colorful rainbow.",
+          "chinese": "我妹妹畫了一幅漂亮的彩色彩虹圖。"
+        }
+      ]
     },
     {
       "word": "able",
@@ -314,7 +734,21 @@
       "id": 437,
       "filename": "0437_able.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0437_able.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "You will be able to find the library easily.",
+          "chinese": "你將能夠輕易地找到圖書館。"
+        },
+        {
+          "english": "After studying hard, he was able to pass the test.",
+          "chinese": "努力讀書後，他能夠通過考試。"
+        },
+        {
+          "english": "My teacher is a very able person and always helps us.",
+          "chinese": "我的老師是一個很有能力的人，而且總是幫助我們。"
+        }
+      ]
     },
     {
       "word": "young",
@@ -324,7 +758,21 @@
       "id": 438,
       "filename": "0438_young.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0438_young.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My little sister is still very young and loves to play.",
+          "chinese": "我的小妹妹還很年輕，而且喜歡玩耍。"
+        },
+        {
+          "english": "A young tree needs much water to grow tall.",
+          "chinese": "一棵年輕的樹需要很多水才能長高。"
+        },
+        {
+          "english": "He is too young to understand such a complex problem.",
+          "chinese": "他太年輕了，無法理解這麼複雜的問題。"
+        }
+      ]
     },
     {
       "word": "full",
@@ -335,7 +783,21 @@
       "filename": null,
       "filepath": null,
       "success": false,
-      "error": "API Error: {\"error\":{\"code\":500,\"message\":\"Internal error encountered.\",\"status\":\"INTERNAL\"}}"
+      "error": "API Error: {\"error\":{\"code\":500,\"message\":\"Internal error encountered.\",\"status\":\"INTERNAL\"}}",
+      "examples": [
+        {
+          "english": "After lunch, I felt full.",
+          "chinese": "午餐後，我覺得很飽。"
+        },
+        {
+          "english": "The box is full of toys.",
+          "chinese": "這個盒子裡裝滿了玩具。"
+        },
+        {
+          "english": "The full moon is beautiful tonight.",
+          "chinese": "今晚的滿月很漂亮。"
+        }
+      ]
     },
     {
       "word": "lucky",
@@ -345,7 +807,21 @@
       "id": 440,
       "filename": "0440_lucky.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0440_lucky.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I feel very lucky to have you as my good friend.",
+          "chinese": "我很幸運有你這樣的好朋友。"
+        },
+        {
+          "english": "It was lucky that we found the lost puppy quickly.",
+          "chinese": "我們很幸運，很快就找到了走失的小狗。"
+        },
+        {
+          "english": "You are lucky to have a long holiday next week.",
+          "chinese": "你很幸運，下週有一個很長的假期。"
+        }
+      ]
     },
     {
       "word": "so",
@@ -355,7 +831,21 @@
       "id": 441,
       "filename": "0441_so.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0441_so.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "This movie is so exciting, I want to watch it again!",
+          "chinese": "這部電影如此精彩，我好想再看一次！"
+        },
+        {
+          "english": "My little sister sings so sweetly, everyone loves her voice.",
+          "chinese": "我妹妹唱歌如此甜美，大家都喜歡她的聲音。"
+        },
+        {
+          "english": "There was so much rain last night, the streets were flooded this morning.",
+          "chinese": "昨晚的雨如此大，今早街道都淹水了。"
+        }
+      ]
     },
     {
       "word": "really",
@@ -365,7 +855,21 @@
       "id": 442,
       "filename": "0442_really.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0442_really.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "This really exciting game starts at eight o'clock tonight.",
+          "chinese": "這個真地很刺激的遊戲今晚八點開始。"
+        },
+        {
+          "english": "Did you really see a shooting star last night?",
+          "chinese": "你昨晚真的看到流星了嗎？"
+        },
+        {
+          "english": "I really want to go hiking with my friends this weekend.",
+          "chinese": "我真地很想這個週末和朋友去健行。"
+        }
+      ]
     },
     {
       "word": "during",
@@ -375,7 +879,21 @@
       "id": 443,
       "filename": "0443_during.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0443_during.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "It often rains during the summer in Taiwan.",
+          "chinese": "臺灣的夏天期間常常下雨。"
+        },
+        {
+          "english": "Please don't use your phone during the class.",
+          "chinese": "請在課堂期間不要使用你的手機。"
+        },
+        {
+          "english": "We learned a lot during our trip to Kenting.",
+          "chinese": "我們在墾丁旅行期間學到很多東西。"
+        }
+      ]
     },
     {
       "word": "near",
@@ -385,7 +903,21 @@
       "id": 444,
       "filename": "0444_near.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0444_near.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My house is near the park, so I often go there.",
+          "chinese": "我的家在公園附近，所以我常常去那裡。"
+        },
+        {
+          "english": "Please don't stand too near the road.",
+          "chinese": "請不要站在離馬路太近的地方。"
+        },
+        {
+          "english": "Her birthday is near, so she is very excited.",
+          "chinese": "她的生日快到了，所以她很興奮。"
+        }
+      ]
     },
     {
       "word": "guess",
@@ -395,7 +927,21 @@
       "id": 445,
       "filename": "0445_guess.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0445_guess.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Can you guess how many candies are in the jar?",
+          "chinese": "你能猜猜看罐子裡有多少糖果嗎？"
+        },
+        {
+          "english": "I guess we should leave now before it gets dark.",
+          "chinese": "我猜我們現在應該走了，免得天黑。"
+        },
+        {
+          "english": "Guess what! I got an A on my math test.",
+          "chinese": "猜猜看！我的數學考試得了A。"
+        }
+      ]
     },
     {
       "word": "dining room",
@@ -405,7 +951,21 @@
       "id": 446,
       "filename": "0446_dining_room.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0446_dining_room.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Our family eats all meals in the dining room.",
+          "chinese": "我們家在飯廳吃所有的餐點。"
+        },
+        {
+          "english": "There is a big table and six chairs in the dining room.",
+          "chinese": "飯廳裡有一張大桌子和六張椅子。"
+        },
+        {
+          "english": "The dining room is next to the kitchen.",
+          "chinese": "飯廳在廚房旁邊。"
+        }
+      ]
     },
     {
       "word": "balcony",
@@ -415,7 +975,21 @@
       "id": 447,
       "filename": "0447_balcony.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0447_balcony.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Our new apartment has a big balcony where we can relax.",
+          "chinese": "我們的新公寓有一個大陽臺，我們可以在那裡放鬆。"
+        },
+        {
+          "english": "My mom likes to grow flowers on the sunny balcony.",
+          "chinese": "我媽媽喜歡在陽光充足的陽臺上種花。"
+        },
+        {
+          "english": "From the hotel balcony, you can see the beautiful ocean.",
+          "chinese": "從飯店陽臺，你可以看到美麗的海洋。"
+        }
+      ]
     },
     {
       "word": "koala",
@@ -425,7 +999,21 @@
       "id": 448,
       "filename": "0448_koala.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0448_koala.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Koalas live in trees and eat eucalyptus leaves in Australia.",
+          "chinese": "無尾熊住在樹上，並在澳洲吃尤加利葉。"
+        },
+        {
+          "english": "A baby koala is very cute, and it often rides on its mother's back.",
+          "chinese": "小無尾熊很可愛，牠們經常趴在媽媽的背上。"
+        },
+        {
+          "english": "We saw a sleeping koala hanging on a tree branch at the zoo yesterday.",
+          "chinese": "昨天我們在動物園看到一隻睡著的無尾熊掛在樹枝上。"
+        }
+      ]
     },
     {
       "word": "hippo",
@@ -435,7 +1023,21 @@
       "id": 449,
       "filename": "0449_hippo.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0449_hippo.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "A hippo is a large, powerful animal that lives near rivers.",
+          "chinese": "河馬是一種生活在河流附近，體型龐大又強壯的動物。"
+        },
+        {
+          "english": "The baby hippo swam playfully in the zoo's big pond.",
+          "chinese": "小河馬在動物園的大池塘裡玩耍地游泳。"
+        },
+        {
+          "english": "We watched a giant hippo eat grass by the lake's edge.",
+          "chinese": "我們看到一隻巨大的河馬在湖邊吃草。"
+        }
+      ]
     },
     {
       "word": "zebra",
@@ -445,7 +1047,21 @@
       "id": 450,
       "filename": "0450_zebra.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0450_zebra.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "A zebra has black and white stripes all over its body.",
+          "chinese": "斑馬全身都有黑色和白色的條紋。"
+        },
+        {
+          "english": "We saw a zebra eating grass happily at the zoo yesterday.",
+          "chinese": "我們昨天在動物園看到一隻斑馬開心地吃草。"
+        },
+        {
+          "english": "The baby zebra followed its mother closely across the savanna.",
+          "chinese": "小斑馬緊緊跟著媽媽穿越大草原。"
+        }
+      ]
     },
     {
       "word": "kangaroo",
@@ -455,7 +1071,21 @@
       "id": 451,
       "filename": "0451_kangaroo.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0451_kangaroo.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "A kangaroo can jump far with its strong legs.",
+          "chinese": "袋鼠可以用牠強壯的腿跳得很遠。"
+        },
+        {
+          "english": "The mother kangaroo carries her baby safely in her pouch.",
+          "chinese": "袋鼠媽媽把牠的寶寶安全地載在育兒袋裡。"
+        },
+        {
+          "english": "Kangaroos are large animals that mostly live in Australia.",
+          "chinese": "袋鼠是主要居住在澳洲的大型動物。"
+        }
+      ]
     },
     {
       "word": "person",
@@ -465,7 +1095,21 @@
       "id": 452,
       "filename": "0452_person.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0452_person.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mother is a very caring person and always helps others.",
+          "chinese": "我的媽媽是一個非常有愛心的人，總是幫助別人。"
+        },
+        {
+          "english": "The police are looking for the missing person from the accident.",
+          "chinese": "警察正在尋找那場意外中失蹤的人。"
+        },
+        {
+          "english": "Every person should try their best to protect our environment.",
+          "chinese": "每個人都應該盡力保護我們的環境。"
+        }
+      ]
     },
     {
       "word": "people",
@@ -475,7 +1119,21 @@
       "id": 453,
       "filename": "0453_people.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0453_people.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Many people like to eat yummy food.",
+          "chinese": "許多人喜歡吃美味的食物。"
+        },
+        {
+          "english": "The people want peace in the world.",
+          "chinese": "人們希望世界和平。"
+        },
+        {
+          "english": "Ancient peoples built many amazing temples.",
+          "chinese": "古代的人們建造了許多令人驚嘆的廟宇。"
+        }
+      ]
     },
     {
       "word": "man",
@@ -485,7 +1143,21 @@
       "id": 454,
       "filename": "0454_man.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0454_man.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "A kind man helped the old lady across the street.",
+          "chinese": "一位好心的男人幫助那位老太太過馬路。"
+        },
+        {
+          "english": "Do you know the man who is standing over there?",
+          "chinese": "你認識站在那邊的那個男人嗎？"
+        },
+        {
+          "english": "The young man hopes to travel around the world someday.",
+          "chinese": "那個年輕男人希望有朝一日能環遊世界。"
+        }
+      ]
     },
     {
       "word": "woman",
@@ -495,7 +1167,21 @@
       "id": 455,
       "filename": "0455_woman.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0455_woman.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My mother is a strong and independent woman.",
+          "chinese": "我的媽媽是一位堅強且獨立的女人。"
+        },
+        {
+          "english": "The woman behind the counter smiled at me.",
+          "chinese": "櫃檯後面的那位女人對我笑了。"
+        },
+        {
+          "english": "The woman who lives next door always bakes delicious cookies.",
+          "chinese": "住在我家隔壁的那個女人總是烤美味的餅乾。"
+        }
+      ]
     },
     {
       "word": "center",
@@ -505,7 +1191,21 @@
       "id": 456,
       "filename": "0456_center.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0456_center.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The post office is in the center of the town.",
+          "chinese": "郵局在城鎮的中心。"
+        },
+        {
+          "english": "Students often go to the learning center after school.",
+          "chinese": "學生放學後常去學習中心。"
+        },
+        {
+          "english": "He always tries to hit the center of the target.",
+          "chinese": "他總是努力射中靶心。"
+        }
+      ]
     },
     {
       "word": "future",
@@ -515,7 +1215,21 @@
       "id": 457,
       "filename": "0457_future.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0457_future.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We should plan for a better future.",
+          "chinese": "我們應該為更好的未來做計畫。"
+        },
+        {
+          "english": "What do you want to be in the future?",
+          "chinese": "你未來想成為什麼？"
+        },
+        {
+          "english": "She hopes to have a bright future.",
+          "chinese": "她希望擁有光明的未來。"
+        }
+      ]
     },
     {
       "word": "age",
@@ -525,7 +1239,21 @@
       "id": 458,
       "filename": "0458_age.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0458_age.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "At what age do children usually start school?",
+          "chinese": "小孩通常幾歲開始上學？"
+        },
+        {
+          "english": "We are now living in the digital age.",
+          "chinese": "我們現在正生活在數位時代。"
+        },
+        {
+          "english": "He began to age after working for many years.",
+          "chinese": "工作多年後，他開始變老了。"
+        }
+      ]
     },
     {
       "word": "minute",
@@ -535,7 +1263,21 @@
       "id": 459,
       "filename": "0459_minute.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0459_minute.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The class will start in five minutes.",
+          "chinese": "課程將在五分鐘後開始。"
+        },
+        {
+          "english": "Please give me a minute to think about it.",
+          "chinese": "請給我一分鐘時間思考一下。"
+        },
+        {
+          "english": "Every minute counts when you have a test.",
+          "chinese": "當你考試時，每一分鐘都很重要。"
+        }
+      ]
     },
     {
       "word": "Christmas",
@@ -545,7 +1287,21 @@
       "id": 460,
       "filename": "0460_Christmas.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0460_Christmas.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Christmas is a happy holiday on December 25th.",
+          "chinese": "聖誕節是一個在十二月二十五日的快樂節日。"
+        },
+        {
+          "english": "I love Christmas, so I always help decorate the tree.",
+          "chinese": "我喜歡聖誕節，所以我總是幫忙裝飾聖誕樹。"
+        },
+        {
+          "english": "My family always celebrates Christmas together and exchanges gifts.",
+          "chinese": "我的家人總是一起慶祝聖誕節並交換禮物。"
+        }
+      ]
     },
     {
       "word": "bell",
@@ -555,7 +1311,21 @@
       "id": 461,
       "filename": "0461_bell.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0461_bell.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My cat has a small bell on its collar.",
+          "chinese": "我的貓項圈上有一個小鈴鐺。"
+        },
+        {
+          "english": "The school bell rings loudly when class is over.",
+          "chinese": "下課時，學校的鐘響得很響亮。"
+        },
+        {
+          "english": "I heard the doorbell ring just now.",
+          "chinese": "我剛剛聽到門鈴響了。"
+        }
+      ]
     },
     {
       "word": "turkey",
@@ -565,7 +1335,21 @@
       "id": 462,
       "filename": "0462_turkey.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0462_turkey.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "We saw a big turkey walking slowly on the farm.",
+          "chinese": "我們看到一隻大火雞在農場裡慢慢地走著。"
+        },
+        {
+          "english": "My family loves to eat roasted turkey on Thanksgiving.",
+          "chinese": "我的家人很喜歡在感恩節吃烤火雞。"
+        },
+        {
+          "english": "Do you know that turkeys can also fly short distances?",
+          "chinese": "你知道火雞也能飛短距離嗎？"
+        }
+      ]
     },
     {
       "word": "thing",
@@ -575,7 +1359,21 @@
       "id": 463,
       "filename": "0463_thing.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0463_thing.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I saw a strange thing in the park yesterday.",
+          "chinese": "我昨天在公園裡看到一個奇怪的東西。"
+        },
+        {
+          "english": "The most important thing is to be kind to others.",
+          "chinese": "最重要的事情是要對別人友善。"
+        },
+        {
+          "english": "Can you pass me that red thing on the table?",
+          "chinese": "你能把桌上那個紅色的東西遞給我嗎？"
+        }
+      ]
     },
     {
       "word": "glasses",
@@ -585,7 +1383,21 @@
       "id": 464,
       "filename": "0464_glasses.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0464_glasses.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My teacher wears glasses to help her read books clearly.",
+          "chinese": "我的老師戴眼鏡來幫助她清楚地閱讀書籍。"
+        },
+        {
+          "english": "Oh no! I left my glasses at home today.",
+          "chinese": "糟了！我今天把眼鏡忘在家裡了。"
+        },
+        {
+          "english": "He bought new sunglasses for his summer trip.",
+          "chinese": "他買了新太陽眼鏡去他的夏日旅行。"
+        }
+      ]
     },
     {
       "word": "belt",
@@ -595,7 +1407,21 @@
       "id": 465,
       "filename": "0465_belt.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0465_belt.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "He always wears a leather belt with his school uniform.",
+          "chinese": "他總是穿校服時繫皮帶。"
+        },
+        {
+          "english": "Please tighten your belt so your pants don't fall down.",
+          "chinese": "請把你的皮帶繫緊，這樣你的褲子才不會掉下來。"
+        },
+        {
+          "english": "My favorite belt is black, but it's a little old now.",
+          "chinese": "我最喜歡的皮帶是黑色的，但它現在有點舊了。"
+        }
+      ]
     },
     {
       "word": "think",
@@ -605,7 +1431,21 @@
       "id": 466,
       "filename": "0466_think.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0466_think.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I think learning English is very important for us.",
+          "chinese": "我認為學英文對我們來說很重要。"
+        },
+        {
+          "english": "What are you thinking about? You look so serious.",
+          "chinese": "你在想什麼？你看起來很嚴肅。"
+        },
+        {
+          "english": "My brother often thinks about his favorite video game.",
+          "chinese": "我哥哥常常在想他最喜歡的電玩遊戲。"
+        }
+      ]
     },
     {
       "word": "quiet",
@@ -615,7 +1455,21 @@
       "id": 467,
       "filename": "0467_quiet.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0467_quiet.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The library is always quiet, so I can study well.",
+          "chinese": "圖書館總是安靜的，所以我可以好好學習。"
+        },
+        {
+          "english": "The students became quiet when the bell rang.",
+          "chinese": "當鐘聲響起時，學生們都安靜下來了。"
+        },
+        {
+          "english": "My little brother is very quiet and loves to read books.",
+          "chinese": "我的小弟弟很安靜，他喜歡看書。"
+        }
+      ]
     },
     {
       "word": "interesting",
@@ -625,7 +1479,21 @@
       "id": 468,
       "filename": "0468_interesting.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0468_interesting.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Science class is always interesting when our teacher tells stories.",
+          "chinese": "當我們的老師講故事時，科學課總是很有趣。"
+        },
+        {
+          "english": "Going to the night market is always an interesting experience for me.",
+          "chinese": "對我來說，去夜市總是一種有趣的體驗。"
+        },
+        {
+          "english": "It is interesting to learn about different countries and their cultures.",
+          "chinese": "了解不同的國家和他們的文化是很有趣的。"
+        }
+      ]
     },
     {
       "word": "favorite",
@@ -635,7 +1503,21 @@
       "id": 469,
       "filename": "0469_favorite.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0469_favorite.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My favorite animal is a cat because it is so soft.",
+          "chinese": "我的最愛動物是貓，因為牠很柔軟。"
+        },
+        {
+          "english": "She picked the blue one as her favorite.",
+          "chinese": "她選擇藍色的那一個作為她最喜愛的。"
+        },
+        {
+          "english": "Playing basketball is my favorite sport to play.",
+          "chinese": "打籃球是我最喜愛的運動。"
+        }
+      ]
     },
     {
       "word": "any",
@@ -645,7 +1527,21 @@
       "id": 470,
       "filename": "0470_any.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0470_any.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Do you have any brothers or sisters?",
+          "chinese": "你有任何兄弟姐妹嗎？"
+        },
+        {
+          "english": "I don't have any money right now.",
+          "chinese": "我現在沒有任何錢。"
+        },
+        {
+          "english": "You can take any bus to the museum.",
+          "chinese": "你可以搭乘任何一班公車去博物館。"
+        }
+      ]
     },
     {
       "word": "wait",
@@ -655,7 +1551,21 @@
       "id": 471,
       "filename": "0471_wait.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0471_wait.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "I often wait for my friend after school.",
+          "chinese": "我放學後常常等我的朋友。"
+        },
+        {
+          "english": "Please wait here until I come back.",
+          "chinese": "請在這裡等我回來。"
+        },
+        {
+          "english": "We had to wait a long time for the train yesterday.",
+          "chinese": "我們昨天等了很久的火車。"
+        }
+      ]
     },
     {
       "word": "worry",
@@ -665,7 +1575,21 @@
       "id": 472,
       "filename": "0472_worry.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0472_worry.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Don't worry, your test results will be good.",
+          "chinese": "別擔心，你的考試成績會很好的。"
+        },
+        {
+          "english": "My mom often worries about my health.",
+          "chinese": "我媽媽經常擔心我的健康。"
+        },
+        {
+          "english": "Losing my phone was a big worry for me.",
+          "chinese": "弄丟我的手機對我來說是個很大的煩惱。"
+        }
+      ]
     },
     {
       "word": "get",
@@ -675,7 +1599,21 @@
       "id": 473,
       "filename": "0473_get.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0473_get.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "My brother got a new toy for his birthday.",
+          "chinese": "我的弟弟生日時拿到一個新玩具。"
+        },
+        {
+          "english": "You should study hard to get good grades.",
+          "chinese": "你應該努力學習才能取得好成績。"
+        },
+        {
+          "english": "Can you please get me a glass of water?",
+          "chinese": "你可以幫我拿一杯水嗎？"
+        }
+      ]
     },
     {
       "word": "share",
@@ -685,7 +1623,21 @@
       "id": 474,
       "filename": "0474_share.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0474_share.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Please share your snacks with your friends during recess.",
+          "chinese": "請在下課時間和你的朋友分享你的點心。"
+        },
+        {
+          "english": "We should share our ideas about the project in class tomorrow.",
+          "chinese": "我們明天應該在課堂上分享我們對這個專案的想法。"
+        },
+        {
+          "english": "My grandmother loves to share her old stories with our family.",
+          "chinese": "我奶奶喜歡和我們家人分享她以前的故事。"
+        }
+      ]
     },
     {
       "word": "kick",
@@ -695,7 +1647,21 @@
       "id": 475,
       "filename": "0475_kick.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0475_kick.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The boy likes to kick the ball with his new shoes.",
+          "chinese": "那個男孩喜歡用他的新鞋踢球。"
+        },
+        {
+          "english": "The soccer player tried to kick the ball into the goal.",
+          "chinese": "那個足球員試圖把球踢進球門。"
+        },
+        {
+          "english": "My sister usually kicks off her shoes when she gets home.",
+          "chinese": "我姊姊通常在回家時會踢掉她的鞋子。"
+        }
+      ]
     },
     {
       "word": "remember",
@@ -705,7 +1671,21 @@
       "id": 476,
       "filename": "0476_remember.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0476_remember.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "Can you remember your new teacher's name?",
+          "chinese": "你記得你們新老師的名字嗎？"
+        },
+        {
+          "english": "Please remember to turn off the lights before you leave.",
+          "chinese": "離開前請記得關燈。"
+        },
+        {
+          "english": "She can still remember her first day at school.",
+          "chinese": "她仍然記得她上學的第一天。"
+        }
+      ]
     },
     {
       "word": "fight",
@@ -715,7 +1695,21 @@
       "id": 477,
       "filename": "0477_fight.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0477_fight.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The two boys started to fight on the playground.",
+          "chinese": "那兩個男孩在操場上開始打架。"
+        },
+        {
+          "english": "My brother and I often fight over little things.",
+          "chinese": "我哥哥和我經常為小事吵架。"
+        },
+        {
+          "english": "We must fight for what we believe is right.",
+          "chinese": "我們必須為我們認為正確的事情而奮鬥。"
+        }
+      ]
     },
     {
       "word": "shout",
@@ -725,7 +1719,21 @@
       "id": 478,
       "filename": "0478_shout.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0478_shout.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The girl likes to shout when she feels excited.",
+          "chinese": "這女孩在興奮時喜歡喊叫。"
+        },
+        {
+          "english": "Please don't shout at your brother in the house.",
+          "chinese": "請不要在家裡對你弟弟大聲喊叫。"
+        },
+        {
+          "english": "He had to shout for help after he fell down.",
+          "chinese": "他跌倒後不得不大聲呼救。"
+        }
+      ]
     },
     {
       "word": "behind",
@@ -735,7 +1743,21 @@
       "id": 479,
       "filename": "0479_behind.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0479_behind.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The boy hid behind the big tree.",
+          "chinese": "男孩躲在大樹後面。"
+        },
+        {
+          "english": "We must work hard so we don't fall behind.",
+          "chinese": "我們必須努力工作才不會落後。"
+        },
+        {
+          "english": "Don't leave your bag behind when you go.",
+          "chinese": "你走的時候不要把包包忘記帶走。"
+        }
+      ]
     },
     {
       "word": "front",
@@ -745,7 +1767,21 @@
       "id": 480,
       "filename": "0480_front.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0480_front.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "They sat in the front row during the movie.",
+          "chinese": "他們看電影時坐在前排。"
+        },
+        {
+          "english": "The bus driver sits at the front of the bus.",
+          "chinese": "公車司機坐在公車前面。"
+        },
+        {
+          "english": "There is a big tree in front of our house.",
+          "chinese": "我們家前面有一棵大樹。"
+        }
+      ]
     },
     {
       "word": "between",
@@ -755,7 +1791,21 @@
       "id": 481,
       "filename": "0481_between.png",
       "filepath": "/Users/johnchen/GitDev/boyo_vb_online/output/images/level_9/0481_between.png",
-      "success": true
+      "success": true,
+      "examples": [
+        {
+          "english": "The cat is sleeping between the two pillows.",
+          "chinese": "貓咪睡在兩個枕頭之間。"
+        },
+        {
+          "english": "My English class is between 8:00 AM and 9:00 AM.",
+          "chinese": "我的英文課在上午八點到上午九點之間。"
+        },
+        {
+          "english": "You must choose between the red one and the blue one.",
+          "chinese": "你必須在紅色和藍色之間做選擇。"
+        }
+      ]
     }
   ]
 }

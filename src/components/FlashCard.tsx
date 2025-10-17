@@ -211,6 +211,12 @@ export function FlashCard({ card, level, isFlipped, onFlip, isLoading = false }:
     speakText(card.word, 'en-US');
   }, [card.word]);
 
+  // Handle example sentence pronunciation
+  const handleSpeakExample = useCallback((e: React.MouseEvent, text: string) => {
+    e.stopPropagation();
+    speakText(text, 'en-US');
+  }, []);
+
   // Handle input mode toggle
   const toggleInputMode = useCallback((e: React.MouseEvent) => {
     e.stopPropagation();
@@ -523,31 +529,57 @@ export function FlashCard({ card, level, isFlipped, onFlip, isLoading = false }:
               </div>
             </div>
 
-            {/* 例句 (簡單範例) */}
-            <div className="bg-white rounded-lg shadow p-3 md:p-4">
-              <div className="flex items-start gap-2 md:gap-3">
-                <svg
-                  className="w-5 h-5 md:w-6 md:h-6 text-green-600 flex-shrink-0 mt-0.5"
-                  fill="currentColor"
-                  viewBox="0 0 20 20"
-                >
-                  <path
-                    fillRule="evenodd"
-                    d="M18 13V5a2 2 0 00-2-2H4a2 2 0 00-2 2v8a2 2 0 002 2h3l3 3 3-3h3a2 2 0 002-2zM5 7a1 1 0 011-1h8a1 1 0 110 2H6a1 1 0 01-1-1zm1 3a1 1 0 100 2h3a1 1 0 100-2H6z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-                <div className="flex-1 min-w-0">
-                  <h3 className="font-semibold text-gray-700 text-sm md:text-base mb-1 md:mb-2">📝 例句:</h3>
-                  <p className="text-gray-600 text-sm md:text-base italic mb-1 break-words">
-                    "I use <span className="font-semibold text-green-700">{card.word}</span> every day."
-                  </p>
-                  <p className="text-gray-500 text-xs md:text-sm break-words">
-                    「我每天都使用{card.meaning}」
-                  </p>
+            {/* 例句 */}
+            {card.examples && card.examples.length > 0 && (
+              <div className="bg-white rounded-lg shadow p-3 md:p-4">
+                <div className="flex items-start gap-2 md:gap-3">
+                  <svg
+                    className="w-5 h-5 md:w-6 md:h-6 text-green-600 flex-shrink-0 mt-0.5"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M18 13V5a2 2 0 00-2-2H4a2 2 0 00-2 2v8a2 2 0 002 2h3l3 3 3-3h3a2 2 0 002-2zM5 7a1 1 0 011-1h8a1 1 0 110 2H6a1 1 0 01-1-1zm1 3a1 1 0 100 2h3a1 1 0 100-2H6z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                  <div className="flex-1 min-w-0">
+                    <h3 className="font-semibold text-gray-700 text-sm md:text-base mb-2 md:mb-3">📝 例句:</h3>
+                    <div className="space-y-3 md:space-y-4">
+                      {card.examples.map((example, index) => (
+                        <div key={index} className="border-l-2 border-green-300 pl-3">
+                          <div
+                            className="flex items-start gap-2 cursor-pointer hover:bg-green-50 rounded p-1 transition-colors group"
+                            onClick={(e) => handleSpeakExample(e, example.english)}
+                            role="button"
+                            aria-label={`發音: ${example.english}`}
+                          >
+                            <button
+                              className="flex-shrink-0 mt-0.5 w-6 h-6 bg-green-500 hover:bg-green-600 rounded-full flex items-center justify-center transition-all opacity-70 group-hover:opacity-100"
+                              onClick={(e) => handleSpeakExample(e, example.english)}
+                              aria-label="播放例句"
+                            >
+                              <svg className="w-3 h-3 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z" />
+                              </svg>
+                            </button>
+                            <div className="flex-1 min-w-0">
+                              <p className="text-gray-700 text-sm md:text-base mb-1 break-words">
+                                {example.english}
+                              </p>
+                              <p className="text-gray-500 text-xs md:text-sm break-words">
+                                {example.chinese}
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
                 </div>
               </div>
-            </div>
+            )}
           </div>
 
           {/* Hint */}
